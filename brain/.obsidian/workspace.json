@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/agent cognition.md",
+                "file": "inbox/nova-psychology-email.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agent cognition"
+              "title": "nova-psychology-email"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "7868a5c22d1eb006",
   "lastOpenFiles": [
+    "system/agent cognition.md",
+    "inbox/nova-psychology-email.md",
+    "notes/Reddit JSON trick unlocks free structured data.md",
     "notes/what is the test for knowledge work.md",
     "notes/investment uncertainty Jan 2025.md",
     "notes/Marcel's investment thesis Jan 2025.md",
     "notes/AI will displace white collar workers within 5 years.md",
-    "system/agent cognition.md",
     "system/markdown files are graph databases.md",
     "mocs/wealth.md",
     "mocs/mind.md",
@@ -209,8 +211,6 @@
     "system/progressive disclosure reduces token waste.md",
     "system/filenames should be claims.md",
     "system/descriptions enable retrieval without loading.md",
-    "system/agents can bootstrap their own tools.md",
-    "system",
-    "mocs/life.md"
+    "system"
   ]
 }

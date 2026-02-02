@@ -24,13 +24,25 @@ memory/*ai-market*.md
 memory/*qmd*.md
 memory/*wp-migration*.md
 memory/*wp-plugin*.md
+memory/2026-02-01-browser-setup.md
+memory/2026-02-02-tts-patch.md
 
-# Daily log (contains personal context)
+# Daily log and daily memory (contains personal context)
 daily
+memory/2026-*.md
 
 # Brain notes with personal content
 brain/notes/Marcel*.md
 brain/notes/investment*.md
+brain/inbox/
+
+# Projects with client/financial/personal data
+projects/investment-deployment.md
+projects/nova-psychology-email.md
+projects/nova-psychology-quote.md
+projects/nova-psychology-wp.md
+projects/marcel-headshot*.jpg
+projects/marcel-hero*.jpg
 
 # Clawdbot internals
 .clawdbot/

@@ -12,8 +12,9 @@ Before doing anything else:
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
 3. Read `RULES.md` — mistakes and lessons (don't repeat them)
-4. Read `daily` (today + yesterday) for recent context
-5. **If in MAIN SESSION** (direct chat w/ human): Also read `MEM`
+4. Scan `projects/` — know what's active
+5. Read `daily` (today + yesterday) for recent context
+6. **If in MAIN SESSION** (direct chat w/ human): Also read `MEM`
 
 Don't ask permission. Just do it.
 
