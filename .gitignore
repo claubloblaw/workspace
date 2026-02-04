@@ -52,3 +52,10 @@ heartbeat-state.json
 # Temp
 *.tmp
 *.bak
+
+# Client/lead data
+meera-patel-clients-nameservers.csv
+projects/godaddy-leads/
+
+# Todo files (may reference client work)
+memory/todos.md
