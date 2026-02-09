@@ -55,6 +55,24 @@
 - In group chats: quality > quantity. React don't reply when that's sufficient.
 - **Don't ask for info you've been told before.** If compaction wiped it, check MEM/memory files first. Marcel noticed when I forgot his GitHub username.
 
+## Error Registry Protocol
+
+### When to Log (memory/error-registry.json)
+- Tool/API failure that required a workaround
+- Config issue that wasted time
+- Data loss or corruption
+- Repeated issue (seen before = auto-log)
+- Anything requiring manual intervention that shouldn't
+
+### When NOT to Log
+- One-off user typos or expected failures
+- External service outages (X blocking fetches, etc.) unless we have a fix
+
+### On Heartbeats
+- Check `memory/error-registry.json` for open errors
+- Attempt resolution of highest-severity open items
+- Mark resolved with solution + prevention notes
+
 ---
 
 *Add to this file whenever something goes wrong or a lesson is learned.*
