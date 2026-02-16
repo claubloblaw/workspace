@@ -1,0 +1,322 @@
+[
+  {
+    "community": "HUXLEY",
+    "recent_6mo_permits": 21,
+    "previous_6mo_permits": 0,
+    "velocity_change": 21,
+    "percent_change": 2100.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "AMBLETON",
+    "recent_6mo_permits": 32,
+    "previous_6mo_permits": 15,
+    "velocity_change": 17,
+    "percent_change": 106.2,
+    "status": "BOOM"
+  },
+  {
+    "community": "ROSSCARROCK",
+    "recent_6mo_permits": 28,
+    "previous_6mo_permits": 11,
+    "velocity_change": 17,
+    "percent_change": 141.7,
+    "status": "BOOM"
+  },
+  {
+    "community": "BRIDLEWOOD",
+    "recent_6mo_permits": 16,
+    "previous_6mo_permits": 6,
+    "velocity_change": 10,
+    "percent_change": 142.9,
+    "status": "BOOM"
+  },
+  {
+    "community": "MIDNAPORE",
+    "recent_6mo_permits": 18,
+    "previous_6mo_permits": 8,
+    "velocity_change": 10,
+    "percent_change": 111.1,
+    "status": "BOOM"
+  },
+  {
+    "community": "RESIDUAL WARD 2 - SUB AREA 2C",
+    "recent_6mo_permits": 10,
+    "previous_6mo_permits": 0,
+    "velocity_change": 10,
+    "percent_change": 1000.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "KINGSLAND",
+    "recent_6mo_permits": 17,
+    "previous_6mo_permits": 8,
+    "velocity_change": 9,
+    "percent_change": 100.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "DOVER",
+    "recent_6mo_permits": 16,
+    "previous_6mo_permits": 8,
+    "velocity_change": 8,
+    "percent_change": 88.9,
+    "status": "BOOM"
+  },
+  {
+    "community": "RUNDLE",
+    "recent_6mo_permits": 16,
+    "previous_6mo_permits": 8,
+    "velocity_change": 8,
+    "percent_change": 88.9,
+    "status": "BOOM"
+  },
+  {
+    "community": "BANKVIEW",
+    "recent_6mo_permits": 13,
+    "previous_6mo_permits": 6,
+    "velocity_change": 7,
+    "percent_change": 100.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "RESIDUAL WARD 2 - SUB AREA 2E",
+    "recent_6mo_permits": 7,
+    "previous_6mo_permits": 0,
+    "velocity_change": 7,
+    "percent_change": 700.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "UNIVERSITY OF CALGARY",
+    "recent_6mo_permits": 7,
+    "previous_6mo_permits": 0,
+    "velocity_change": 7,
+    "percent_change": 700.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "UPPER MOUNT ROYAL",
+    "recent_6mo_permits": 17,
+    "previous_6mo_permits": 10,
+    "velocity_change": 7,
+    "percent_change": 63.6,
+    "status": "BOOM"
+  },
+  {
+    "community": "AURORA BUSINESS PARK",
+    "recent_6mo_permits": 6,
+    "previous_6mo_permits": 0,
+    "velocity_change": 6,
+    "percent_change": 600.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "CFB - CURRIE",
+    "recent_6mo_permits": 6,
+    "previous_6mo_permits": 0,
+    "velocity_change": 6,
+    "percent_change": 600.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "DIAMOND COVE",
+    "recent_6mo_permits": 6,
+    "previous_6mo_permits": 0,
+    "velocity_change": 6,
+    "percent_change": 600.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "FAIRVIEW",
+    "recent_6mo_permits": 12,
+    "previous_6mo_permits": 6,
+    "velocity_change": 6,
+    "percent_change": 85.7,
+    "status": "BOOM"
+  },
+  {
+    "community": "GREAT PLAINS EAST",
+    "recent_6mo_permits": 6,
+    "previous_6mo_permits": 0,
+    "velocity_change": 6,
+    "percent_change": 600.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "NOLAN HILL",
+    "recent_6mo_permits": 24,
+    "previous_6mo_permits": 18,
+    "velocity_change": 6,
+    "percent_change": 31.6,
+    "status": "STABLE"
+  },
+  {
+    "community": "OAKRIDGE",
+    "recent_6mo_permits": 12,
+    "previous_6mo_permits": 6,
+    "velocity_change": 6,
+    "percent_change": 85.7,
+    "status": "BOOM"
+  },
+  {
+    "community": "RESIDUAL WARD 1 - SUB AREA 01F",
+    "recent_6mo_permits": 6,
+    "previous_6mo_permits": 0,
+    "velocity_change": 6,
+    "percent_change": 600.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "RESIDUAL WARD 1 - SUB AREA 1K",
+    "recent_6mo_permits": 6,
+    "previous_6mo_permits": 0,
+    "velocity_change": 6,
+    "percent_change": 600.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "RESIDUAL WARD 2 - SUB AREA 2F",
+    "recent_6mo_permits": 6,
+    "previous_6mo_permits": 0,
+    "velocity_change": 6,
+    "percent_change": 600.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "SKYLINE WEST",
+    "recent_6mo_permits": 6,
+    "previous_6mo_permits": 0,
+    "velocity_change": 6,
+    "percent_change": 600.0,
+    "status": "BOOM"
+  },
+  {
+    "community": "DEER RUN",
+    "recent_6mo_permits": 11,
+    "previous_6mo_permits": 6,
+    "velocity_change": 5,
+    "percent_change": 71.4,
+    "status": "BOOM"
+  },
+  {
+    "community": "ELBOYA",
+    "recent_6mo_permits": 11,
+    "previous_6mo_permits": 6,
+    "velocity_change": 5,
+    "percent_change": 71.4,
+    "status": "BOOM"
+  },
+  {
+    "community": "FALCONRIDGE",
+    "recent_6mo_permits": 14,
+    "previous_6mo_permits": 9,
+    "velocity_change": 5,
+    "percent_change": 50.0,
+    "status": "STABLE"
+  },
+  {
+    "community": "KINCORA",
+    "recent_6mo_permits": 12,
+    "previous_6mo_permits": 7,
+    "velocity_change": 5,
+    "percent_change": 62.5,
+    "status": "BOOM"
+  },
+  {
+    "community": "MACEWAN GLEN",
+    "recent_6mo_permits": 11,
+    "previous_6mo_permits": 6,
+    "velocity_change": 5,
+    "percent_change": 71.4,
+    "status": "BOOM"
+  },
+  {
+    "community": "MERIDIAN",
+    "recent_6mo_permits": 11,
+    "previous_6mo_permits": 6,
+    "velocity_change": 5,
+    "percent_change": 71.4,
+    "status": "BOOM"
+  },
+  {
+    "community": "QUEENSLAND",
+    "recent_6mo_permits": 11,
+    "previous_6mo_permits": 6,
+    "velocity_change": 5,
+    "percent_change": 71.4,
+    "status": "BOOM"
+  },
+  {
+    "community": "SUNNYSIDE",
+    "recent_6mo_permits": 11,
+    "previous_6mo_permits": 6,
+    "velocity_change": 5,
+    "percent_change": 71.4,
+    "status": "BOOM"
+  },
+  {
+    "community": "WESTGATE",
+    "recent_6mo_permits": 13,
+    "previous_6mo_permits": 8,
+    "velocity_change": 5,
+    "percent_change": 55.6,
+    "status": "BOOM"
+  },
+  {
+    "community": "WOODLANDS",
+    "recent_6mo_permits": 15,
+    "previous_6mo_permits": 10,
+    "velocity_change": 5,
+    "percent_change": 45.5,
+    "status": "STABLE"
+  },
+  {
+    "community": "ERIN WOODS",
+    "recent_6mo_permits": 11,
+    "previous_6mo_permits": 7,
+    "velocity_change": 4,
+    "percent_change": 50.0,
+    "status": "STABLE"
+  },
+  {
+    "community": "HARVEST HILLS",
+    "recent_6mo_permits": 11,
+    "previous_6mo_permits": 7,
+    "velocity_change": 4,
+    "percent_change": 50.0,
+    "status": "STABLE"
+  },
+  {
+    "community": "MANCHESTER",
+    "recent_6mo_permits": 11,
+    "previous_6mo_permits": 7,
+    "velocity_change": 4,
+    "percent_change": 50.0,
+    "status": "STABLE"
+  },
+  {
+    "community": "ST. ANDREWS HEIGHTS",
+    "recent_6mo_permits": 11,
+    "previous_6mo_permits": 7,
+    "velocity_change": 4,
+    "percent_change": 50.0,
+    "status": "STABLE"
+  },
+  {
+    "community": "STRATHCONA PARK",
+    "recent_6mo_permits": 12,
+    "previous_6mo_permits": 8,
+    "velocity_change": 4,
+    "percent_change": 44.4,
+    "status": "STABLE"
+  },
+  {
+    "community": "SUNRIDGE",
+    "recent_6mo_permits": 13,
+    "previous_6mo_permits": 9,
+    "velocity_change": 4,
+    "percent_change": 40.0,
+    "status": "STABLE"
+  }
+]

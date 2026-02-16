@@ -1,0 +1,35 @@
+CALGARY INVESTMENT RECOMMENDATIONS
+============================================================
+
+Top 10 Communities by Composite Score:
+
+1. CORNERSTONE (score: 791.74)
+   Permits: 395, Properties: 164, Crime: 0
+
+2. LIVINGSTON (score: 706.71)
+   Permits: 353, Properties: 61, Crime: 0
+
+3. MAHOGANY (score: 587.3)
+   Permits: 293, Properties: 120, Crime: 0
+
+4. RANGEVIEW (score: 532.17)
+   Permits: 266, Properties: 7, Crime: 0
+
+5. SADDLE RIDGE (score: 508.79)
+   Permits: 253, Properties: 269, Crime: 0
+
+6. GLACIER RIDGE (score: 436.38)
+   Permits: 218, Properties: 38, Crime: 0
+
+7. LEGACY (score: 435.09)
+   Permits: 217, Properties: 99, Crime: 0
+
+8. HASKAYNE (score: 420.21)
+   Permits: 210, Properties: 11, Crime: 0
+
+9. SETON (score: 418.07)
+   Permits: 208, Properties: 197, Crime: 0
+
+10. CARRINGTON (score: 372.94)
+   Permits: 186, Properties: 84, Crime: 0
+

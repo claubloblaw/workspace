@@ -1,0 +1,855 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calgary Business Desert Finder</title>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            margin: 0; 
+            padding: 20px; 
+            background: #1a1a1a; 
+            color: #e0e0e0;
+        }
+        .container { 
+            max-width: 1400px; 
+            margin: 0 auto; 
+            background: #2a2a2a; 
+            padding: 30px; 
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+        }
+        h1 { 
+            color: #4fc3f7; 
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #81c784;
+            border-bottom: 2px solid #81c784;
+            padding-bottom: 10px;
+        }
+        .meta { 
+            color: #999; 
+            margin-bottom: 30px; 
+        }
+        table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            margin: 20px 0; 
+            background: #333;
+        }
+        th { 
+            background: #1565c0; 
+            color: white; 
+            padding: 14px; 
+            text-align: left; 
+            font-weight: 600;
+        }
+        td { 
+            padding: 12px; 
+            border-bottom: 1px solid #444; 
+        }
+        tr:hover { 
+            background: #3a3a3a; 
+        }
+        .opportunity { 
+            font-weight: bold; 
+            color: #ff9800; 
+            font-size: 1.1em; 
+        }
+        .high-opportunity { 
+            background: #1b5e20; 
+        }
+        .chart { 
+            margin: 30px 0; 
+            background: #333; 
+            padding: 20px; 
+            border-radius: 8px;
+        }
+        .metric-card {
+            display: inline-block;
+            background: #424242;
+            padding: 15px 25px;
+            margin: 10px;
+            border-radius: 8px;
+            border-left: 4px solid #4fc3f7;
+        }
+        .metric-value {
+            font-size: 2em;
+            color: #4fc3f7;
+            font-weight: bold;
+        }
+        .metric-label {
+            color: #999;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏪 Calgary Business Desert Finder</h1>
+        <p class="meta">
+            <strong>Analysis Date:</strong> 2026-02-15 10:52:19<br>
+            <strong>Methodology:</strong> Identifies residential communities with high population but low commercial permit activity
+        </p>
+        
+        <div class="metric-card">
+            <div class="metric-value">195</div>
+            <div class="metric-label">Communities Analyzed</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">1,279,664</div>
+            <div class="metric-label">Total Population</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">0</div>
+            <div class="metric-label">Commercial Permits</div>
+        </div>
+        
+        <h2>Top 20 Business Opportunity Areas</h2>
+        <p style="color: #999;">Communities with high population density but limited commercial development</p>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Community</th>
+                    <th>Population</th>
+                    <th>Commercial Permits</th>
+                    <th>Per 1,000 Residents</th>
+                    <th>Commercial %</th>
+                    <th>Opportunity Score</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr class="high-opportunity">
+                    <td><strong>1</strong></td>
+                    <td><strong>PANORAMA HILLS</strong></td>
+                    <td>25,710</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">25.71</td>
+                </tr>
+
+                <tr class="high-opportunity">
+                    <td><strong>2</strong></td>
+                    <td><strong>BELTLINE</strong></td>
+                    <td>25,129</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">25.13</td>
+                </tr>
+
+                <tr class="high-opportunity">
+                    <td><strong>3</strong></td>
+                    <td><strong>SADDLE RIDGE</strong></td>
+                    <td>22,321</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">22.32</td>
+                </tr>
+
+                <tr class="high-opportunity">
+                    <td><strong>4</strong></td>
+                    <td><strong>EVERGREEN</strong></td>
+                    <td>21,500</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">21.50</td>
+                </tr>
+
+                <tr class="high-opportunity">
+                    <td><strong>5</strong></td>
+                    <td><strong>TUSCANY</strong></td>
+                    <td>19,884</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">19.88</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>6</strong></td>
+                    <td><strong>CRANSTON</strong></td>
+                    <td>19,884</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">19.88</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>7</strong></td>
+                    <td><strong>TARADALE</strong></td>
+                    <td>19,026</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">19.03</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>8</strong></td>
+                    <td><strong>MCKENZIE TOWNE</strong></td>
+                    <td>18,283</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">18.28</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>9</strong></td>
+                    <td><strong>EVANSTON</strong></td>
+                    <td>17,685</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">17.68</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>10</strong></td>
+                    <td><strong>COVENTRY HILLS</strong></td>
+                    <td>17,667</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">17.67</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>11</strong></td>
+                    <td><strong>AUBURN BAY</strong></td>
+                    <td>17,607</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">17.61</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>12</strong></td>
+                    <td><strong>EDGEMONT</strong></td>
+                    <td>15,395</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">15.39</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>13</strong></td>
+                    <td><strong>MARTINDALE</strong></td>
+                    <td>14,245</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">14.24</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>14</strong></td>
+                    <td><strong>COPPERFIELD</strong></td>
+                    <td>13,823</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">13.82</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>15</strong></td>
+                    <td><strong>HUNTINGTON HILLS</strong></td>
+                    <td>13,420</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">13.42</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>16</strong></td>
+                    <td><strong>MCKENZIE LAKE</strong></td>
+                    <td>13,406</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">13.41</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>17</strong></td>
+                    <td><strong>SIGNAL HILL</strong></td>
+                    <td>13,395</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">13.39</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>18</strong></td>
+                    <td><strong>NEW BRIGHTON</strong></td>
+                    <td>13,103</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">13.10</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>19</strong></td>
+                    <td><strong>DOUGLASDALE/GLEN</strong></td>
+                    <td>12,881</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">12.88</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>20</strong></td>
+                    <td><strong>VARSITY</strong></td>
+                    <td>12,874</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td>0.0%</td>
+                    <td class="opportunity">12.87</td>
+                </tr>
+
+            </tbody>
+        </table>
+        
+        <div class="chart" id="scatterChart"></div>
+        
+        <h2>All Communities Analysis</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Community</th>
+                    <th>Population</th>
+                    <th>Commercial Permits</th>
+                    <th>Total Permits</th>
+                    <th>Commercial Value ($)</th>
+                    <th>Commercial Ratio</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td>PANORAMA HILLS</td>
+                    <td>25,710</td>
+                    <td>0</td>
+                    <td>962</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>BELTLINE</td>
+                    <td>25,129</td>
+                    <td>0</td>
+                    <td>643</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>SADDLE RIDGE</td>
+                    <td>22,321</td>
+                    <td>0</td>
+                    <td>1155</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>EVERGREEN</td>
+                    <td>21,500</td>
+                    <td>0</td>
+                    <td>859</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>TUSCANY</td>
+                    <td>19,884</td>
+                    <td>0</td>
+                    <td>853</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>CRANSTON</td>
+                    <td>19,884</td>
+                    <td>0</td>
+                    <td>986</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>TARADALE</td>
+                    <td>19,026</td>
+                    <td>0</td>
+                    <td>565</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>MCKENZIE TOWNE</td>
+                    <td>18,283</td>
+                    <td>0</td>
+                    <td>769</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>EVANSTON</td>
+                    <td>17,685</td>
+                    <td>0</td>
+                    <td>860</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>COVENTRY HILLS</td>
+                    <td>17,667</td>
+                    <td>0</td>
+                    <td>689</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>AUBURN BAY</td>
+                    <td>17,607</td>
+                    <td>0</td>
+                    <td>704</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>EDGEMONT</td>
+                    <td>15,395</td>
+                    <td>0</td>
+                    <td>213</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>MARTINDALE</td>
+                    <td>14,245</td>
+                    <td>0</td>
+                    <td>384</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>COPPERFIELD</td>
+                    <td>13,823</td>
+                    <td>0</td>
+                    <td>659</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>HUNTINGTON HILLS</td>
+                    <td>13,420</td>
+                    <td>0</td>
+                    <td>197</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>MCKENZIE LAKE</td>
+                    <td>13,406</td>
+                    <td>0</td>
+                    <td>212</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>SIGNAL HILL</td>
+                    <td>13,395</td>
+                    <td>0</td>
+                    <td>264</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>NEW BRIGHTON</td>
+                    <td>13,103</td>
+                    <td>0</td>
+                    <td>547</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>DOUGLASDALE/GLEN</td>
+                    <td>12,881</td>
+                    <td>0</td>
+                    <td>231</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>VARSITY</td>
+                    <td>12,874</td>
+                    <td>0</td>
+                    <td>267</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>CHAPARRAL</td>
+                    <td>12,654</td>
+                    <td>0</td>
+                    <td>441</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>BRIDLEWOOD</td>
+                    <td>12,641</td>
+                    <td>0</td>
+                    <td>398</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>WHITEHORN</td>
+                    <td>12,019</td>
+                    <td>0</td>
+                    <td>110</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>MAHOGANY</td>
+                    <td>11,784</td>
+                    <td>0</td>
+                    <td>1051</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>SKYVIEW RANCH</td>
+                    <td>11,707</td>
+                    <td>0</td>
+                    <td>378</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>ROYAL OAK</td>
+                    <td>11,706</td>
+                    <td>0</td>
+                    <td>438</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>RUNDLE</td>
+                    <td>11,688</td>
+                    <td>0</td>
+                    <td>94</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>HIDDEN VALLEY</td>
+                    <td>11,566</td>
+                    <td>0</td>
+                    <td>231</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>BEDDINGTON HEIGHTS</td>
+                    <td>11,514</td>
+                    <td>0</td>
+                    <td>160</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>BOWNESS</td>
+                    <td>11,150</td>
+                    <td>0</td>
+                    <td>395</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>TEMPLE</td>
+                    <td>10,977</td>
+                    <td>0</td>
+                    <td>115</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>WEST SPRINGS</td>
+                    <td>10,758</td>
+                    <td>0</td>
+                    <td>549</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>FALCONRIDGE</td>
+                    <td>10,653</td>
+                    <td>0</td>
+                    <td>122</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>ARBOUR LAKE</td>
+                    <td>10,619</td>
+                    <td>0</td>
+                    <td>304</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>ACADIA</td>
+                    <td>10,520</td>
+                    <td>0</td>
+                    <td>217</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>MONTEREY PARK</td>
+                    <td>10,372</td>
+                    <td>0</td>
+                    <td>126</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>DOVER</td>
+                    <td>10,351</td>
+                    <td>0</td>
+                    <td>125</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>LAKE BONAVISTA</td>
+                    <td>10,293</td>
+                    <td>0</td>
+                    <td>232</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>CITADEL</td>
+                    <td>10,077</td>
+                    <td>0</td>
+                    <td>282</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>PINERIDGE</td>
+                    <td>10,022</td>
+                    <td>0</td>
+                    <td>86</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>SPRINGBANK HILL</td>
+                    <td>9,943</td>
+                    <td>0</td>
+                    <td>465</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>SUNDANCE</td>
+                    <td>9,736</td>
+                    <td>0</td>
+                    <td>135</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>ASPEN WOODS</td>
+                    <td>9,446</td>
+                    <td>0</td>
+                    <td>372</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>SHAWNESSY</td>
+                    <td>9,368</td>
+                    <td>0</td>
+                    <td>164</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>HAWKWOOD</td>
+                    <td>9,248</td>
+                    <td>0</td>
+                    <td>99</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>RIVERBEND</td>
+                    <td>9,244</td>
+                    <td>0</td>
+                    <td>149</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>MARLBOROUGH</td>
+                    <td>9,162</td>
+                    <td>0</td>
+                    <td>143</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>DALHOUSIE</td>
+                    <td>8,940</td>
+                    <td>0</td>
+                    <td>150</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>WOODBINE</td>
+                    <td>8,866</td>
+                    <td>0</td>
+                    <td>101</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+                <tr>
+                    <td>THORNCLIFFE</td>
+                    <td>8,788</td>
+                    <td>0</td>
+                    <td>145</td>
+                    <td>$0</td>
+                    <td>0.0%</td>
+                </tr>
+
+            </tbody>
+        </table>
+        
+        <script>
+            var trace = {
+                x: [25710, 25129, 22321, 21500, 19884, 19884, 19026, 18283, 17685, 17667, 17607, 15395, 14245, 13823, 13420, 13406, 13395, 13103, 12881, 12874, 12654, 12641, 12019, 11784, 11707, 11706, 11688, 11566, 11514, 11150],
+                y: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+                mode: 'markers',
+                type: 'scatter',
+                text: ['PANORAMA HILLS', 'BELTLINE', 'SADDLE RIDGE', 'EVERGREEN', 'TUSCANY', 'CRANSTON', 'TARADALE', 'MCKENZIE TOWNE', 'EVANSTON', 'COVENTRY HILLS', 'AUBURN BAY', 'EDGEMONT', 'MARTINDALE', 'COPPERFIELD', 'HUNTINGTON HILLS', 'MCKENZIE LAKE', 'SIGNAL HILL', 'NEW BRIGHTON', 'DOUGLASDALE/GLEN', 'VARSITY', 'CHAPARRAL', 'BRIDLEWOOD', 'WHITEHORN', 'MAHOGANY', 'SKYVIEW RANCH', 'ROYAL OAK', 'RUNDLE', 'HIDDEN VALLEY', 'BEDDINGTON HEIGHTS', 'BOWNESS'],
+                marker: {
+                    size: [25.71, 25.13, 22.32, 21.5, 19.88, 19.88, 19.03, 18.28, 17.68, 17.67, 17.61, 15.39, 14.24, 13.82, 13.42, 13.41, 13.39, 13.1, 12.88, 12.87, 12.65, 12.64, 12.02, 11.78, 11.71, 11.71, 11.69, 11.57, 11.51, 11.15],
+                    color: [25.71, 25.13, 22.32, 21.5, 19.88, 19.88, 19.03, 18.28, 17.68, 17.67, 17.61, 15.39, 14.24, 13.82, 13.42, 13.41, 13.39, 13.1, 12.88, 12.87, 12.65, 12.64, 12.02, 11.78, 11.71, 11.71, 11.69, 11.57, 11.51, 11.15],
+                    colorscale: 'Viridis',
+                    showscale: true,
+                    sizemode: 'diameter',
+                    sizeref: 0.5,
+                    colorbar: {
+                        title: 'Opportunity Score'
+                    }
+                },
+                hovertemplate: '<b>%{text}</b><br>' +
+                               'Population: %{x:,}<br>' +
+                               'Commercial Permits: %{y}<br>' +
+                               '<extra></extra>'
+            };
+            
+            var layout = {
+                title: 'Population vs Commercial Development',
+                xaxis: {
+                    title: 'Population',
+                    gridcolor: '#444',
+                    color: '#e0e0e0'
+                },
+                yaxis: {
+                    title: 'Commercial Permits',
+                    gridcolor: '#444',
+                    color: '#e0e0e0'
+                },
+                paper_bgcolor: '#333',
+                plot_bgcolor: '#333',
+                font: {
+                    color: '#e0e0e0'
+                },
+                hovermode: 'closest'
+            };
+            
+            Plotly.newPlot('scatterChart', [trace], layout);
+        </script>
+        
+        <p style="color: #999; margin-top: 40px; font-size: 0.9em;">
+            <strong>Interpretation:</strong><br>
+            • <strong>Opportunity Score:</strong> Higher values indicate communities with large populations but few commercial permits (potential underserved markets)<br>
+            • <strong>Commercial Permits per 1,000:</strong> Number of commercial building permits per 1,000 residents<br>
+            • <strong>Commercial Ratio:</strong> Percentage of all permits that are commercial/business-related<br>
+            • Bubble size in chart represents opportunity score (larger = greater opportunity)
+        </p>
+    </div>
+</body>
+</html>

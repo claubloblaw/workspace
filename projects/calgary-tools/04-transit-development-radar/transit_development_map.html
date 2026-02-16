@@ -1,0 +1,430 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calgary Transit Development Radar</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            margin: 0; 
+            padding: 20px; 
+            background: #0d1117; 
+            color: #e6edf3;
+        }
+        .container { 
+            max-width: 1600px; 
+            margin: 0 auto; 
+            background: #161b22; 
+            padding: 30px; 
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.5);
+        }
+        h1 { 
+            color: #58a6ff; 
+            margin-bottom: 10px;
+            font-size: 2.4em;
+        }
+        h2 {
+            color: #79c0ff;
+            border-bottom: 2px solid #30363d;
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        .meta { 
+            color: #8b949e; 
+            margin-bottom: 30px; 
+        }
+        #map { 
+            height: 600px; 
+            margin: 20px 0; 
+            border-radius: 8px;
+            border: 1px solid #30363d;
+        }
+        table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            margin: 20px 0; 
+            background: #0d1117;
+        }
+        th { 
+            background: #1f6feb; 
+            color: white; 
+            padding: 14px; 
+            text-align: left; 
+            font-weight: 600;
+        }
+        td { 
+            padding: 12px; 
+            border-bottom: 1px solid #30363d; 
+        }
+        tr:hover { 
+            background: #161b22; 
+        }
+        .high-tod { background: #1a3e1f; }
+        .chart { 
+            margin: 30px 0; 
+            background: #0d1117; 
+            padding: 20px; 
+            border-radius: 8px;
+        }
+        .tod-score {
+            font-weight: bold;
+            color: #58a6ff;
+            font-size: 1.1em;
+        }
+        .metric-card {
+            display: inline-block;
+            background: #0d1117;
+            padding: 15px 25px;
+            margin: 10px;
+            border-radius: 8px;
+            border: 1px solid #30363d;
+        }
+        .metric-value {
+            font-size: 2em;
+            color: #58a6ff;
+            font-weight: bold;
+        }
+        .metric-label {
+            color: #8b949e;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚇 Calgary Transit Development Radar</h1>
+        <p class="meta">
+            <strong>Analysis Date:</strong> 2026-02-15 10:58:36<br>
+            <strong>Methodology:</strong> Analyzes building permit density around Calgary CTrain stations<br>
+            <strong>TOD Score:</strong> Transit-Oriented Development score (permits within 500m × 2 + permits within 1km)
+        </p>
+        
+        <div class="metric-card">
+            <div class="metric-value">28</div>
+            <div class="metric-label">Stations Analyzed</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">13289</div>
+            <div class="metric-label">Total Permits Near Transit</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">$7,508,538</div>
+            <div class="metric-label">Total Value (within 500m)</div>
+        </div>
+        
+        <h2>Interactive Map</h2>
+        <div id="map"></div>
+        
+        <h2>Top 20 TOD Hotspots</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Station</th>
+                    <th>Permits &lt;500m</th>
+                    <th>Permits &lt;1km</th>
+                    <th>Total</th>
+                    <th>Value (500m)</th>
+                    <th>TOD Score</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr class="high-tod">
+                    <td><strong>1</strong></td>
+                    <td><strong>City Hall</strong></td>
+                    <td>711</td>
+                    <td>1085</td>
+                    <td>1796</td>
+                    <td>$0</td>
+                    <td class="tod-score">2507</td>
+                </tr>
+
+                <tr class="high-tod">
+                    <td><strong>2</strong></td>
+                    <td><strong>Crescent Heights</strong></td>
+                    <td>600</td>
+                    <td>1063</td>
+                    <td>1663</td>
+                    <td>$0</td>
+                    <td class="tod-score">2263</td>
+                </tr>
+
+                <tr class="high-tod">
+                    <td><strong>3</strong></td>
+                    <td><strong>3 Street SE</strong></td>
+                    <td>307</td>
+                    <td>1106</td>
+                    <td>1413</td>
+                    <td>$0</td>
+                    <td class="tod-score">1720</td>
+                </tr>
+
+                <tr class="high-tod">
+                    <td><strong>4</strong></td>
+                    <td><strong>Sunnyside</strong></td>
+                    <td>85</td>
+                    <td>1032</td>
+                    <td>1117</td>
+                    <td>$0</td>
+                    <td class="tod-score">1202</td>
+                </tr>
+
+                <tr class="high-tod">
+                    <td><strong>5</strong></td>
+                    <td><strong>Victoria Park-Stampede</strong></td>
+                    <td>154</td>
+                    <td>635</td>
+                    <td>789</td>
+                    <td>$0</td>
+                    <td class="tod-score">943</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>6</strong></td>
+                    <td><strong>Lions Park</strong></td>
+                    <td>131</td>
+                    <td>430</td>
+                    <td>561</td>
+                    <td>$0</td>
+                    <td class="tod-score">692</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>7</strong></td>
+                    <td><strong>Lions Park</strong></td>
+                    <td>131</td>
+                    <td>430</td>
+                    <td>561</td>
+                    <td>$0</td>
+                    <td class="tod-score">692</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>8</strong></td>
+                    <td><strong>Bridgeland-Memorial</strong></td>
+                    <td>157</td>
+                    <td>326</td>
+                    <td>483</td>
+                    <td>$0</td>
+                    <td class="tod-score">640</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>9</strong></td>
+                    <td><strong>SAIT-ACAD-Jubilee</strong></td>
+                    <td>129</td>
+                    <td>337</td>
+                    <td>466</td>
+                    <td>$0</td>
+                    <td class="tod-score">595</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>10</strong></td>
+                    <td><strong>Chinook</strong></td>
+                    <td>156</td>
+                    <td>216</td>
+                    <td>372</td>
+                    <td>$0</td>
+                    <td class="tod-score">528</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>11</strong></td>
+                    <td><strong>39 Avenue</strong></td>
+                    <td>104</td>
+                    <td>264</td>
+                    <td>368</td>
+                    <td>$0</td>
+                    <td class="tod-score">472</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>12</strong></td>
+                    <td><strong>Erlton-Stampede</strong></td>
+                    <td>42</td>
+                    <td>366</td>
+                    <td>408</td>
+                    <td>$0</td>
+                    <td class="tod-score">450</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>13</strong></td>
+                    <td><strong>Sunalta</strong></td>
+                    <td>66</td>
+                    <td>314</td>
+                    <td>380</td>
+                    <td>$0</td>
+                    <td class="tod-score">446</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>14</strong></td>
+                    <td><strong>Shaganappi Point</strong></td>
+                    <td>73</td>
+                    <td>280</td>
+                    <td>353</td>
+                    <td>$0</td>
+                    <td class="tod-score">426</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>15</strong></td>
+                    <td><strong>69 Street</strong></td>
+                    <td>78</td>
+                    <td>257</td>
+                    <td>335</td>
+                    <td>$0</td>
+                    <td class="tod-score">413</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>16</strong></td>
+                    <td><strong>Heritage</strong></td>
+                    <td>79</td>
+                    <td>224</td>
+                    <td>303</td>
+                    <td>$0</td>
+                    <td class="tod-score">382</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>17</strong></td>
+                    <td><strong>Anderson</strong></td>
+                    <td>79</td>
+                    <td>152</td>
+                    <td>231</td>
+                    <td>$0</td>
+                    <td class="tod-score">310</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>18</strong></td>
+                    <td><strong>Zoo</strong></td>
+                    <td>32</td>
+                    <td>231</td>
+                    <td>263</td>
+                    <td>$0</td>
+                    <td class="tod-score">295</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>19</strong></td>
+                    <td><strong>Brentwood</strong></td>
+                    <td>61</td>
+                    <td>128</td>
+                    <td>189</td>
+                    <td>$0</td>
+                    <td class="tod-score">250</td>
+                </tr>
+
+                <tr class="">
+                    <td><strong>20</strong></td>
+                    <td><strong>Franklin</strong></td>
+                    <td>58</td>
+                    <td>116</td>
+                    <td>174</td>
+                    <td>$0</td>
+                    <td class="tod-score">232</td>
+                </tr>
+
+            </tbody>
+        </table>
+        
+        <div class="chart" id="barChart"></div>
+        
+        <script>
+            // Initialize map centered on Calgary
+            var map = L.map('map').setView([51.0447, -114.0719], 11);
+            
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+                attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+                subdomains: 'abcd',
+                maxZoom: 20
+            }).addTo(map);
+            
+            // Add station markers
+            var stations = [{"station": "City Hall", "lat": 51.0486, "lon": -114.0625, "permits_within_500m": 711, "permits_within_1km": 1085, "total_permits": 1796, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 2507}, {"station": "Crescent Heights", "lat": 51.0516, "lon": -114.0642, "permits_within_500m": 600, "permits_within_1km": 1063, "total_permits": 1663, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 2263}, {"station": "3 Street SE", "lat": 51.0497, "lon": -114.058, "permits_within_500m": 307, "permits_within_1km": 1106, "total_permits": 1413, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 1720}, {"station": "Sunnyside", "lat": 51.0544, "lon": -114.0789, "permits_within_500m": 85, "permits_within_1km": 1032, "total_permits": 1117, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 1202}, {"station": "Victoria Park-Stampede", "lat": 51.0433, "lon": -114.0542, "permits_within_500m": 154, "permits_within_1km": 635, "total_permits": 789, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 943}, {"station": "Lions Park", "lat": 51.0652, "lon": -114.0503, "permits_within_500m": 131, "permits_within_1km": 430, "total_permits": 561, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 692}, {"station": "Lions Park", "lat": 51.0652, "lon": -114.0503, "permits_within_500m": 131, "permits_within_1km": 430, "total_permits": 561, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 692}, {"station": "Bridgeland-Memorial", "lat": 51.0555, "lon": -114.048, "permits_within_500m": 157, "permits_within_1km": 326, "total_permits": 483, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 640}, {"station": "SAIT-ACAD-Jubilee", "lat": 51.0667, "lon": -114.0885, "permits_within_500m": 129, "permits_within_1km": 337, "total_permits": 466, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 595}, {"station": "Chinook", "lat": 50.9978, "lon": -114.0707, "permits_within_500m": 156, "permits_within_1km": 216, "total_permits": 372, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 528}, {"station": "39 Avenue", "lat": 51.025, "lon": -114.0836, "permits_within_500m": 104, "permits_within_1km": 264, "total_permits": 368, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 472}, {"station": "Erlton-Stampede", "lat": 51.0336, "lon": -114.0603, "permits_within_500m": 42, "permits_within_1km": 366, "total_permits": 408, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 450}, {"station": "Sunalta", "lat": 51.0445, "lon": -114.0995, "permits_within_500m": 66, "permits_within_1km": 314, "total_permits": 380, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 446}, {"station": "Shaganappi Point", "lat": 51.0418, "lon": -114.1284, "permits_within_500m": 73, "permits_within_1km": 280, "total_permits": 353, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 426}, {"station": "69 Street", "lat": 51.0396, "lon": -114.2062, "permits_within_500m": 78, "permits_within_1km": 257, "total_permits": 335, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 413}, {"station": "Heritage", "lat": 51.0113, "lon": -114.0705, "permits_within_500m": 79, "permits_within_1km": 224, "total_permits": 303, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 382}, {"station": "Anderson", "lat": 50.9656, "lon": -114.0811, "permits_within_500m": 79, "permits_within_1km": 152, "total_permits": 231, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 310}, {"station": "Zoo", "lat": 51.046, "lon": -114.0326, "permits_within_500m": 32, "permits_within_1km": 231, "total_permits": 263, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 295}, {"station": "Brentwood", "lat": 51.0883, "lon": -114.1106, "permits_within_500m": 61, "permits_within_1km": 128, "total_permits": 189, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 250}, {"station": "Franklin", "lat": 51.0728, "lon": -113.9779, "permits_within_500m": 58, "permits_within_1km": 116, "total_permits": 174, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 232}, {"station": "Westbrook", "lat": 51.0329, "lon": -114.1616, "permits_within_500m": 26, "permits_within_1km": 158, "total_permits": 184, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 210}, {"station": "Somerset-Bridlewood", "lat": 50.9088, "lon": -114.0715, "permits_within_500m": 35, "permits_within_1km": 127, "total_permits": 162, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 197}, {"station": "Barlow-Max Bell", "lat": 51.0684, "lon": -113.9953, "permits_within_500m": 48, "permits_within_1km": 95, "total_permits": 143, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 191}, {"station": "Shawnessy", "lat": 50.9393, "lon": -114.0668, "permits_within_500m": 37, "permits_within_1km": 113, "total_permits": 150, "total_value_500m": 7508538, "total_value_1km": 0, "tod_score": 187}, {"station": "Whitehorn", "lat": 51.0852, "lon": -113.9667, "permits_within_500m": 20, "permits_within_1km": 109, "total_permits": 129, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 149}, {"station": "Marlborough", "lat": 51.0779, "lon": -113.9633, "permits_within_500m": 22, "permits_within_1km": 91, "total_permits": 113, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 135}, {"station": "Dalhousie", "lat": 51.102, "lon": -114.1226, "permits_within_500m": 22, "permits_within_1km": 79, "total_permits": 101, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 123}, {"station": "Fish Creek-Lacombe", "lat": 50.9253, "lon": -114.0702, "permits_within_500m": 15, "permits_within_1km": 67, "total_permits": 82, "total_value_500m": 0, "total_value_1km": 0, "tod_score": 97}];
+            
+            stations.forEach(function(station) {
+                var radius = Math.sqrt(station.tod_score) * 50;
+                var color = station.tod_score > 100 ? '#ff6b6b' : 
+                           station.tod_score > 50 ? '#ffd93d' : '#6bcf7f';
+                
+                L.circle([station.lat, station.lon], {
+                    color: color,
+                    fillColor: color,
+                    fillOpacity: 0.5,
+                    radius: radius
+                }).bindPopup(`
+                    <strong>${station.station}</strong><br>
+                    TOD Score: ${station.tod_score}<br>
+                    Permits (500m): ${station.permits_within_500m}<br>
+                    Permits (1km): ${station.permits_within_1km}<br>
+                    Value: $${station.total_value_500m.toLocaleString()}
+                `).addTo(map);
+                
+                L.marker([station.lat, station.lon])
+                    .bindPopup(`<strong>${station.station}</strong>`)
+                    .addTo(map);
+            });
+            
+            // Create bar chart
+            var topStations = stations.slice(0, 15);
+            
+            var trace1 = {
+                x: topStations.map(s => s.permits_within_500m),
+                y: topStations.map(s => s.station),
+                name: 'Within 500m',
+                type: 'bar',
+                orientation: 'h',
+                marker: {color: '#58a6ff'}
+            };
+            
+            var trace2 = {
+                x: topStations.map(s => s.permits_within_1km),
+                y: topStations.map(s => s.station),
+                name: 'Within 1km',
+                type: 'bar',
+                orientation: 'h',
+                marker: {color: '#79c0ff'}
+            };
+            
+            var layout = {
+                title: 'Development Permits by Transit Station',
+                barmode: 'stack',
+                paper_bgcolor: '#0d1117',
+                plot_bgcolor: '#0d1117',
+                font: {color: '#e6edf3'},
+                xaxis: {
+                    title: 'Number of Permits',
+                    gridcolor: '#30363d',
+                    color: '#e6edf3'
+                },
+                yaxis: {
+                    gridcolor: '#30363d',
+                    color: '#e6edf3',
+                    autorange: 'reversed'
+                },
+                height: 600
+            };
+            
+            Plotly.newPlot('barChart', [trace1, trace2], layout);
+        </script>
+        
+        <p style="color: #8b949e; margin-top: 40px; font-size: 0.9em;">
+            <strong>Interpretation:</strong><br>
+            • <strong>TOD Score:</strong> Higher values indicate more active development around transit stations<br>
+            • <strong>Circle Size:</strong> Larger circles on map represent higher TOD scores<br>
+            • <strong>Colors:</strong> Red = high activity, Yellow = moderate, Green = low activity<br>
+            • Data includes all building permits within 1km of each CTrain station
+        </p>
+    </div>
+</body>
+</html>

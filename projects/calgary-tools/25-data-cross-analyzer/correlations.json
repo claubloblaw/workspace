@@ -1,0 +1,402 @@
+[
+  {
+    "community": "CORNERSTONE",
+    "score": 791.74,
+    "permits": 395,
+    "crime": 0,
+    "assessments": 164,
+    "demographics": 1
+  },
+  {
+    "community": "LIVINGSTON",
+    "score": 706.71,
+    "permits": 353,
+    "crime": 0,
+    "assessments": 61,
+    "demographics": 1
+  },
+  {
+    "community": "MAHOGANY",
+    "score": 587.3,
+    "permits": 293,
+    "crime": 0,
+    "assessments": 120,
+    "demographics": 1
+  },
+  {
+    "community": "RANGEVIEW",
+    "score": 532.17,
+    "permits": 266,
+    "crime": 0,
+    "assessments": 7,
+    "demographics": 1
+  },
+  {
+    "community": "SADDLE RIDGE",
+    "score": 508.79,
+    "permits": 253,
+    "crime": 0,
+    "assessments": 269,
+    "demographics": 1
+  },
+  {
+    "community": "GLACIER RIDGE",
+    "score": 436.38,
+    "permits": 218,
+    "crime": 0,
+    "assessments": 38,
+    "demographics": 0
+  },
+  {
+    "community": "LEGACY",
+    "score": 435.09,
+    "permits": 217,
+    "crime": 0,
+    "assessments": 99,
+    "demographics": 1
+  },
+  {
+    "community": "HASKAYNE",
+    "score": 420.21,
+    "permits": 210,
+    "crime": 0,
+    "assessments": 11,
+    "demographics": 1
+  },
+  {
+    "community": "SETON",
+    "score": 418.07,
+    "permits": 208,
+    "crime": 0,
+    "assessments": 197,
+    "demographics": 1
+  },
+  {
+    "community": "CARRINGTON",
+    "score": 372.94,
+    "permits": 186,
+    "crime": 0,
+    "assessments": 84,
+    "demographics": 1
+  },
+  {
+    "community": "PINE CREEK",
+    "score": 370.25,
+    "permits": 185,
+    "crime": 0,
+    "assessments": 15,
+    "demographics": 1
+  },
+  {
+    "community": "ALPINE PARK",
+    "score": 369.73,
+    "permits": 189,
+    "crime": 17,
+    "assessments": 23,
+    "demographics": 0
+  },
+  {
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "score": 345.1,
+    "permits": 172,
+    "crime": 0,
+    "assessments": 100,
+    "demographics": 1
+  },
+  {
+    "community": "BELMONT",
+    "score": 287.25,
+    "permits": 152,
+    "crime": 37,
+    "assessments": 165,
+    "demographics": 1
+  },
+  {
+    "community": "MORAINE",
+    "score": 266.18,
+    "permits": 133,
+    "crime": 0,
+    "assessments": 18,
+    "demographics": 0
+  },
+  {
+    "community": "HOTCHKISS",
+    "score": 258.35,
+    "permits": 129,
+    "crime": 0,
+    "assessments": 25,
+    "demographics": 1
+  },
+  {
+    "community": "CITYSCAPE",
+    "score": 252.8,
+    "permits": 126,
+    "crime": 0,
+    "assessments": 70,
+    "demographics": 1
+  },
+  {
+    "community": "HOMESTEAD",
+    "score": 246.21,
+    "permits": 123,
+    "crime": 0,
+    "assessments": 11,
+    "demographics": 1
+  },
+  {
+    "community": "WOLF WILLOW",
+    "score": 244.77,
+    "permits": 122,
+    "crime": 0,
+    "assessments": 67,
+    "demographics": 1
+  },
+  {
+    "community": "SILVERADO",
+    "score": 224.84,
+    "permits": 112,
+    "crime": 0,
+    "assessments": 74,
+    "demographics": 1
+  },
+  {
+    "community": "SAGE HILL",
+    "score": 222.85,
+    "permits": 110,
+    "crime": 0,
+    "assessments": 275,
+    "demographics": 1
+  },
+  {
+    "community": "CRANSTON",
+    "score": 190.0,
+    "permits": 94,
+    "crime": 0,
+    "assessments": 190,
+    "demographics": 1
+  },
+  {
+    "community": "COPPERFIELD",
+    "score": 186.51,
+    "permits": 93,
+    "crime": 0,
+    "assessments": 41,
+    "demographics": 1
+  },
+  {
+    "community": "WALDEN",
+    "score": 180.6,
+    "permits": 90,
+    "crime": 0,
+    "assessments": 50,
+    "demographics": 1
+  },
+  {
+    "community": "KILLARNEY/GLENGARRY",
+    "score": 176.54,
+    "permits": 88,
+    "crime": 0,
+    "assessments": 44,
+    "demographics": 1
+  },
+  {
+    "community": "REDSTONE",
+    "score": 170.14,
+    "permits": 85,
+    "crime": 0,
+    "assessments": 4,
+    "demographics": 1
+  },
+  {
+    "community": "HILLHURST",
+    "score": 167.58,
+    "permits": 83,
+    "crime": 0,
+    "assessments": 148,
+    "demographics": 1
+  },
+  {
+    "community": "MOUNT PLEASANT",
+    "score": 166.26,
+    "permits": 83,
+    "crime": 0,
+    "assessments": 16,
+    "demographics": 1
+  },
+  {
+    "community": "CAPITOL HILL",
+    "score": 164.12,
+    "permits": 82,
+    "crime": 0,
+    "assessments": 2,
+    "demographics": 1
+  },
+  {
+    "community": "EVANSTON",
+    "score": 160.68,
+    "permits": 80,
+    "crime": 0,
+    "assessments": 58,
+    "demographics": 1
+  },
+  {
+    "community": "SPRINGBANK HILL",
+    "score": 158.73,
+    "permits": 78,
+    "crime": 0,
+    "assessments": 263,
+    "demographics": 1
+  },
+  {
+    "community": "WEST HILLHURST",
+    "score": 154.47,
+    "permits": 77,
+    "crime": 0,
+    "assessments": 37,
+    "demographics": 1
+  },
+  {
+    "community": "PANORAMA HILLS",
+    "score": 153.57,
+    "permits": 76,
+    "crime": 0,
+    "assessments": 147,
+    "demographics": 1
+  },
+  {
+    "community": "MONTGOMERY",
+    "score": 148.42,
+    "permits": 74,
+    "crime": 0,
+    "assessments": 32,
+    "demographics": 1
+  },
+  {
+    "community": "WEST SPRINGS",
+    "score": 139.15,
+    "permits": 68,
+    "crime": 0,
+    "assessments": 305,
+    "demographics": 1
+  },
+  {
+    "community": "WINSTON HEIGHTS/MOUNTVIEW",
+    "score": 120.13,
+    "permits": 60,
+    "crime": 0,
+    "assessments": 3,
+    "demographics": 1
+  },
+  {
+    "community": "COVENTRY HILLS",
+    "score": 118.26,
+    "permits": 59,
+    "crime": 0,
+    "assessments": 16,
+    "demographics": 1
+  },
+  {
+    "community": "YORKVILLE",
+    "score": 114.15,
+    "permits": 57,
+    "crime": 0,
+    "assessments": 5,
+    "demographics": 1
+  },
+  {
+    "community": "RENFREW",
+    "score": 112.42,
+    "permits": 56,
+    "crime": 0,
+    "assessments": 32,
+    "demographics": 1
+  },
+  {
+    "community": "GLENBROOK",
+    "score": 112.22,
+    "permits": 56,
+    "crime": 0,
+    "assessments": 12,
+    "demographics": 1
+  },
+  {
+    "community": "TARADALE",
+    "score": 108.67,
+    "permits": 54,
+    "crime": 0,
+    "assessments": 57,
+    "demographics": 1
+  },
+  {
+    "community": "MCKENZIE TOWNE",
+    "score": 103.05,
+    "permits": 50,
+    "crime": 0,
+    "assessments": 295,
+    "demographics": 1
+  },
+  {
+    "community": "RICHMOND",
+    "score": 102.38,
+    "permits": 51,
+    "crime": 0,
+    "assessments": 28,
+    "demographics": 1
+  },
+  {
+    "community": "FOOTHILLS",
+    "score": 102.1,
+    "permits": 51,
+    "crime": 0,
+    "assessments": 0,
+    "demographics": 1
+  },
+  {
+    "community": "TUXEDO PARK",
+    "score": 100.13,
+    "permits": 50,
+    "crime": 0,
+    "assessments": 3,
+    "demographics": 1
+  },
+  {
+    "community": "EVERGREEN",
+    "score": 99.64,
+    "permits": 49,
+    "crime": 0,
+    "assessments": 154,
+    "demographics": 1
+  },
+  {
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "score": 96.25,
+    "permits": 48,
+    "crime": 0,
+    "assessments": 15,
+    "demographics": 1
+  },
+  {
+    "community": "HUNTINGTON HILLS",
+    "score": 94.42,
+    "permits": 47,
+    "crime": 0,
+    "assessments": 32,
+    "demographics": 1
+  },
+  {
+    "community": "MARTINDALE",
+    "score": 92.24,
+    "permits": 46,
+    "crime": 0,
+    "assessments": 14,
+    "demographics": 1
+  },
+  {
+    "community": "LAKE BONAVISTA",
+    "score": 89.97,
+    "permits": 44,
+    "crime": 0,
+    "assessments": 187,
+    "demographics": 1
+  }
+]

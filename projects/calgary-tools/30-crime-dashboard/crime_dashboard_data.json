@@ -1,0 +1,935 @@
+{
+  "communities": [
+    {
+      "community": "BELTLINE",
+      "total_crimes": 10833,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          3793
+        ],
+        [
+          "Assault (Non-domestic)",
+          2544
+        ],
+        [
+          "Break & Enter - Commercial",
+          2190
+        ]
+      ]
+    },
+    {
+      "community": "BOWNESS",
+      "total_crimes": 2688,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          754
+        ],
+        [
+          "Assault (Non-domestic)",
+          576
+        ],
+        [
+          "Theft OF Vehicle",
+          454
+        ]
+      ]
+    },
+    {
+      "community": "BRIDGELAND/RIVERSIDE",
+      "total_crimes": 2301,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          728
+        ],
+        [
+          "Break & Enter - Commercial",
+          516
+        ],
+        [
+          "Assault (Non-domestic)",
+          281
+        ]
+      ]
+    },
+    {
+      "community": "ALBERT PARK/RADISSON HEIGHTS",
+      "total_crimes": 2130,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          663
+        ],
+        [
+          "Theft OF Vehicle",
+          407
+        ],
+        [
+          "Assault (Non-domestic)",
+          342
+        ]
+      ]
+    },
+    {
+      "community": "ACADIA",
+      "total_crimes": 2020,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          869
+        ],
+        [
+          "Theft OF Vehicle",
+          321
+        ],
+        [
+          "Assault (Non-domestic)",
+          231
+        ]
+      ]
+    },
+    {
+      "community": "BRENTWOOD",
+      "total_crimes": 1593,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          572
+        ],
+        [
+          "Break & Enter - Commercial",
+          247
+        ],
+        [
+          "Theft OF Vehicle",
+          210
+        ]
+      ]
+    },
+    {
+      "community": "BANKVIEW",
+      "total_crimes": 1546,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          640
+        ],
+        [
+          "Break & Enter - Commercial",
+          243
+        ],
+        [
+          "Theft OF Vehicle",
+          229
+        ]
+      ]
+    },
+    {
+      "community": "ARBOUR LAKE",
+      "total_crimes": 1411,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          501
+        ],
+        [
+          "Break & Enter - Commercial",
+          250
+        ],
+        [
+          "Assault (Non-domestic)",
+          186
+        ]
+      ]
+    },
+    {
+      "community": "BANFF TRAIL",
+      "total_crimes": 1387,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          557
+        ],
+        [
+          "Break & Enter - Other Premises",
+          202
+        ],
+        [
+          "Theft OF Vehicle",
+          199
+        ]
+      ]
+    },
+    {
+      "community": "BEDDINGTON HEIGHTS",
+      "total_crimes": 1365,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          524
+        ],
+        [
+          "Theft OF Vehicle",
+          343
+        ],
+        [
+          "Assault (Non-domestic)",
+          152
+        ]
+      ]
+    },
+    {
+      "community": "ALTADORE",
+      "total_crimes": 1086,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          430
+        ],
+        [
+          "Break & Enter - Other Premises",
+          220
+        ],
+        [
+          "Theft OF Vehicle",
+          126
+        ]
+      ]
+    },
+    {
+      "community": "AUBURN BAY",
+      "total_crimes": 1041,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          452
+        ],
+        [
+          "Theft OF Vehicle",
+          174
+        ],
+        [
+          "Break & Enter - Dwelling",
+          127
+        ]
+      ]
+    },
+    {
+      "community": "ABBEYDALE",
+      "total_crimes": 773,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          277
+        ],
+        [
+          "Theft OF Vehicle",
+          173
+        ],
+        [
+          "Assault (Non-domestic)",
+          111
+        ]
+      ]
+    },
+    {
+      "community": "APPLEWOOD PARK",
+      "total_crimes": 729,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          255
+        ],
+        [
+          "Theft OF Vehicle",
+          172
+        ],
+        [
+          "Break & Enter - Commercial",
+          76
+        ]
+      ]
+    },
+    {
+      "community": "BRIDLEWOOD",
+      "total_crimes": 606,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          219
+        ],
+        [
+          "Theft OF Vehicle",
+          110
+        ],
+        [
+          "Assault (Non-domestic)",
+          70
+        ]
+      ]
+    },
+    {
+      "community": "ALYTH/BONNYBROOK",
+      "total_crimes": 592,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          187
+        ],
+        [
+          "Break & Enter - Commercial",
+          167
+        ],
+        [
+          "Theft OF Vehicle",
+          148
+        ]
+      ]
+    },
+    {
+      "community": "BRAESIDE",
+      "total_crimes": 582,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          246
+        ],
+        [
+          "Theft OF Vehicle",
+          78
+        ],
+        [
+          "Assault (Non-domestic)",
+          65
+        ]
+      ]
+    },
+    {
+      "community": "ASPEN WOODS",
+      "total_crimes": 573,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          189
+        ],
+        [
+          "Break & Enter - Dwelling",
+          150
+        ],
+        [
+          "Break & Enter - Commercial",
+          92
+        ]
+      ]
+    },
+    {
+      "community": "02E",
+      "total_crimes": 473,
+      "top_categories": [
+        [
+          "Assault (Non-domestic)",
+          376
+        ],
+        [
+          "Violence\u00a0 'Other' (Non-domestic)",
+          75
+        ],
+        [
+          "Theft FROM Vehicle",
+          10
+        ]
+      ]
+    },
+    {
+      "community": "BURNS INDUSTRIAL",
+      "total_crimes": 464,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          175
+        ],
+        [
+          "Break & Enter - Commercial",
+          155
+        ],
+        [
+          "Theft OF Vehicle",
+          74
+        ]
+      ]
+    },
+    {
+      "community": "12A",
+      "total_crimes": 359,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          172
+        ],
+        [
+          "Theft FROM Vehicle",
+          83
+        ],
+        [
+          "Theft OF Vehicle",
+          81
+        ]
+      ]
+    },
+    {
+      "community": "BELVEDERE",
+      "total_crimes": 284,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          93
+        ],
+        [
+          "Theft OF Vehicle",
+          73
+        ],
+        [
+          "Assault (Non-domestic)",
+          44
+        ]
+      ]
+    },
+    {
+      "community": "BRITANNIA",
+      "total_crimes": 145,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          63
+        ],
+        [
+          "Break & Enter - Dwelling",
+          33
+        ],
+        [
+          "Break & Enter - Commercial",
+          27
+        ]
+      ]
+    },
+    {
+      "community": "CALGARY INTERNATIONAL AIRPORT",
+      "total_crimes": 140,
+      "top_categories": [
+        [
+          "Assault (Non-domestic)",
+          111
+        ],
+        [
+          "Break & Enter - Commercial",
+          29
+        ]
+      ]
+    },
+    {
+      "community": "10E",
+      "total_crimes": 130,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          53
+        ],
+        [
+          "Theft FROM Vehicle",
+          36
+        ],
+        [
+          "Theft OF Vehicle",
+          33
+        ]
+      ]
+    },
+    {
+      "community": "BAYVIEW",
+      "total_crimes": 109,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          38
+        ],
+        [
+          "Break & Enter - Commercial",
+          20
+        ],
+        [
+          "Break & Enter - Dwelling",
+          20
+        ]
+      ]
+    },
+    {
+      "community": "AURORA BUSINESS PARK",
+      "total_crimes": 105,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          40
+        ],
+        [
+          "Break & Enter - Commercial",
+          18
+        ],
+        [
+          "Theft OF Vehicle",
+          16
+        ]
+      ]
+    },
+    {
+      "community": "12J",
+      "total_crimes": 88,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          43
+        ],
+        [
+          "Theft FROM Vehicle",
+          24
+        ],
+        [
+          "Theft OF Vehicle",
+          17
+        ]
+      ]
+    },
+    {
+      "community": "01K",
+      "total_crimes": 87,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          26
+        ],
+        [
+          "Assault (Non-domestic)",
+          23
+        ],
+        [
+          "Theft OF Vehicle",
+          19
+        ]
+      ]
+    },
+    {
+      "community": "09O",
+      "total_crimes": 83,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          30
+        ],
+        [
+          "Theft OF Vehicle",
+          21
+        ],
+        [
+          "Break & Enter - Commercial",
+          15
+        ]
+      ]
+    },
+    {
+      "community": "BONAVISTA DOWNS",
+      "total_crimes": 68,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          27
+        ],
+        [
+          "Theft OF Vehicle",
+          18
+        ],
+        [
+          "Break & Enter - Other Premises",
+          11
+        ]
+      ]
+    },
+    {
+      "community": "09Q",
+      "total_crimes": 63,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          24
+        ],
+        [
+          "Theft OF Vehicle",
+          12
+        ],
+        [
+          "Assault (Non-domestic)",
+          10
+        ]
+      ]
+    },
+    {
+      "community": "BEL-AIRE",
+      "total_crimes": 61,
+      "top_categories": [
+        [
+          "Break & Enter - Dwelling",
+          26
+        ],
+        [
+          "Theft FROM Vehicle",
+          16
+        ],
+        [
+          "Break & Enter - Commercial",
+          7
+        ]
+      ]
+    },
+    {
+      "community": "BELMONT",
+      "total_crimes": 47,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          19
+        ],
+        [
+          "Theft OF Vehicle",
+          11
+        ],
+        [
+          "Break & Enter - Commercial",
+          6
+        ]
+      ]
+    },
+    {
+      "community": "09K",
+      "total_crimes": 43,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          23
+        ],
+        [
+          "Theft OF Vehicle",
+          17
+        ],
+        [
+          "Break & Enter - Other Premises",
+          2
+        ]
+      ]
+    },
+    {
+      "community": "12L",
+      "total_crimes": 32,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          16
+        ],
+        [
+          "Theft FROM Vehicle",
+          9
+        ],
+        [
+          "Break & Enter - Dwelling",
+          4
+        ]
+      ]
+    },
+    {
+      "community": "13F",
+      "total_crimes": 30,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          14
+        ],
+        [
+          "Break & Enter - Commercial",
+          7
+        ],
+        [
+          "Theft OF Vehicle",
+          5
+        ]
+      ]
+    },
+    {
+      "community": "02F",
+      "total_crimes": 29,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          15
+        ],
+        [
+          "Assault (Non-domestic)",
+          5
+        ],
+        [
+          "Theft FROM Vehicle",
+          4
+        ]
+      ]
+    },
+    {
+      "community": "03W",
+      "total_crimes": 26,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          16
+        ],
+        [
+          "Theft FROM Vehicle",
+          7
+        ],
+        [
+          "Theft OF Vehicle",
+          2
+        ]
+      ]
+    },
+    {
+      "community": "01B",
+      "total_crimes": 25,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          11
+        ],
+        [
+          "Theft FROM Vehicle",
+          7
+        ],
+        [
+          "Theft OF Vehicle",
+          4
+        ]
+      ]
+    },
+    {
+      "community": "05D",
+      "total_crimes": 24,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          8
+        ],
+        [
+          "Theft OF Vehicle",
+          7
+        ],
+        [
+          "Theft FROM Vehicle",
+          5
+        ]
+      ]
+    },
+    {
+      "community": "12B",
+      "total_crimes": 24,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          10
+        ],
+        [
+          "Theft OF Vehicle",
+          7
+        ],
+        [
+          "Theft FROM Vehicle",
+          4
+        ]
+      ]
+    },
+    {
+      "community": "09P",
+      "total_crimes": 22,
+      "top_categories": [
+        [
+          "Theft OF Vehicle",
+          8
+        ],
+        [
+          "Theft FROM Vehicle",
+          6
+        ],
+        [
+          "Violence\u00a0 'Other' (Non-domestic)",
+          3
+        ]
+      ]
+    },
+    {
+      "community": "ALPINE PARK",
+      "total_crimes": 22,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          8
+        ],
+        [
+          "Theft FROM Vehicle",
+          5
+        ],
+        [
+          "Break & Enter - Dwelling",
+          4
+        ]
+      ]
+    },
+    {
+      "community": "02C",
+      "total_crimes": 21,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          10
+        ],
+        [
+          "Theft FROM Vehicle",
+          8
+        ],
+        [
+          "Theft OF Vehicle",
+          3
+        ]
+      ]
+    },
+    {
+      "community": "10D",
+      "total_crimes": 20,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          7
+        ],
+        [
+          "Theft OF Vehicle",
+          6
+        ],
+        [
+          "Assault (Non-domestic)",
+          4
+        ]
+      ]
+    },
+    {
+      "community": "13G",
+      "total_crimes": 19,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          11
+        ],
+        [
+          "Theft FROM Vehicle",
+          4
+        ],
+        [
+          "Theft OF Vehicle",
+          3
+        ]
+      ]
+    },
+    {
+      "community": "AMBLETON",
+      "total_crimes": 15,
+      "top_categories": [
+        [
+          "Break & Enter - Commercial",
+          4
+        ],
+        [
+          "Theft FROM Vehicle",
+          4
+        ],
+        [
+          "Theft OF Vehicle",
+          4
+        ]
+      ]
+    },
+    {
+      "community": "05F",
+      "total_crimes": 12,
+      "top_categories": [
+        [
+          "Theft OF Vehicle",
+          10
+        ],
+        [
+          "Theft FROM Vehicle",
+          2
+        ]
+      ]
+    },
+    {
+      "community": "06A",
+      "total_crimes": 12,
+      "top_categories": [
+        [
+          "Theft FROM Vehicle",
+          6
+        ],
+        [
+          "Break & Enter - Commercial",
+          3
+        ],
+        [
+          "Assault (Non-domestic)",
+          1
+        ]
+      ]
+    }
+  ],
+  "categories": [
+    [
+      "Theft FROM Vehicle",
+      12673
+    ],
+    [
+      "Assault (Non-domestic)",
+      5979
+    ],
+    [
+      "Break & Enter - Commercial",
+      5570
+    ],
+    [
+      "Theft OF Vehicle",
+      4978
+    ],
+    [
+      "Violence\u00a0 'Other' (Non-domestic)",
+      2545
+    ],
+    [
+      "Break & Enter - Other Premises",
+      1784
+    ],
+    [
+      "Break & Enter - Dwelling",
+      1664
+    ],
+    [
+      "Street Robbery",
+      734
+    ],
+    [
+      "Commercial Robbery",
+      475
+    ]
+  ],
+  "total_crimes": 36402
+}

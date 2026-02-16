@@ -1,0 +1,950 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calgary Crime-Value Arbitrage Finder</title>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            margin: 0; 
+            padding: 20px; 
+            background: #0a0a0a; 
+            color: #e0e0e0;
+        }
+        .container { 
+            max-width: 1400px; 
+            margin: 0 auto; 
+            background: #1a1a1a; 
+            padding: 30px; 
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.5);
+        }
+        h1 { 
+            color: #ff5252; 
+            margin-bottom: 10px;
+            font-size: 2.2em;
+        }
+        h2 {
+            color: #4fc3f7;
+            border-bottom: 2px solid #4fc3f7;
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        .meta { 
+            color: #999; 
+            margin-bottom: 30px; 
+        }
+        table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            margin: 20px 0; 
+            background: #252525;
+        }
+        th { 
+            background: #2c5aa0; 
+            color: white; 
+            padding: 14px; 
+            text-align: left; 
+            font-weight: 600;
+        }
+        td { 
+            padding: 12px; 
+            border-bottom: 1px solid #333; 
+        }
+        tr:hover { 
+            background: #2a2a2a; 
+        }
+        .score { 
+            font-weight: bold; 
+            font-size: 1.1em; 
+        }
+        .buy { background: #1b5e20; }
+        .sell { background: #b71c1c; }
+        .buy-score { color: #4caf50; }
+        .sell-score { color: #f44336; }
+        .chart { 
+            margin: 30px 0; 
+            background: #252525; 
+            padding: 20px; 
+            border-radius: 8px;
+        }
+        .metric-card {
+            display: inline-block;
+            background: #2a2a2a;
+            padding: 15px 25px;
+            margin: 10px;
+            border-radius: 8px;
+            border-left: 4px solid #ff5252;
+        }
+        .metric-value {
+            font-size: 2em;
+            color: #ff5252;
+            font-weight: bold;
+        }
+        .metric-label {
+            color: #999;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚨 Calgary Crime-Value Arbitrage Finder</h1>
+        <p class="meta">
+            <strong>Analysis Date:</strong> 2026-02-15 10:55:48<br>
+            <strong>Methodology:</strong> Identifies neighborhoods where property values don't align with crime rates<br>
+            <strong>BUY Signal:</strong> Low crime + reasonable/low price (undervalued safety)<br>
+            <strong>SELL Signal:</strong> High crime + high price (overvalued risk)
+        </p>
+        
+        <div class="metric-card">
+            <div class="metric-value">133</div>
+            <div class="metric-label">Communities Analyzed</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">4</div>
+            <div class="metric-label">BUY Signals</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">20</div>
+            <div class="metric-label">SELL Signals</div>
+        </div>
+        
+        <h2>💎 Top BUY Opportunities (Undervalued Safety)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Community</th>
+                    <th>Median Property Value</th>
+                    <th>Crime Count</th>
+                    <th>Crime Rate (per 100)</th>
+                    <th>Arbitrage Score</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr class="buy">
+                    <td><strong>1</strong></td>
+                    <td><strong>HASKAYNE</strong></td>
+                    <td>$4,480,000</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td class="score buy-score">-8.960</td>
+                </tr>
+
+                <tr class="buy">
+                    <td><strong>2</strong></td>
+                    <td><strong>STARFIELD</strong></td>
+                    <td>$1,200,000</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td class="score buy-score">-2.400</td>
+                </tr>
+
+                <tr class="buy">
+                    <td><strong>3</strong></td>
+                    <td><strong>PINE CREEK</strong></td>
+                    <td>$622,000</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td class="score buy-score">-1.244</td>
+                </tr>
+
+                <tr class="buy">
+                    <td><strong>4</strong></td>
+                    <td><strong>EAST SHEPARD INDUSTRIAL</strong></td>
+                    <td>$392,500</td>
+                    <td>0</td>
+                    <td>0.00</td>
+                    <td class="score buy-score">-0.785</td>
+                </tr>
+
+            </tbody>
+        </table>
+        
+        <h2>⚠️ Top SELL Warnings (Overvalued or High Risk)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Community</th>
+                    <th>Median Property Value</th>
+                    <th>Crime Count</th>
+                    <th>Crime Rate (per 100)</th>
+                    <th>Arbitrage Score</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr class="sell">
+                    <td><strong>1</strong></td>
+                    <td><strong>BELMONT</strong></td>
+                    <td>$10,000</td>
+                    <td>47</td>
+                    <td>12.60</td>
+                    <td class="score sell-score">2.500</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>2</strong></td>
+                    <td><strong>CURRIE BARRACKS</strong></td>
+                    <td>$10,000</td>
+                    <td>66</td>
+                    <td>14.80</td>
+                    <td class="score sell-score">2.940</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>3</strong></td>
+                    <td><strong>DISCOVERY RIDGE</strong></td>
+                    <td>$10,000</td>
+                    <td>169</td>
+                    <td>41.73</td>
+                    <td class="score sell-score">8.326</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>4</strong></td>
+                    <td><strong>COUNTRY HILLS VILLAGE</strong></td>
+                    <td>$10,000</td>
+                    <td>388</td>
+                    <td>51.60</td>
+                    <td class="score sell-score">10.299</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>5</strong></td>
+                    <td><strong>CARRINGTON</strong></td>
+                    <td>$10,000</td>
+                    <td>154</td>
+                    <td>56.20</td>
+                    <td class="score sell-score">11.221</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>6</strong></td>
+                    <td><strong>CORNERSTONE</strong></td>
+                    <td>$10,000</td>
+                    <td>253</td>
+                    <td>63.73</td>
+                    <td class="score sell-score">12.726</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>7</strong></td>
+                    <td><strong>BRIDLEWOOD</strong></td>
+                    <td>$10,000</td>
+                    <td>336</td>
+                    <td>71.04</td>
+                    <td class="score sell-score">14.187</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>8</strong></td>
+                    <td><strong>CHINATOWN</strong></td>
+                    <td>$37,000</td>
+                    <td>286</td>
+                    <td>90.22</td>
+                    <td class="score sell-score">17.970</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>9</strong></td>
+                    <td><strong>CRANSTON</strong></td>
+                    <td>$10,000</td>
+                    <td>675</td>
+                    <td>94.27</td>
+                    <td class="score sell-score">18.835</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>10</strong></td>
+                    <td><strong>ALPINE PARK</strong></td>
+                    <td>$54,000</td>
+                    <td>22</td>
+                    <td>95.65</td>
+                    <td class="score sell-score">19.022</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>11</strong></td>
+                    <td><strong>COPPERFIELD</strong></td>
+                    <td>$10,000</td>
+                    <td>490</td>
+                    <td>98.79</td>
+                    <td class="score sell-score">19.738</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>12</strong></td>
+                    <td><strong>CITYSCAPE</strong></td>
+                    <td>$10,000</td>
+                    <td>253</td>
+                    <td>102.43</td>
+                    <td class="score sell-score">20.466</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>13</strong></td>
+                    <td><strong>ASPEN WOODS</strong></td>
+                    <td>$10,000</td>
+                    <td>352</td>
+                    <td>104.14</td>
+                    <td class="score sell-score">20.808</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>14</strong></td>
+                    <td><strong>BELTLINE</strong></td>
+                    <td>$25,000</td>
+                    <td>6836</td>
+                    <td>105.07</td>
+                    <td class="score sell-score">20.964</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>15</strong></td>
+                    <td><strong>AUBURN BAY</strong></td>
+                    <td>$10,000</td>
+                    <td>679</td>
+                    <td>115.08</td>
+                    <td class="score sell-score">22.997</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>16</strong></td>
+                    <td><strong>BELVEDERE</strong></td>
+                    <td>$10,000</td>
+                    <td>230</td>
+                    <td>128.49</td>
+                    <td class="score sell-score">25.678</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>17</strong></td>
+                    <td><strong>COUGAR RIDGE</strong></td>
+                    <td>$10,000</td>
+                    <td>202</td>
+                    <td>136.49</td>
+                    <td class="score sell-score">27.277</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>18</strong></td>
+                    <td><strong>CITADEL</strong></td>
+                    <td>$10,000</td>
+                    <td>236</td>
+                    <td>140.48</td>
+                    <td class="score sell-score">28.075</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>19</strong></td>
+                    <td><strong>BRIDGELAND/RIVERSIDE</strong></td>
+                    <td>$15,000</td>
+                    <td>1624</td>
+                    <td>149.40</td>
+                    <td class="score sell-score">29.850</td>
+                </tr>
+
+                <tr class="sell">
+                    <td><strong>20</strong></td>
+                    <td><strong>BRENTWOOD</strong></td>
+                    <td>$10,000</td>
+                    <td>1116</td>
+                    <td>198.22</td>
+                    <td class="score sell-score">39.625</td>
+                </tr>
+
+            </tbody>
+        </table>
+        
+        <div class="chart" id="scatterChart"></div>
+        
+        <h2>📊 All Communities</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Community</th>
+                    <th>Property Value</th>
+                    <th>Crime Count</th>
+                    <th>Properties</th>
+                    <th>Crime/100</th>
+                    <th>Score</th>
+                    <th>Signal</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr class="buy">
+                    <td>HASKAYNE</td>
+                    <td>$4,480,000</td>
+                    <td>0</td>
+                    <td>11</td>
+                    <td>0.00</td>
+                    <td class="score buy-score">-8.960</td>
+                    <td><strong>BUY</strong></td>
+                </tr>
+
+                <tr class="buy">
+                    <td>STARFIELD</td>
+                    <td>$1,200,000</td>
+                    <td>0</td>
+                    <td>15</td>
+                    <td>0.00</td>
+                    <td class="score buy-score">-2.400</td>
+                    <td><strong>BUY</strong></td>
+                </tr>
+
+                <tr class="buy">
+                    <td>PINE CREEK</td>
+                    <td>$622,000</td>
+                    <td>0</td>
+                    <td>15</td>
+                    <td>0.00</td>
+                    <td class="score buy-score">-1.244</td>
+                    <td><strong>BUY</strong></td>
+                </tr>
+
+                <tr class="buy">
+                    <td>EAST SHEPARD INDUSTRIAL</td>
+                    <td>$392,500</td>
+                    <td>0</td>
+                    <td>15</td>
+                    <td>0.00</td>
+                    <td class="score buy-score">-0.785</td>
+                    <td><strong>BUY</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>MORAINE</td>
+                    <td>$169,000</td>
+                    <td>0</td>
+                    <td>18</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.338</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>HOTCHKISS</td>
+                    <td>$51,500</td>
+                    <td>0</td>
+                    <td>25</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.103</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>DOWNTOWN EAST VILLAGE</td>
+                    <td>$37,000</td>
+                    <td>0</td>
+                    <td>689</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.074</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>EAU CLAIRE</td>
+                    <td>$37,000</td>
+                    <td>0</td>
+                    <td>1280</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.074</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>DOWNTOWN WEST END</td>
+                    <td>$37,000</td>
+                    <td>0</td>
+                    <td>1107</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.074</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>STONEY 1</td>
+                    <td>$26,250</td>
+                    <td>0</td>
+                    <td>12</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.052</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>UPPER MOUNT ROYAL</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>15</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>ERLTON</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>357</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>SOUTH CALGARY</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>385</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>SHAGANAPPI</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>63</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>LOWER MOUNT ROYAL</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>164</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>RICHMOND</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>62</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>MISSION</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>667</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>SUNALTA</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>74</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>PARKHILL/STANLEY PARK</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>55</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>SPRUCE CLIFF</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>916</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>HILLHURST</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>545</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>WEST HILLHURST</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>252</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>HOUNSFIELD HEIGHTS/BRIAR HILL</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>236</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>INGLEWOOD</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>486</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>SUNNYSIDE</td>
+                    <td>$15,000</td>
+                    <td>0</td>
+                    <td>383</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.030</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>QUEENSLAND</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>30</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>MONTEREY PARK</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>171</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>KELVIN GROVE</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>14</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>SILVERADO</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>162</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>WESTWINDS</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>33</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>MILLRISE</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>411</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>SHERWOOD</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>154</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>KILLARNEY/GLENGARRY</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>163</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>LINCOLN PARK</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>566</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>SADDLE RIDGE</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>805</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>ERIN WOODS</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>148</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>RANCHLANDS</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>16</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>SETON</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>1464</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>SKYVIEW RANCH</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>1482</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>EVANSTON</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>109</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>PENBROOKE MEADOWS</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>158</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>UNIVERSITY DISTRICT</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>684</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>TUXEDO PARK</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>87</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>TUSCANY</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>446</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>VARSITY</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>539</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>TARADALE</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>174</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>WINDSOR PARK</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>66</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>PARKLAND</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>68</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>SAGE HILL</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>1478</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+                <tr class="">
+                    <td>WEST SPRINGS</td>
+                    <td>$10,000</td>
+                    <td>0</td>
+                    <td>636</td>
+                    <td>0.00</td>
+                    <td class="score ">-0.020</td>
+                    <td><strong>HOLD</strong></td>
+                </tr>
+
+            </tbody>
+        </table>
+        
+        <script>
+            var trace = {
+                x: [4480000, 1200000, 622000, 392500, 169000, 51500, 37000, 37000, 37000, 26250, 15000, 15000, 15000, 15000, 15000, 15000, 15000, 15000, 15000, 15000, 15000, 15000, 15000, 15000, 15000, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000],
+                y: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                mode: 'markers+text',
+                type: 'scatter',
+                text: ['HASKAYNE', 'STARFIELD', 'PINE CREEK', 'EAST SHEPARD INDUSTRIAL', 'MORAINE', 'HOTCHKISS', 'DOWNTOWN EAST VILLAGE', 'EAU CLAIRE', 'DOWNTOWN WEST END', 'STONEY 1', 'UPPER MOUNT ROYAL', 'ERLTON', 'SOUTH CALGARY', 'SHAGANAPPI', 'LOWER MOUNT ROYAL', 'RICHMOND', 'MISSION', 'SUNALTA', 'PARKHILL/STANLEY PARK', 'SPRUCE CLIFF', 'HILLHURST', 'WEST HILLHURST', 'HOUNSFIELD HEIGHTS/BRIAR HILL', 'INGLEWOOD', 'SUNNYSIDE', 'QUEENSLAND', 'MONTEREY PARK', 'KELVIN GROVE', 'SILVERADO', 'WESTWINDS', 'MILLRISE', 'SHERWOOD', 'KILLARNEY/GLENGARRY', 'LINCOLN PARK', 'SADDLE RIDGE', 'ERIN WOODS', 'RANCHLANDS', 'SETON', 'SKYVIEW RANCH', 'EVANSTON'],
+                textposition: 'top center',
+                textfont: { size: 8, color: '#999' },
+                marker: {
+                    size: 12,
+                    color: [-8.96, -2.4, -1.244, -0.785, -0.338, -0.103, -0.074, -0.074, -0.074, -0.052, -0.03, -0.03, -0.03, -0.03, -0.03, -0.03, -0.03, -0.03, -0.03, -0.03, -0.03, -0.03, -0.03, -0.03, -0.03, -0.02, -0.02, -0.02, -0.02, -0.02, -0.02, -0.02, -0.02, -0.02, -0.02, -0.02, -0.02, -0.02, -0.02, -0.02],
+                    colorscale: [
+                        [0, '#4caf50'],
+                        [0.5, '#ffeb3b'],
+                        [1, '#f44336']
+                    ],
+                    showscale: true,
+                    cmin: -2,
+                    cmax: 2,
+                    colorbar: {
+                        title: 'Arbitrage Score',
+                        titleside: 'right'
+                    }
+                },
+                hovertemplate: '<b>%{text}</b><br>' +
+                               'Value: $%{x:,}<br>' +
+                               'Crime Rate: %{y:.2f}<br>' +
+                               '<extra></extra>'
+            };
+            
+            var layout = {
+                title: 'Property Value vs Crime Rate<br><sub>Green = BUY | Yellow = HOLD | Red = SELL</sub>',
+                xaxis: {
+                    title: 'Median Property Value ($)',
+                    gridcolor: '#333',
+                    color: '#e0e0e0',
+                    type: 'log'
+                },
+                yaxis: {
+                    title: 'Crime Rate (per 100 properties)',
+                    gridcolor: '#333',
+                    color: '#e0e0e0'
+                },
+                paper_bgcolor: '#252525',
+                plot_bgcolor: '#252525',
+                font: {
+                    color: '#e0e0e0'
+                },
+                hovermode: 'closest',
+                height: 600
+            };
+            
+            Plotly.newPlot('scatterChart', [trace], layout);
+        </script>
+        
+        <p style="color: #999; margin-top: 40px; font-size: 0.9em;">
+            <strong>How to Read This:</strong><br>
+            • <strong>Arbitrage Score:</strong> Negative = undervalued (good buy), Positive = overvalued (avoid/sell)<br>
+            • <strong>BUY Signal:</strong> Low crime + reasonable price = potential investment opportunity<br>
+            • <strong>SELL Signal:</strong> High crime or very high price relative to safety<br>
+            • <strong>Crime Rate:</strong> Number of reported crimes per 100 properties (2020+ data)<br>
+            • Chart uses log scale for property values to show full range
+        </p>
+    </div>
+</body>
+</html>

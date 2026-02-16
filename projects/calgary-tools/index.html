@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calgary Open Data Tools</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 60px 40px;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        
+        header p {
+            font-size: 1.3em;
+            opacity: 0.95;
+        }
+        
+        .intro {
+            padding: 40px;
+            background: #f8f9fa;
+            border-bottom: 3px solid #e9ecef;
+        }
+        
+        .intro h2 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.8em;
+        }
+        
+        .intro p {
+            line-height: 1.6;
+            color: #666;
+            font-size: 1.1em;
+        }
+        
+        .tools {
+            padding: 40px;
+        }
+        
+        .tools h2 {
+            color: #2d3748;
+            margin-bottom: 30px;
+            font-size: 2em;
+            text-align: center;
+        }
+        
+        .tool-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 25px;
+        }
+        
+        .tool-card {
+            background: #fff;
+            border: 2px solid #e9ecef;
+            border-radius: 12px;
+            padding: 30px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .tool-card:hover {
+            border-color: #667eea;
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.2);
+            transform: translateY(-5px);
+        }
+        
+        .tool-card .icon {
+            font-size: 3em;
+            margin-bottom: 15px;
+        }
+        
+        .tool-card h3 {
+            color: #2d3748;
+            margin-bottom: 12px;
+            font-size: 1.4em;
+        }
+        
+        .tool-card p {
+            color: #718096;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+        
+        .tool-card a {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .tool-card a:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        footer {
+            background: #2d3748;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        footer a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+        
+        .stat {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 3em;
+            font-weight: bold;
+            color: white;
+            display: block;
+        }
+        
+        .stat-label {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏙️ Calgary Open Data Tools</h1>
+            <p>Real estate intelligence powered by Calgary's Open Data Portal</p>
+            
+            <div class="stats">
+                <div class="stat">
+                    <span class="stat-number">8</span>
+                    <span class="stat-label">Analysis Tools</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">150k+</span>
+                    <span class="stat-label">Data Records</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">300+</span>
+                    <span class="stat-label">Communities</span>
+                </div>
+            </div>
+        </header>
+        
+        <div class="intro">
+            <h2>About This Project</h2>
+            <p>
+                This collection of data analysis tools helps you discover investment opportunities, 
+                assess neighborhood safety, and understand development trends across Calgary. All tools 
+                use real-time data from the Calgary Open Data Portal to provide actionable insights 
+                for investors, developers, and residents.
+            </p>
+        </div>
+        
+        <div class="tools">
+            <h2>Available Tools</h2>
+            
+            <div class="tool-grid">
+                <div class="tool-card">
+                    <div class="icon">🏗️</div>
+                    <h3>Permit Profit Predictor</h3>
+                    <p>Identifies communities with high development activity and investment potential based on building permits vs. property values.</p>
+                    <a href="01-permit-profit-predictor/permit_analysis.html">View Analysis →</a>
+                </div>
+                
+                <div class="tool-card">
+                    <div class="icon">🏪</div>
+                    <h3>Business Desert Finder</h3>
+                    <p>Finds residential areas with high population but limited commercial development, indicating potential business opportunities.</p>
+                    <a href="02-business-desert-finder/desert_analysis.html">View Analysis →</a>
+                </div>
+                
+                <div class="tool-card">
+                    <div class="icon">🚨</div>
+                    <h3>Crime-Value Arbitrage</h3>
+                    <p>Discovers mispriced neighborhoods where property values don't align with crime rates, revealing undervalued safe areas.</p>
+                    <a href="03-crime-value-arbitrage/arbitrage_map.html">View Analysis →</a>
+                </div>
+                
+                <div class="tool-card">
+                    <div class="icon">🚇</div>
+                    <h3>Transit Development Radar</h3>
+                    <p>Maps building permits near CTrain stations to identify transit-oriented development hotspots and future value growth areas.</p>
+                    <a href="04-transit-development-radar/transit_development_map.html">View Analysis →</a>
+                </div>
+                
+                <div class="tool-card">
+                    <div class="icon">📈</div>
+                    <h3>Construction Boom Detector</h3>
+                    <p>Tracks permit velocity changes to find neighborhoods with accelerating or slowing development activity.</p>
+                    <a href="09-construction-boom-detector/boom_analysis.html">View Analysis →</a>
+                </div>
+                
+                <div class="tool-card">
+                    <div class="icon">🔀</div>
+                    <h3>Data Cross-Analyzer</h3>
+                    <p>Combines permits, crime, property assessments, and demographics to create composite investment scores for each community.</p>
+                    <a href="25-data-cross-analyzer/insights.html">View Analysis →</a>
+                </div>
+                
+                <div class="tool-card">
+                    <div class="icon">🏘️</div>
+                    <h3>Gentrification Index</h3>
+                    <p>Identifies neighborhoods showing early signs of gentrification based on permit activity and property value trends.</p>
+                    <a href="26-gentrification-index/gentrification_map.html">View Analysis →</a>
+                </div>
+                
+                <div class="tool-card">
+                    <div class="icon">📊</div>
+                    <h3>Crime Dashboard</h3>
+                    <p>Interactive dashboard showing crime statistics by community and category for informed safety assessment.</p>
+                    <a href="30-crime-dashboard/crime_dashboard.html">View Dashboard →</a>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            <p><strong>Data Source:</strong> <a href="https://data.calgary.ca" target="_blank">Calgary Open Data Portal</a></p>
+            <p style="margin-top: 10px; opacity: 0.8;">All data is updated from live APIs. Analysis performed using Python, Pandas, and Plotly.</p>
+            <p style="margin-top: 20px; font-size: 0.9em;">
+                Built with ❤️ for Calgary real estate intelligence
+            </p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,352 @@
+[
+  {
+    "community": "HASKAYNE",
+    "score": 19883.86,
+    "avg_property_value": 6965682.0,
+    "permit_rate": 2854.55,
+    "permits": 314
+  },
+  {
+    "community": "PINE CREEK",
+    "score": 6843.64,
+    "avg_property_value": 3343800.0,
+    "permit_rate": 2046.67,
+    "permits": 307
+  },
+  {
+    "community": "ALPINE PARK",
+    "score": 6556.39,
+    "avg_property_value": 4833239.0,
+    "permit_rate": 1356.52,
+    "permits": 312
+  },
+  {
+    "community": "HOMESTEAD",
+    "score": 6310.32,
+    "avg_property_value": 3453409.0,
+    "permit_rate": 1827.27,
+    "permits": 201
+  },
+  {
+    "community": "HOTCHKISS",
+    "score": 5365.69,
+    "avg_property_value": 7060120.0,
+    "permit_rate": 760.0,
+    "permits": 190
+  },
+  {
+    "community": "MORAINE",
+    "score": 2345.9,
+    "avg_property_value": 2020393.0,
+    "permit_rate": 1161.11,
+    "permits": 209
+  },
+  {
+    "community": "CRESTMONT",
+    "score": 1961.87,
+    "avg_property_value": 6130850.0,
+    "permit_rate": 320.0,
+    "permits": 32
+  },
+  {
+    "community": "HUXLEY",
+    "score": 1234.9,
+    "avg_property_value": 5613202.0,
+    "permit_rate": 220.0,
+    "permits": 22
+  },
+  {
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "score": 575.75,
+    "avg_property_value": 909075.0,
+    "permit_rate": 633.33,
+    "permits": 95
+  },
+  {
+    "community": "GLACIER RIDGE",
+    "score": 569.92,
+    "avg_property_value": 1605400.0,
+    "permit_rate": 355.0,
+    "permits": 355
+  },
+  {
+    "community": "COVENTRY HILLS",
+    "score": 239.47,
+    "avg_property_value": 226719.0,
+    "permit_rate": 1056.25,
+    "permits": 169
+  },
+  {
+    "community": "LIVINGSTON",
+    "score": 176.1,
+    "avg_property_value": 404101.0,
+    "permit_rate": 435.77,
+    "permits": 536
+  },
+  {
+    "community": "WOLF WILLOW",
+    "score": 170.76,
+    "avg_property_value": 1400387.0,
+    "permit_rate": 121.94,
+    "permits": 189
+  },
+  {
+    "community": "SILVERADO",
+    "score": 119.24,
+    "avg_property_value": 725263.0,
+    "permit_rate": 164.41,
+    "permits": 194
+  },
+  {
+    "community": "STARFIELD",
+    "score": 115.58,
+    "avg_property_value": 1155833.0,
+    "permit_rate": 100.0,
+    "permits": 15
+  },
+  {
+    "community": "MCKENZIE LAKE",
+    "score": 72.26,
+    "avg_property_value": 116897.0,
+    "permit_rate": 618.18,
+    "permits": 68
+  },
+  {
+    "community": "STONEY 1",
+    "score": 67.91,
+    "avg_property_value": 582083.0,
+    "permit_rate": 116.67,
+    "permits": 14
+  },
+  {
+    "community": "MARTINDALE",
+    "score": 57.49,
+    "avg_property_value": 75214.0,
+    "permit_rate": 764.29,
+    "permits": 107
+  },
+  {
+    "community": "CORNERSTONE",
+    "score": 55.58,
+    "avg_property_value": 219386.0,
+    "permit_rate": 253.33,
+    "permits": 646
+  },
+  {
+    "community": "COPPERFIELD",
+    "score": 54.35,
+    "avg_property_value": 178544.0,
+    "permit_rate": 304.41,
+    "permits": 207
+  },
+  {
+    "community": "MAHOGANY",
+    "score": 53.84,
+    "avg_property_value": 336610.0,
+    "permit_rate": 159.94,
+    "permits": 515
+  },
+  {
+    "community": "EVANSTON",
+    "score": 41.7,
+    "avg_property_value": 97524.0,
+    "permit_rate": 427.59,
+    "permits": 248
+  },
+  {
+    "community": "LEGACY",
+    "score": 40.13,
+    "avg_property_value": 246765.0,
+    "permit_rate": 162.62,
+    "permits": 335
+  },
+  {
+    "community": "BELVEDERE",
+    "score": 39.95,
+    "avg_property_value": 361209.0,
+    "permit_rate": 110.59,
+    "permits": 94
+  },
+  {
+    "community": "HIDDEN VALLEY",
+    "score": 38.88,
+    "avg_property_value": 109348.0,
+    "permit_rate": 355.56,
+    "permits": 64
+  },
+  {
+    "community": "NOLAN HILL",
+    "score": 38.45,
+    "avg_property_value": 122333.0,
+    "permit_rate": 314.29,
+    "permits": 88
+  },
+  {
+    "community": "WESTWINDS",
+    "score": 27.35,
+    "avg_property_value": 190833.0,
+    "permit_rate": 143.33,
+    "permits": 43
+  },
+  {
+    "community": "SETON",
+    "score": 26.67,
+    "avg_property_value": 494676.0,
+    "permit_rate": 53.92,
+    "permits": 337
+  },
+  {
+    "community": "SANDSTONE VALLEY",
+    "score": 24.9,
+    "avg_property_value": 166000.0,
+    "permit_rate": 150.0,
+    "permits": 18
+  },
+  {
+    "community": "GREENWOOD/GREENBRIAR",
+    "score": 21.92,
+    "avg_property_value": 666382.0,
+    "permit_rate": 32.89,
+    "permits": 25
+  },
+  {
+    "community": "NEW BRIGHTON",
+    "score": 18.08,
+    "avg_property_value": 88376.0,
+    "permit_rate": 204.55,
+    "permits": 135
+  },
+  {
+    "community": "ACADIA",
+    "score": 17.34,
+    "avg_property_value": 25546.0,
+    "permit_rate": 678.57,
+    "permits": 95
+  },
+  {
+    "community": "SHEPARD INDUSTRIAL",
+    "score": 15.64,
+    "avg_property_value": 46000.0,
+    "permit_rate": 340.0,
+    "permits": 34
+  },
+  {
+    "community": "CHAPARRAL",
+    "score": 15.03,
+    "avg_property_value": 142768.0,
+    "permit_rate": 105.26,
+    "permits": 100
+  },
+  {
+    "community": "WALDEN",
+    "score": 14.75,
+    "avg_property_value": 44150.0,
+    "permit_rate": 334.0,
+    "permits": 167
+  },
+  {
+    "community": "BELMONT",
+    "score": 14.17,
+    "avg_property_value": 121847.0,
+    "permit_rate": 116.27,
+    "permits": 243
+  },
+  {
+    "community": "ASPEN WOODS",
+    "score": 13.48,
+    "avg_property_value": 231074.0,
+    "permit_rate": 58.33,
+    "permits": 98
+  },
+  {
+    "community": "SHAWNEE SLOPES",
+    "score": 13.39,
+    "avg_property_value": 422673.0,
+    "permit_rate": 31.68,
+    "permits": 32
+  },
+  {
+    "community": "CARRINGTON",
+    "score": 13.21,
+    "avg_property_value": 78729.0,
+    "permit_rate": 167.8,
+    "permits": 297
+  },
+  {
+    "community": "COACH HILL",
+    "score": 10.53,
+    "avg_property_value": 184286.0,
+    "permit_rate": 57.14,
+    "permits": 12
+  },
+  {
+    "community": "DOUGLASDALE/GLEN",
+    "score": 9.54,
+    "avg_property_value": 50571.0,
+    "permit_rate": 188.57,
+    "permits": 66
+  },
+  {
+    "community": "SADDLE RIDGE",
+    "score": 8.88,
+    "avg_property_value": 85151.0,
+    "permit_rate": 104.33,
+    "permits": 458
+  },
+  {
+    "community": "WEST SPRINGS",
+    "score": 7.75,
+    "avg_property_value": 234621.0,
+    "permit_rate": 33.01,
+    "permits": 138
+  },
+  {
+    "community": "SPRINGBANK HILL",
+    "score": 7.59,
+    "avg_property_value": 210390.0,
+    "permit_rate": 36.06,
+    "permits": 163
+  },
+  {
+    "community": "MOUNT PLEASANT",
+    "score": 7.29,
+    "avg_property_value": 9000.0,
+    "permit_rate": 810.0,
+    "permits": 162
+  },
+  {
+    "community": "SHAGANAPPI",
+    "score": 7.19,
+    "avg_property_value": 13636.0,
+    "permit_rate": 527.27,
+    "permits": 58
+  },
+  {
+    "community": "SKYVIEW RANCH",
+    "score": 6.78,
+    "avg_property_value": 226626.0,
+    "permit_rate": 29.91,
+    "permits": 99
+  },
+  {
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "score": 5.87,
+    "avg_property_value": 36180.0,
+    "permit_rate": 162.34,
+    "permits": 513
+  },
+  {
+    "community": "TARADALE",
+    "score": 5.82,
+    "avg_property_value": 64590.0,
+    "permit_rate": 90.18,
+    "permits": 147
+  },
+  {
+    "community": "COUGAR RIDGE",
+    "score": 4.66,
+    "avg_property_value": 71043.0,
+    "permit_rate": 65.59,
+    "permits": 61
+  }
+]

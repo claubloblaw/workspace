@@ -1,0 +1,302 @@
+[
+  {
+    "community": "PANORAMA HILLS",
+    "population": 25710,
+    "commercial_permits": 0,
+    "total_permits": 962,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 25.71
+  },
+  {
+    "community": "BELTLINE",
+    "population": 25129,
+    "commercial_permits": 0,
+    "total_permits": 643,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 25.13
+  },
+  {
+    "community": "SADDLE RIDGE",
+    "population": 22321,
+    "commercial_permits": 0,
+    "total_permits": 1155,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 22.32
+  },
+  {
+    "community": "EVERGREEN",
+    "population": 21500,
+    "commercial_permits": 0,
+    "total_permits": 859,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 21.5
+  },
+  {
+    "community": "TUSCANY",
+    "population": 19884,
+    "commercial_permits": 0,
+    "total_permits": 853,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 19.88
+  },
+  {
+    "community": "CRANSTON",
+    "population": 19884,
+    "commercial_permits": 0,
+    "total_permits": 986,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 19.88
+  },
+  {
+    "community": "TARADALE",
+    "population": 19026,
+    "commercial_permits": 0,
+    "total_permits": 565,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 19.03
+  },
+  {
+    "community": "MCKENZIE TOWNE",
+    "population": 18283,
+    "commercial_permits": 0,
+    "total_permits": 769,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 18.28
+  },
+  {
+    "community": "EVANSTON",
+    "population": 17685,
+    "commercial_permits": 0,
+    "total_permits": 860,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 17.68
+  },
+  {
+    "community": "COVENTRY HILLS",
+    "population": 17667,
+    "commercial_permits": 0,
+    "total_permits": 689,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 17.67
+  },
+  {
+    "community": "AUBURN BAY",
+    "population": 17607,
+    "commercial_permits": 0,
+    "total_permits": 704,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 17.61
+  },
+  {
+    "community": "EDGEMONT",
+    "population": 15395,
+    "commercial_permits": 0,
+    "total_permits": 213,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 15.39
+  },
+  {
+    "community": "MARTINDALE",
+    "population": 14245,
+    "commercial_permits": 0,
+    "total_permits": 384,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 14.24
+  },
+  {
+    "community": "COPPERFIELD",
+    "population": 13823,
+    "commercial_permits": 0,
+    "total_permits": 659,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 13.82
+  },
+  {
+    "community": "HUNTINGTON HILLS",
+    "population": 13420,
+    "commercial_permits": 0,
+    "total_permits": 197,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 13.42
+  },
+  {
+    "community": "MCKENZIE LAKE",
+    "population": 13406,
+    "commercial_permits": 0,
+    "total_permits": 212,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 13.41
+  },
+  {
+    "community": "SIGNAL HILL",
+    "population": 13395,
+    "commercial_permits": 0,
+    "total_permits": 264,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 13.39
+  },
+  {
+    "community": "NEW BRIGHTON",
+    "population": 13103,
+    "commercial_permits": 0,
+    "total_permits": 547,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 13.1
+  },
+  {
+    "community": "DOUGLASDALE/GLEN",
+    "population": 12881,
+    "commercial_permits": 0,
+    "total_permits": 231,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 12.88
+  },
+  {
+    "community": "VARSITY",
+    "population": 12874,
+    "commercial_permits": 0,
+    "total_permits": 267,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 12.87
+  },
+  {
+    "community": "CHAPARRAL",
+    "population": 12654,
+    "commercial_permits": 0,
+    "total_permits": 441,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 12.65
+  },
+  {
+    "community": "BRIDLEWOOD",
+    "population": 12641,
+    "commercial_permits": 0,
+    "total_permits": 398,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 12.64
+  },
+  {
+    "community": "WHITEHORN",
+    "population": 12019,
+    "commercial_permits": 0,
+    "total_permits": 110,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 12.02
+  },
+  {
+    "community": "MAHOGANY",
+    "population": 11784,
+    "commercial_permits": 0,
+    "total_permits": 1051,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 11.78
+  },
+  {
+    "community": "SKYVIEW RANCH",
+    "population": 11707,
+    "commercial_permits": 0,
+    "total_permits": 378,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 11.71
+  },
+  {
+    "community": "ROYAL OAK",
+    "population": 11706,
+    "commercial_permits": 0,
+    "total_permits": 438,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 11.71
+  },
+  {
+    "community": "RUNDLE",
+    "population": 11688,
+    "commercial_permits": 0,
+    "total_permits": 94,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 11.69
+  },
+  {
+    "community": "HIDDEN VALLEY",
+    "population": 11566,
+    "commercial_permits": 0,
+    "total_permits": 231,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 11.57
+  },
+  {
+    "community": "BEDDINGTON HEIGHTS",
+    "population": 11514,
+    "commercial_permits": 0,
+    "total_permits": 160,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 11.51
+  },
+  {
+    "community": "BOWNESS",
+    "population": 11150,
+    "commercial_permits": 0,
+    "total_permits": 395,
+    "commercial_value": 0,
+    "commercial_permits_per_1k": 0.0,
+    "commercial_ratio": 0.0,
+    "opportunity_score": 11.15
+  }
+]

@@ -1,0 +1,131 @@
+# 🏠 Lake Bonavista Intelligence Report
+**2026-02-15, 8:30:27 p.m.**
+
+**Active listings:** 19 | **Flagged:** 19 | **New:** 0 | **Below assessed:** 1
+
+## 📊 Assessment vs Listing Price (Biggest Gaps)
+
+| Address | Listed | Assessed | Gap | Score | Flags |
+|---------|--------|----------|-----|-------|-------|
+| 740 Lake Ontario Drive SE | $850,000 | $1130k | **-24.8%** | 53 | 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER |
+
+## 🎯 Top Scored Listings
+
+### 1. 740 Lake Ontario Drive SE|Calgary, Alberta T2J3J8
+**$850,000** | 4bd/3ba | 1766 sqft | House
+Assessed: **$1130k** (24.8% below)
+Score: **53** | 🏷️ 25% BELOW ASSESSED ($1130k) 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29308813/740-lake-ontario-drive-se-calgary-lake-bonavista)
+> ** OPEN HOUSE SAT JAN 31 & SUN FEB 1, 12-5PM ** Welcome to this stunning 2-storey split home in the heart of Lake Bonavista, offering over 2,800 sq ft of beautifully finished living space on a prime corner lot with an oversized garage, RV parking, an...
+
+### 2. 703 130 Avenue SW|Calgary, Alberta T2W2M9
+**$695,000** | 3 + 3bd/3ba | 1244.05 sqft | House
+Score: **43** | 🔥 MOTIVATED 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/28990442/703-130-avenue-sw-calgary-canyon-meadows)
+> **6200 SQFT CORNER LOT | 1244 SQFT BUNGALOW + OVER 1000 SQFT LEGAL BASEMENT SUITE | 6 BEDROOMS + 3 BATHROOMS | 4 PARKING SPOTS INCLUDED | $100K+ IMPROVEMENT OVER THE YEARS | NEW WINDOWS ON MAIN FLOOR JUST COMPLETED | NO CITY'S TREE ON PROPERTY LOT | ...
+
+### 3. 135 Canterbury Court SW|Calgary, Alberta T2W6C1
+**$1,025,000** | 3 + 1bd/4ba | 2041.7 sqft | House
+Score: **43** | 🚪 WALKOUT 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/28947860/135-canterbury-court-sw-calgary-canyon-meadows)
+> ** OPEN HOUSE, SUNDAY FEB. 15, 11:30 -1PM ** Welcome to 135 Canterbury Court, a stunning 2-storey walkout home in the coveted community of Canyon Meadows Estates, quietly tucked away on a private cul-de-sac. Offering over 3,000 sq. ft. of finished li...
+
+### 4. 392 Cantrell Drive SW|Calgary, Alberta T2W2E4
+**$729,000** | 2 + 2bd/3ba | 1023.66 sqft | House
+Score: **35** | 🔥 MOTIVATED 🌊 LAKE/NATURE 🏠 SUITE
+New | [View](https://www.realtor.ca/real-estate/28798184/392-cantrell-drive-sw-calgary-canyon-meadows)
+> Remarkably designed inside & out ~ This fully finished Canyon Meadows home offers a modern open-concept layout, situated on a huge 8,525 sq ft lot with an unbeatable backyard, and OVERSIZED, HEATED GARAGE w/ Attached WORKSHOP and RV parking. Great cu...
+
+### 5. 1414 Shawnee Drive|Calgary, Alberta T2Y2V1
+**$1,150,000** | 2 + 2bd/3ba | 1765.7 sqft | House
+Score: **28** | 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29332634/1414-shawnee-drive-calgary-shawnee-slopes)
+> OPEN HOUSE Feb 14, 15, 16 th @ 1 pm -4 pm . Luxury, modern, and timeless fully renovated bungalow on a beautifully landscaped corner lot just one minute from Fish Creek Park!This serene and stylish 4-bedroom, 3-bathroom home offers 3,170 sq. ft. of d...
+
+### 6. 13016 Lake Twintree Road SE|Calgary, Alberta t2j2x3
+**$1,495,000** | 3 + 2bd/3ba | 2202 sqft | House
+Assessed: **$936k** (59.8% above)
+Score: **28** | 📈 60% ABOVE ASSESSED ($936k) 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29331629/13016-lake-twintree-road-se-calgary-lake-bonavista)
+> Welcome to an exclusive bungalow nestled in the prestigious community of Lake Bonavista. Boasting over 3400 SQ FT of living space and a front AND back double garage, this luxurious residence is within walking distance to the lake, local schools, shop...
+
+### 7. 1600 Evergreen Hill SW|Calgary, Alberta T2Y3A9
+**$1,290,000** | 4bd/5ba | 2970.7 sqft | House
+Score: **28** | 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29329564/1600-evergreen-hill-sw-calgary-evergreen)
+> OPEN HOUSE Sunday Feb 15th from 12:00-3:00 PM! Welcome to your new, perfectly located home! These homes on the ridge don't come onto the market often so this is your chance to get into a home that is in one of the best locations in the estate area of...
+
+### 8. 632 Cantrell Drive SW|Calgary, Alberta T2W1W7
+**$729,900** | 2 + 2bd/2ba | 1062.25 sqft | House
+Score: **28** | 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29305864/632-cantrell-drive-sw-calgary-canyon-meadows)
+> Welcome to 632 Cantrell Drive SW — a fantastic opportunity in the highly desirable southwest community of Canyon Meadows. This fully renovated home sits on a massive 48x154 ft private lot which allows you to create exceptional outdoor living. The mai...
+
+### 9. 250 Lake Fraser Place SE|Calgary, Alberta T2H2L5
+**$1,195,000** | 3 + 1bd/4ba | 1867 sqft | House
+Assessed: **$1070k** (11.7% above)
+Score: **28** | 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29302077/250-lake-fraser-place-se-calgary-lake-bonavista)
+> *OH Sat Feb 14, 1:30-3pm* Welcome to 250 Lake Fraser Place. Situated on a quiet cul-de-sac in the heart of Lake Bonavista, this FULLY RENOVATED home delivers unparalleled value. There are 6 COMPELLING REASONS to choose this property as your next home...
+
+### 10. 1315 Lake Michigan Crescent SE|Calgary, Alberta T2J3E9
+**$794,900** | 3bd/4ba | 1570 sqft | House
+Score: **28** | 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29290926/1315-lake-michigan-crescent-se-calgary-bonavista-downs)
+> A thoughtfully, well-designed two-storey home with numerous improvements and upgrades is now available in the very desirable SE community of Bonavista Downs. This is a unique home in that it features two garages. The first is a front-facing, single (...
+
+### 11. 1024 lake christina Way SE|Calgary, Alberta T2J2R3
+**$1,319,000** | 2 + 2bd/3ba | 1448 sqft | House
+Assessed: **$850k** (55.3% above)
+Score: **28** | 📈 55% ABOVE ASSESSED ($850k) 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29282509/1024-lake-christina-way-se-calgary-lake-bonavista)
+> LARGE LOT | RENOVATED INSIDE AND OUT | BRIGHT & SPACIOUS | MODERN OPEN CONCEPT | 4 BEDS & 3 FULL BATHS | GYM | WET BAR | NEW AIR CONDTIONER | HEATED ENSUITE FLOOR | STEAM SHOWER | OVERSIZED DETACHED GARAGE.Welcome to your dream home in the sought aft...
+
+### 12. 1040 Lake Ontario Drive SE|Calgary, Alberta T2J3K2
+**$1,150,000** | 3 + 3bd/4ba | 1631 sqft | House
+Assessed: **$771k** (49.2% above)
+Score: **28** | 📈 49% ABOVE ASSESSED ($771k) 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29254752/1040-lake-ontario-drive-se-calgary-lake-bonavista)
+> Are you looking for a Bungalow over 1600 square feet, just like NEW in the Mature neighbourhood like Lake Bonavista?  Look no further!!! This BRAND NEW Renovated home offers you a complete Makeover home with brand new everything inside.This home boas...
+
+### 13. 328 Cantrell Place SW|Calgary, Alberta T2W2A3
+**$889,900** | 2 + 2bd/4ba | 1319.13 sqft | House
+Score: **28** | 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29253821/328-cantrell-place-sw-calgary-canyon-meadows)
+> Welcome to this beautiful, newly renovated 4-bedroom, 3.5-bath bungalow in the heart of Canyon Meadows, where timeless design meets modern luxury. Every inch of this home has been thoughtfully updated inside and out—including the wiring, plumbing, hv...
+
+### 14. 432 129 Avenue SE|Calgary, Alberta T2J4A9
+**$1,280,000** | 4bd/4ba | 2036.36 sqft | House
+Assessed: **$1070k** (19.6% above)
+Score: **28** | 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29242908/432-129-avenue-se-calgary-lake-bonavista)
+> Welcome to Lake Bonavista living, where mature trees, established charm, and year-round lake access come together in this beautifully refreshed two-storey home. Located in the highly desirable estates area of Bonavista, this 4-bedroom, 4-bath home is...
+
+### 15. 403 Queen Alexandra Way SE|Calgary, Alberta T2J3P3
+**$568,800** | 3 + 1bd/3ba | 1187.2 sqft | House
+Score: **28** | 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29230919/403-queen-alexandra-way-se-calgary-queensland)
+> Welcome to 403 Queen Alexandra Way SE, a rare find in the heart of the family-friendly community of Queensland. This 4-bedroom, 3-bathroom home offers a unique blend of space, convenience, and opportunity. With a separate private rear entrance and an...
+
+### 16. 13119 6 Street SW|Calgary, Alberta T2W2L2
+**$749,900** | 3 + 2bd/3ba | 1235.2 sqft | House
+Score: **28** | 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29196514/13119-6-street-sw-calgary-canyon-meadows)
+> Jewel of a Deal!!! Welcome to an outdoor enthusiast’s dream lifestyle in a prime Fish Creek Park location. This highly desirable community places you just steps from pathways, biking and hiking trails, creeks, ponds, an ice rink, parks, schools, shop...
+
+### 17. 628 Cantrell Drive SW|Calgary, Alberta T2W1W7
+**$515,000** | 3bd/2ba | 1119.71 sqft | House
+Score: **28** | 🌊 LAKE/NATURE 🏠 SUITE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29099791/628-cantrell-drive-sw-calgary-canyon-meadows)
+> HOME SWEET HOME in Canyon Meadows! Welcome to your incredible opportunity in one of Calgary’s most established & desirable SW communities. This well-maintained BUNGALOW ON A MASSIVE 47’ x 155’ LOT WITH NO NEIGHBOURS BEHIND offers endless potential fo...
+
+### 18. 639 Canterbury Drive SW|Calgary, Alberta T2W1J4
+**$699,000** | 3 + 1bd/2ba | 1361 sqft | House
+Score: **18** | 🌊 LAKE/NATURE 🔨 FIXER
+2 days ago | [View](https://www.realtor.ca/real-estate/29357762/639-canterbury-drive-sw-calgary-canyon-meadows)
+
+### 19. 1008 Shawnee Drive SW|Calgary, Alberta T2Y2T9
+**$1,668,000** | 2 + 1bd/4ba | 3060 sqft | House
+Score: **18** | 🌊 LAKE/NATURE 🔨 FIXER
+New | [View](https://www.realtor.ca/real-estate/29248624/1008-shawnee-drive-sw-calgary-shawnee-slopes)
+

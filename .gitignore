@@ -73,3 +73,13 @@ projects/sitecore-slack-scraper/
 projects/filter-everything-leads/
 memory/slack-scrape-log.md
 SitecoreAI-RTE-Profile-Manager/
+
+# Node modules everywhere
+node_modules/
+
+# X digest project (contains auth/token references)
+projects/x-digest/
+
+# Separate git repos (have their own remotes)
+projects/luxc/
+projects/valeriya/

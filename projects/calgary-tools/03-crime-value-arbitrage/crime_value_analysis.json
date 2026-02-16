@@ -1,0 +1,1199 @@
+[
+  {
+    "community": "HASKAYNE",
+    "median_property_value": 4480000,
+    "crime_count": 0,
+    "property_count": 11,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -8.96,
+    "signal": "BUY"
+  },
+  {
+    "community": "STARFIELD",
+    "median_property_value": 1200000,
+    "crime_count": 0,
+    "property_count": 15,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -2.4,
+    "signal": "BUY"
+  },
+  {
+    "community": "PINE CREEK",
+    "median_property_value": 622000,
+    "crime_count": 0,
+    "property_count": 15,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -1.244,
+    "signal": "BUY"
+  },
+  {
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "median_property_value": 392500,
+    "crime_count": 0,
+    "property_count": 15,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.785,
+    "signal": "BUY"
+  },
+  {
+    "community": "MORAINE",
+    "median_property_value": 169000,
+    "crime_count": 0,
+    "property_count": 18,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.338,
+    "signal": "HOLD"
+  },
+  {
+    "community": "HOTCHKISS",
+    "median_property_value": 51500,
+    "crime_count": 0,
+    "property_count": 25,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.103,
+    "signal": "HOLD"
+  },
+  {
+    "community": "DOWNTOWN EAST VILLAGE",
+    "median_property_value": 37000,
+    "crime_count": 0,
+    "property_count": 689,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.074,
+    "signal": "HOLD"
+  },
+  {
+    "community": "EAU CLAIRE",
+    "median_property_value": 37000,
+    "crime_count": 0,
+    "property_count": 1280,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.074,
+    "signal": "HOLD"
+  },
+  {
+    "community": "DOWNTOWN WEST END",
+    "median_property_value": 37000,
+    "crime_count": 0,
+    "property_count": 1107,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.074,
+    "signal": "HOLD"
+  },
+  {
+    "community": "STONEY 1",
+    "median_property_value": 26250,
+    "crime_count": 0,
+    "property_count": 12,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.052,
+    "signal": "HOLD"
+  },
+  {
+    "community": "UPPER MOUNT ROYAL",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 15,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "ERLTON",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 357,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SOUTH CALGARY",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 385,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SHAGANAPPI",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 63,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "LOWER MOUNT ROYAL",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 164,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "RICHMOND",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 62,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "MISSION",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 667,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SUNALTA",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 74,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "PARKHILL/STANLEY PARK",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 55,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SPRUCE CLIFF",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 916,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "HILLHURST",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 545,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "WEST HILLHURST",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 252,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 236,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "INGLEWOOD",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 486,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SUNNYSIDE",
+    "median_property_value": 15000,
+    "crime_count": 0,
+    "property_count": 383,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.03,
+    "signal": "HOLD"
+  },
+  {
+    "community": "QUEENSLAND",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 30,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "MONTEREY PARK",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 171,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "KELVIN GROVE",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 14,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SILVERADO",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 162,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "WESTWINDS",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 33,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "MILLRISE",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 411,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SHERWOOD",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 154,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "KILLARNEY/GLENGARRY",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 163,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "LINCOLN PARK",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 566,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SADDLE RIDGE",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 805,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "ERIN WOODS",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 148,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "RANCHLANDS",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 16,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SETON",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 1464,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SKYVIEW RANCH",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 1482,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "EVANSTON",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 109,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "PENBROOKE MEADOWS",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 158,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "UNIVERSITY DISTRICT",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 684,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "TUXEDO PARK",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 87,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "TUSCANY",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 446,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "VARSITY",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 539,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "TARADALE",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 174,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "WINDSOR PARK",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 66,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "PARKLAND",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 68,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SAGE HILL",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 1478,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "WEST SPRINGS",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 636,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "GREENWOOD/GREENBRIAR",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 114,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "HAWKWOOD",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 162,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "ROCKY RIDGE",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 481,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "RENFREW",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 302,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "MAHOGANY",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 965,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SHAWNEE SLOPES",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 551,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "HAYSBORO",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 24,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "PATTERSON",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 135,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "GARRISON WOODS",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 233,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "MAYLAND HEIGHTS",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 129,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "HARVEST HILLS",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 329,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "HUNTINGTON HILLS",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 175,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "NORTH HAVEN",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 31,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "PALLISER",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 124,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "GLACIER RIDGE",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 116,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "VALLEY RIDGE",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 78,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "PINERIDGE",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 114,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "GARRISON GREEN",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 199,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "HUXLEY",
+    "median_property_value": 9760,
+    "crime_count": 0,
+    "property_count": 10,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "WOLF WILLOW",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 364,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SPRINGBANK HILL",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 848,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "PARKDALE",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 119,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SIGNAL HILL",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 714,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "WALDEN",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 182,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "PANORAMA HILLS",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 766,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "EVERGREEN",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 778,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "MONTGOMERY",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 117,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "KINGSLAND",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 45,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "ROYAL OAK",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 461,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "GLAMORGAN",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 19,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SHAWNESSY",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 262,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "RED CARPET/MOUNTVIEW MOBILE PARK",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 93,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "MCKENZIE TOWNE",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 1200,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "MOUNT PLEASANT",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 66,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "LAKE BONAVISTA",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 765,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "LEGACY",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 862,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "LIVINGSTON",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 260,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "MANCHESTER",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 23,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "MIDNAPORE",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 98,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "SOMERSET",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 177,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "EDGEMONT",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 50,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "KINCORA",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 477,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "MARLBOROUGH PARK",
+    "median_property_value": 10000,
+    "crime_count": 0,
+    "property_count": 52,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.02,
+    "signal": "HOLD"
+  },
+  {
+    "community": "NOLAN HILL",
+    "median_property_value": 245,
+    "crime_count": 0,
+    "property_count": 28,
+    "crime_rate_per_100": 0.0,
+    "arbitrage_score": -0.0,
+    "signal": "HOLD"
+  },
+  {
+    "community": "BELMONT",
+    "median_property_value": 10000,
+    "crime_count": 47,
+    "property_count": 373,
+    "crime_rate_per_100": 12.6,
+    "arbitrage_score": 2.5,
+    "signal": "SELL"
+  },
+  {
+    "community": "CURRIE BARRACKS",
+    "median_property_value": 10000,
+    "crime_count": 66,
+    "property_count": 446,
+    "crime_rate_per_100": 14.8,
+    "arbitrage_score": 2.94,
+    "signal": "SELL"
+  },
+  {
+    "community": "DISCOVERY RIDGE",
+    "median_property_value": 10000,
+    "crime_count": 169,
+    "property_count": 405,
+    "crime_rate_per_100": 41.73,
+    "arbitrage_score": 8.326,
+    "signal": "SELL"
+  },
+  {
+    "community": "COUNTRY HILLS VILLAGE",
+    "median_property_value": 10000,
+    "crime_count": 388,
+    "property_count": 752,
+    "crime_rate_per_100": 51.6,
+    "arbitrage_score": 10.299,
+    "signal": "SELL"
+  },
+  {
+    "community": "CARRINGTON",
+    "median_property_value": 10000,
+    "crime_count": 154,
+    "property_count": 274,
+    "crime_rate_per_100": 56.2,
+    "arbitrage_score": 11.221,
+    "signal": "SELL"
+  },
+  {
+    "community": "CORNERSTONE",
+    "median_property_value": 10000,
+    "crime_count": 253,
+    "property_count": 397,
+    "crime_rate_per_100": 63.73,
+    "arbitrage_score": 12.726,
+    "signal": "SELL"
+  },
+  {
+    "community": "BRIDLEWOOD",
+    "median_property_value": 10000,
+    "crime_count": 336,
+    "property_count": 473,
+    "crime_rate_per_100": 71.04,
+    "arbitrage_score": 14.187,
+    "signal": "SELL"
+  },
+  {
+    "community": "CHINATOWN",
+    "median_property_value": 37000,
+    "crime_count": 286,
+    "property_count": 317,
+    "crime_rate_per_100": 90.22,
+    "arbitrage_score": 17.97,
+    "signal": "SELL"
+  },
+  {
+    "community": "CRANSTON",
+    "median_property_value": 10000,
+    "crime_count": 675,
+    "property_count": 716,
+    "crime_rate_per_100": 94.27,
+    "arbitrage_score": 18.835,
+    "signal": "SELL"
+  },
+  {
+    "community": "ALPINE PARK",
+    "median_property_value": 54000,
+    "crime_count": 22,
+    "property_count": 23,
+    "crime_rate_per_100": 95.65,
+    "arbitrage_score": 19.022,
+    "signal": "SELL"
+  },
+  {
+    "community": "COPPERFIELD",
+    "median_property_value": 10000,
+    "crime_count": 490,
+    "property_count": 496,
+    "crime_rate_per_100": 98.79,
+    "arbitrage_score": 19.738,
+    "signal": "SELL"
+  },
+  {
+    "community": "CITYSCAPE",
+    "median_property_value": 10000,
+    "crime_count": 253,
+    "property_count": 247,
+    "crime_rate_per_100": 102.43,
+    "arbitrage_score": 20.466,
+    "signal": "SELL"
+  },
+  {
+    "community": "ASPEN WOODS",
+    "median_property_value": 10000,
+    "crime_count": 352,
+    "property_count": 338,
+    "crime_rate_per_100": 104.14,
+    "arbitrage_score": 20.808,
+    "signal": "SELL"
+  },
+  {
+    "community": "BELTLINE",
+    "median_property_value": 25000,
+    "crime_count": 6836,
+    "property_count": 6506,
+    "crime_rate_per_100": 105.07,
+    "arbitrage_score": 20.964,
+    "signal": "SELL"
+  },
+  {
+    "community": "AUBURN BAY",
+    "median_property_value": 10000,
+    "crime_count": 679,
+    "property_count": 590,
+    "crime_rate_per_100": 115.08,
+    "arbitrage_score": 22.997,
+    "signal": "SELL"
+  },
+  {
+    "community": "BELVEDERE",
+    "median_property_value": 10000,
+    "crime_count": 230,
+    "property_count": 179,
+    "crime_rate_per_100": 128.49,
+    "arbitrage_score": 25.678,
+    "signal": "SELL"
+  },
+  {
+    "community": "COUGAR RIDGE",
+    "median_property_value": 10000,
+    "crime_count": 202,
+    "property_count": 148,
+    "crime_rate_per_100": 136.49,
+    "arbitrage_score": 27.277,
+    "signal": "SELL"
+  },
+  {
+    "community": "CITADEL",
+    "median_property_value": 10000,
+    "crime_count": 236,
+    "property_count": 168,
+    "crime_rate_per_100": 140.48,
+    "arbitrage_score": 28.075,
+    "signal": "SELL"
+  },
+  {
+    "community": "BRIDGELAND/RIVERSIDE",
+    "median_property_value": 15000,
+    "crime_count": 1624,
+    "property_count": 1087,
+    "crime_rate_per_100": 149.4,
+    "arbitrage_score": 29.85,
+    "signal": "SELL"
+  },
+  {
+    "community": "BRENTWOOD",
+    "median_property_value": 10000,
+    "crime_count": 1116,
+    "property_count": 563,
+    "crime_rate_per_100": 198.22,
+    "arbitrage_score": 39.625,
+    "signal": "SELL"
+  },
+  {
+    "community": "ARBOUR LAKE",
+    "median_property_value": 10000,
+    "crime_count": 894,
+    "property_count": 434,
+    "crime_rate_per_100": 205.99,
+    "arbitrage_score": 41.178,
+    "signal": "SELL"
+  },
+  {
+    "community": "COUNTRY HILLS",
+    "median_property_value": 10000,
+    "crime_count": 232,
+    "property_count": 112,
+    "crime_rate_per_100": 207.14,
+    "arbitrage_score": 41.409,
+    "signal": "SELL"
+  },
+  {
+    "community": "CHAPARRAL",
+    "median_property_value": 10000,
+    "crime_count": 343,
+    "property_count": 163,
+    "crime_rate_per_100": 210.43,
+    "arbitrage_score": 42.066,
+    "signal": "SELL"
+  },
+  {
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "median_property_value": 37000,
+    "crime_count": 2695,
+    "property_count": 1264,
+    "crime_rate_per_100": 213.21,
+    "arbitrage_score": 42.568,
+    "signal": "SELL"
+  },
+  {
+    "community": "DOUGLASDALE/GLEN",
+    "median_property_value": 10000,
+    "crime_count": 641,
+    "property_count": 269,
+    "crime_rate_per_100": 238.29,
+    "arbitrage_score": 47.638,
+    "signal": "SELL"
+  },
+  {
+    "community": "DALHOUSIE",
+    "median_property_value": 10000,
+    "crime_count": 708,
+    "property_count": 221,
+    "crime_rate_per_100": 320.36,
+    "arbitrage_score": 64.052,
+    "signal": "SELL"
+  },
+  {
+    "community": "ALTADORE",
+    "median_property_value": 15000,
+    "crime_count": 685,
+    "property_count": 203,
+    "crime_rate_per_100": 337.44,
+    "arbitrage_score": 67.458,
+    "signal": "SELL"
+  },
+  {
+    "community": "DOVER",
+    "median_property_value": 10000,
+    "crime_count": 1582,
+    "property_count": 314,
+    "crime_rate_per_100": 503.82,
+    "arbitrage_score": 100.744,
+    "signal": "SELL"
+  },
+  {
+    "community": "CRESCENT HEIGHTS",
+    "median_property_value": 15000,
+    "crime_count": 1584,
+    "property_count": 298,
+    "crime_rate_per_100": 531.54,
+    "arbitrage_score": 106.279,
+    "signal": "SELL"
+  },
+  {
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "median_property_value": 10000,
+    "crime_count": 237,
+    "property_count": 42,
+    "crime_rate_per_100": 564.29,
+    "arbitrage_score": 112.837,
+    "signal": "SELL"
+  },
+  {
+    "community": "BANKVIEW",
+    "median_property_value": 15000,
+    "crime_count": 860,
+    "property_count": 149,
+    "crime_rate_per_100": 577.18,
+    "arbitrage_score": 115.406,
+    "signal": "SELL"
+  },
+  {
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "median_property_value": 10000,
+    "crime_count": 1472,
+    "property_count": 209,
+    "crime_rate_per_100": 704.31,
+    "arbitrage_score": 140.841,
+    "signal": "SELL"
+  },
+  {
+    "community": "CRESTMONT",
+    "median_property_value": 658750,
+    "crime_count": 87,
+    "property_count": 10,
+    "crime_rate_per_100": 870.0,
+    "arbitrage_score": 172.682,
+    "signal": "SELL"
+  },
+  {
+    "community": "CLIFF BUNGALOW",
+    "median_property_value": 15000,
+    "crime_count": 584,
+    "property_count": 61,
+    "crime_rate_per_100": 957.38,
+    "arbitrage_score": 191.445,
+    "signal": "SELL"
+  },
+  {
+    "community": "APPLEWOOD PARK",
+    "median_property_value": 10000,
+    "crime_count": 438,
+    "property_count": 37,
+    "crime_rate_per_100": 1183.78,
+    "arbitrage_score": 236.737,
+    "signal": "SELL"
+  },
+  {
+    "community": "CAPITOL HILL",
+    "median_property_value": 10000,
+    "crime_count": 951,
+    "property_count": 23,
+    "crime_rate_per_100": 4134.78,
+    "arbitrage_score": 826.937,
+    "signal": "SELL"
+  },
+  {
+    "community": "COVENTRY HILLS",
+    "median_property_value": 226250,
+    "crime_count": 707,
+    "property_count": 16,
+    "crime_rate_per_100": 4418.75,
+    "arbitrage_score": 883.298,
+    "signal": "SELL"
+  },
+  {
+    "community": "BEDDINGTON HEIGHTS",
+    "median_property_value": 10000,
+    "crime_count": 975,
+    "property_count": 19,
+    "crime_rate_per_100": 5131.58,
+    "arbitrage_score": 1026.296,
+    "signal": "SELL"
+  },
+  {
+    "community": "BOWNESS",
+    "median_property_value": 10000,
+    "crime_count": 1776,
+    "property_count": 33,
+    "crime_rate_per_100": 5381.82,
+    "arbitrage_score": 1076.344,
+    "signal": "SELL"
+  }
+]
