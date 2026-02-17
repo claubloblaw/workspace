@@ -156,16 +156,15 @@
       "RelativeDetailsURL": "/real-estate/29357762/639-canterbury-drive-sw-calgary-canyon-meadows",
       "StatusId": "1",
       "PhotoChangeDateUTC": "2026-02-14 8:11:38 PM",
-      "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29357762/639-canterbury-drive-sw-calgary-canyon-meadows",
       "RelativeURLFr": "/immobilier/29357762/639-canterbury-drive-sw-calgary",
       "Media": [],
       "InsertedDateUTC": "639065853671870000",
-      "TimeOnRealtor": "2 days ago",
+      "TimeOnRealtor": "3 days ago",
       "Tags": [
         {
-          "Label": "2 days ago",
+          "Label": "3 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -175,7 +174,7 @@
     {
       "Id": "29332634",
       "MlsNumber": "A2284108",
-      "PublicRemarks": "OPEN HOUSE Feb 14, 15, 16 th @ 1 pm -4 pm . Luxury, modern, and timeless fully renovated bungalow on a beautifully landscaped corner lot just one minute from Fish Creek Park!This serene and stylish 4-bedroom, 3-bathroom home offers 3,170 sq. ft. of developed living space and has been completely remodeled and fully finished with trendy finishes and thoughtful upgrades throughout. Poly-B plumbing removed, popcorn ceilings eliminated, vaulted ceilings, and all-new windows provide peace of mind and contemporary comfort.You’re welcomed by mature trees, lush gardens, and a paved walkway beside a brand-new fence leading to the covered front porch. Inside, durable tile flooring, fresh paint, updated floors, and an open, bright layout create an inviting first impression. The foyer flows into a cozy front den or formal living room with rich hardwood flooring, while soaring ceilings elevate the spacious formal dining area—perfect for large gatherings.The show-stopping kitchen features abundant modern cabinetry, quartz countertops and backsplash, stainless steel appliances, water filtration and softener, and a large eat-up island overlooking the family room. Relax by the gas fireplace framed by a contemporary feature wall and custom built-ins.The primary retreat offers direct access to the deck and backyard, along with a spa-inspired 5-piece ensuite showcasing a deep soaker tub, oversized walk-in shower, expansive vanity, private water closet, and generous walk-in closet. A bright second bedroom, modern 4-piece bathroom, and functional laundry/mud room with cabinetry and counter space complete the main level.Downstairs, enjoy a massive recreation room, two additional large bedrooms, a 3-piece bathroom, and a versatile office with sink and built-in cabinetry—ideal for working from home or creative space.Step outside to a stunning two-tier rebuilt deck, fully fenced and landscaped yard, relaxing gazebo, and hot tub—perfect for entertaining or unwinding. The front of t he home features an extra-large driveway, RV parking potential, and an insulated double attached garage.Additional highlights include central air conditioning, high-efficiency furnace, new lighting, and upgraded flooring throughout.An exceptional home in an unbeatable location—this is a must-see. Book your private showing today! (31616742)",
+      "PublicRemarks": "OPEN HOUSE Feb 14, 15, 16 th @ 1 pm -3 pm . Luxury, modern, and timeless fully renovated bungalow on a beautifully landscaped corner lot just one minute from Fish Creek Park!This serene and stylish 4-bedroom, 3-bathroom home offers 3,170 sq. ft. of developed living space and has been completely remodeled and fully finished with trendy finishes and thoughtful upgrades throughout. Poly-B plumbing removed, popcorn ceilings eliminated, vaulted ceilings, and all-new windows provide peace of mind and contemporary comfort.You’re welcomed by mature trees, lush gardens, and a paved walkway beside a brand-new fence leading to the covered front porch. Inside, durable tile flooring, fresh paint, updated floors, and an open, bright layout create an inviting first impression. The foyer flows into a cozy front den or formal living room with rich hardwood flooring, while soaring ceilings elevate the spacious formal dining area—perfect for large gatherings.The show-stopping kitchen features abundant modern cabinetry, quartz countertops and backsplash, stainless steel appliances, water filtration and softener, and a large eat-up island overlooking the family room. Relax by the gas fireplace framed by a contemporary feature wall and custom built-ins.The primary retreat offers direct access to the deck and backyard, along with a spa-inspired 5-piece ensuite showcasing a deep soaker tub, oversized walk-in shower, expansive vanity, private water closet, and generous walk-in closet. A bright second bedroom, modern 4-piece bathroom, and functional laundry/mud room with cabinetry and counter space complete the main level.Downstairs, enjoy a massive recreation room, two additional large bedrooms, a 3-piece bathroom, and a versatile office with sink and built-in cabinetry—ideal for working from home or creative space.Step outside to a stunning two-tier rebuilt deck, fully fenced and landscaped yard, relaxing gazebo, and hot tub—perfect for entertaining or unwinding. The front of t he home features an extra-large driveway, RV parking potential, and an insulated double attached garage.Additional highlights include central air conditioning, high-efficiency furnace, new lighting, and upgraded flooring throughout.An exceptional home in an unbeatable location—this is a must-see. Book your private showing today! (31616742)",
       "Building": {
         "BathroomTotal": "3",
         "Bedrooms": "2 + 2",
@@ -279,10 +278,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639064279590230000/reb9/highres/8/A2284108_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639064279590230000/reb9/medres/8/A2284108_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639064279590230000/reb9/lowres/8/A2284108_1.jpg",
-            "LastUpdated": "2026-02-11 5:32:39 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639068581215770000/reb9/highres/8/A2284108_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639068581215770000/reb9/medres/8/A2284108_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639068581215770000/reb9/lowres/8/A2284108_1.jpg",
+            "LastUpdated": "2026-02-16 5:02:01 PM",
             "TypeId": "0"
           }
         ],
@@ -308,15 +307,6 @@
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
-      "OpenHouse": [
-        {
-          "StartTime": "Feb 16/26 - 1:00 PM To 4:00 PM",
-          "StartDateTime": "16/02/2026 1:00:00 PM",
-          "EndDateTime": "16/02/2026 4:00:00 PM",
-          "FormattedDateTime": "Feb 16/26 - 1:00 PM To 4:00 PM",
-          "EventTypeID": "1"
-        }
-      ],
       "Business": {},
       "Land": {
         "SizeTotal": "526.85 m2|4,051 - 7,250 sqft",
@@ -332,7 +322,8 @@
       "RelativeDetailsURL": "/real-estate/29332634/1414-shawnee-drive-calgary-shawnee-slopes",
       "StatusId": "1",
       "OpenHouseInsertDateUTC": "2026-02-10 9:05:06 PM",
-      "PhotoChangeDateUTC": "2026-02-11 10:32:46 PM",
+      "PhotoChangeDateUTC": "2026-02-16 10:02:01 PM",
+      "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29332634/1414-shawnee-drive-calgary-shawnee-slopes",
       "RelativeURLFr": "/immobilier/29332634/1414-shawnee-drive-calgary",
@@ -497,7 +488,6 @@
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
-      "OpenHouse": [],
       "Business": {},
       "Land": {
         "SizeTotal": "557 m2|4,051 - 7,250 sqft",
@@ -659,7 +649,6 @@
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
-      "OpenHouse": [],
       "Business": {},
       "Land": {
         "SizeTotal": "672 m2|4,051 - 7,250 sqft",
@@ -708,7 +697,7 @@
     {
       "Id": "29308813",
       "MlsNumber": "A2282637",
-      "PublicRemarks": "** OPEN HOUSE SAT JAN 31 & SUN FEB 1, 12-5PM ** Welcome to this stunning 2-storey split home in the heart of Lake Bonavista, offering over 2,800 sq ft of beautifully finished living space on a prime corner lot with an oversized garage, RV parking, and ample additional parking. Thoughtfully redesigned, this home delivers an exceptional open-concept layout ideal for both everyday living and entertaining.The impressive chef’s kitchen is the centerpiece, featuring a massive granite island, abundant cabinetry and counter space, extensive stonework, and steel appliances. Main-floor laundry, with an additional washer/dryer rough-in, adds convenience and flexibility. A warm and inviting family room with electric fireplace at the front of the home. Additionally, a second living space with another fireplace that opens out the sliding doors to the backyard. The primary retreat is a true sanctuary with a custom walk-in closet with automatic LED lighting, remote-controlled window coverings, and a spa-inspired ensuite highlighted by an infinity-style jetted tub. Two additional bedrooms and a full bathroom complete the upstairs. The fully developed basement offers a spacious recreation and games area, plus a second kitchen/wet bar complete with stove, hood fan, double stainless steel sink, and space for a dishwasher, perfect for entertaining or extended family living.Extensive upgrades include sound deadening triple-pane windows, two high-efficiency furnaces, two central A/C units, newer hot water tank and water softener, upgraded plumbing, electrical panel and wiring, spray foam insulation throughout the home and garage, and 220-volt wiring in the garage. Additional exterior insulation beneath the stucco ensures exceptional energy efficiency.Enjoy outdoor living with a covered patio, greenhouse, and storage shed, all within a beautifully landscaped yard. A separate side entrance offers excellent future suite potential (subject to city approvals). Located close to lake access,  schools, parks, golf, shopping, and transit, this exceptional home delivers the ultimate Lake Bonavista lifestyle. (31591450)",
+      "PublicRemarks": "Welcome to this stunning 2-storey split home in the heart of Lake Bonavista, offering over 2,800 sq ft of beautifully finished living space on a prime corner lot with an oversized garage, RV parking, and ample additional parking. Thoughtfully redesigned, this home delivers an exceptional open-concept layout ideal for both everyday living and entertaining.The impressive chef’s kitchen is the centerpiece, featuring a massive granite island, abundant cabinetry and counter space, extensive stonework, and steel appliances. Main-floor laundry, with an additional washer/dryer rough-in, adds convenience and flexibility. A warm and inviting family room with electric fireplace at the front of the home. Additionally, a second living space with another fireplace that opens out the sliding doors to the backyard. The primary retreat is a true sanctuary with a custom walk-in closet with automatic LED lighting, remote-controlled window coverings, and a spa-inspired ensuite highlighted by an infinity-style jetted tub. Two additional bedrooms and a full bathroom complete the upstairs. The fully developed basement offers a spacious recreation and games area, plus a second kitchen/wet bar complete with stove, hood fan, double stainless steel sink, and space for a dishwasher, perfect for entertaining or extended family living.Extensive upgrades include sound deadening triple-pane windows, two high-efficiency furnaces, two central A/C units, newer hot water tank and water softener, upgraded plumbing, electrical panel and wiring, spray foam insulation throughout the home and garage, and 220-volt wiring in the garage. Additional exterior insulation beneath the stucco ensures exceptional energy efficiency.Enjoy outdoor living with a covered patio, greenhouse, and storage shed, all within a beautifully landscaped yard. A separate side entrance offers excellent future suite potential (subject to city approvals). Located close to lake access, schools, parks, golf, shopping, and transit, th is exceptional home delivers the ultimate Lake Bonavista lifestyle. (31591450)",
       "Building": {
         "BathroomTotal": "3",
         "Bedrooms": "4",
@@ -888,10 +877,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639057456757770000/reb9/highres/7/A2282637_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639057456757770000/reb9/medres/7/A2282637_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639057456757770000/reb9/lowres/7/A2282637_1.jpg",
-            "LastUpdated": "2026-02-03 8:01:15 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639068394926330000/reb9/highres/7/A2282637_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639068394926330000/reb9/medres/7/A2282637_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639068394926330000/reb9/lowres/7/A2282637_1.jpg",
+            "LastUpdated": "2026-02-16 11:51:32 AM",
             "TypeId": "0"
           }
         ],
@@ -932,7 +921,8 @@
       "RelativeDetailsURL": "/real-estate/29308813/740-lake-ontario-drive-se-calgary-lake-bonavista",
       "StatusId": "1",
       "OpenHouseInsertDateUTC": "2026-01-31 6:00:20 AM",
-      "PhotoChangeDateUTC": "2026-02-04 1:01:18 AM",
+      "PhotoChangeDateUTC": "2026-02-16 4:51:32 PM",
+      "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29308813/740-lake-ontario-drive-se-calgary-lake-bonavista",
       "RelativeURLFr": "/immobilier/29308813/740-lake-ontario-drive-se-calgary",
@@ -1649,7 +1639,6 @@
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
-      "OpenHouse": [],
       "Business": {},
       "Land": {
         "SizeTotal": "6383 sqft|4,051 - 7,250 sqft",
@@ -1662,10 +1651,8 @@
       "RelativeDetailsURL": "/real-estate/29282509/1024-lake-christina-way-se-calgary-lake-bonavista",
       "StatusId": "1",
       "OpenHouseInsertDateUTC": "2026-02-15 1:04:37 AM",
-      "HasOpenHouseUpdate": true,
       "PriceChangeDateUTC": "2026-02-03 5:55:52 PM",
       "PhotoChangeDateUTC": "2026-02-15 12:40:55 AM",
-      "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29282509/1024-lake-christina-way-se-calgary-lake-bonavista",
       "RelativeURLFr": "/immobilier/29282509/1024-lake-christina-way-se-calgary",
@@ -2376,7 +2363,6 @@
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
-      "OpenHouse": [],
       "Business": {},
       "Land": {
         "SizeTotal": "684 m2|7,251 - 10,889 sqft",
@@ -2399,170 +2385,6 @@
       "ListingGMT": "-07:00:00",
       "Media": [],
       "InsertedDateUTC": "639038548002730000",
-      "TimeOnRealtor": "",
-      "Tags": [],
-      "UploadedBy": 9
-    },
-    {
-      "Id": "29230919",
-      "MlsNumber": "A2277971",
-      "PublicRemarks": "Welcome to 403 Queen Alexandra Way SE, a rare find in the heart of the family-friendly community of Queensland. This 4-bedroom, 3-bathroom home offers a unique blend of space, convenience, and opportunity. With a separate private rear entrance and an R-CG zoned lot, the property is well-suited for multi-generational living or future redevelopment potential.Notable updates include a roof (2014), furnace (2014), windows (2016), and a brand-new hot water tank (2025), giving peace of mind to the next owner. Adding to its appeal is the attached garage—a rare feature in homes of this style, offering direct access indoors without braving snowy walks.The location is hard to beat. Queensland is a warm, welcoming neighborhood known for its parks, playgrounds, and strong sense of community. You’re just minutes from Deer Valley Marketplace, schools, groceries, restaurants, and transit, with Fish Creek Park and the Bow River pathways close by for endless outdoor recreation.Whether you’re looking for a spacious family home, an income-generating property, or a site with outstanding redevelopment potential, this home offers exceptional value in one of Calgary’s most established and convenient communities. (31508890)",
-      "Building": {
-        "BathroomTotal": "3",
-        "Bedrooms": "3 + 1",
-        "SizeInterior": "1187.2 sqft",
-        "StoriesTotal": "",
-        "Type": "House",
-        "FloorAreaMeasurements": [
-          {
-            "Area": "1187 sqft",
-            "AreaUnformatted": "1187 sqft",
-            "Type": "Square Footage",
-            "Source": "",
-            "MeasureUnitId": "1",
-            "TypeId": "1",
-            "SourceId": "0",
-            "SortBy": "1"
-          }
-        ],
-        "HalfBathTotal": "0"
-      },
-      "Individual": [
-        {
-          "IndividualID": 2054845,
-          "Name": "Hannah McLaren",
-          "Organization": {
-            "OrganizationID": 54621,
-            "Name": "TREC The Real Estate Company",
-            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638663354400000000/lowres/1088565.jpg",
-            "Address": {
-              "AddressText": "#512 22 Midlake Blvd. SE|CALGARY, Alberta T2X2X7",
-              "PermitShowAddress": true
-            },
-            "Phones": [
-              {
-                "PhoneType": "Telephone",
-                "PhoneNumber": "270-4060",
-                "AreaCode": "403",
-                "PhoneTypeId": "1"
-              }
-            ],
-            "OrganizationType": "Firm",
-            "PermitFreetextEmail": true,
-            "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/54621/trec-the-real-estate-company-512-22-midlake-blvd-se-calgary-alberta-t2x2x7",
-            "PhotoLastupdate": "2024-11-04 4:44:00 PM"
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "700-2296",
-              "AreaCode": "403",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "https://www.mclarenrealestate.com/",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "576512192"
-            }
-          ],
-          "Photo": "https://cdn.realtor.ca/individual/TS638975046000000000/lowres/1330138.jpg",
-          "Position": "Associate",
-          "PermitFreetextEmail": true,
-          "FirstName": "Hannah",
-          "LastName": "McLaren",
-          "CorporationDisplayTypeId": "0",
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/2054845/hannah-mclaren-512-22-midlake-blvd-se-calgary-alberta-t2x2x7",
-          "AgentPhotoLastUpdated": "2025-10-31 10:50:00",
-          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638975046000000000/highres/1330138.jpg",
-          "RankMyAgentKey": "",
-          "RealSatisfiedKey": "",
-          "TestimonialTreeKey": ""
-        }
-      ],
-      "Property": {
-        "Price": "$568,800",
-        "Type": "Single Family",
-        "Address": {
-          "AddressText": "403 Queen Alexandra Way SE|Calgary, Alberta T2J3P3",
-          "Longitude": "-114.027379208",
-          "Latitude": "50.93793184",
-          "PermitShowAddress": true
-        },
-        "Photo": [
-          {
-            "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639038203859230000/reb9/highres/1/A2277971_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639038203859230000/reb9/medres/1/A2277971_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639038203859230000/reb9/lowres/1/A2277971_1.jpg",
-            "LastUpdated": "2026-01-12 1:13:05 PM",
-            "TypeId": "0"
-          }
-        ],
-        "Parking": [
-          {
-            "Name": "Attached Garage",
-            "Spaces": "2"
-          }
-        ],
-        "ParkingSpaceTotal": "2",
-        "TypeId": "300",
-        "OwnershipType": "Freehold",
-        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping",
-        "OwnershipTypeGroupIds": [
-          1
-        ],
-        "ParkingType": "Attached Garage (2)",
-        "PriceUnformattedValue": "568800",
-        "ShortValue": "569K",
-        "PriceChangeTimeOnRealtor": "",
-        "PriceChangeTagDateUTC": "12:00:00 AM"
-      },
-      "Business": {},
-      "Land": {
-        "SizeTotal": "51.19 m2|0-4,050 sqft",
-        "SizeFrontage": "35.36 m",
-        "LandscapeFeatures": "Garden Area"
-      },
-      "AlternateURL": {
-        "VideoLink": "https://youriguide.com/403_queen_alexandra_way_se_calgary_ab/"
-      },
-      "PostalCode": "T2J3P3",
-      "HistoricalDataIsCleared": false,
-      "ProvinceName": "Alberta",
-      "RelativeDetailsURL": "/real-estate/29230919/403-queen-alexandra-way-se-calgary-queensland",
-      "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-01-12 6:13:06 PM",
-      "Distance": "",
-      "RelativeURLEn": "/real-estate/29230919/403-queen-alexandra-way-se-calgary-queensland",
-      "RelativeURLFr": "/immobilier/29230919/403-queen-alexandra-way-se-calgary",
-      "Media": [
-        {
-          "MediaCategoryId": "2",
-          "MediaCategoryURL": "https://youriguide.com/403_queen_alexandra_way_se_calgary_ab/",
-          "Description": "VideoTourWebsite",
-          "Order": 1,
-          "VideoType": "iGuide"
-        },
-        {
-          "MediaCategoryId": "8",
-          "MediaCategoryURL": "https://youriguide.com/403_queen_alexandra_way_se_calgary_ab//doc/floorplan_metric_en_u.pdf",
-          "Description": "FloorPlan"
-        },
-        {
-          "MediaCategoryId": "8",
-          "MediaCategoryURL": "https://youriguide.com/403_queen_alexandra_way_se_calgary_ab//doc/floorplan_imperial_en_u.pdf",
-          "Description": "FloorPlan"
-        }
-      ],
-      "InsertedDateUTC": "639035008544600000",
       "TimeOnRealtor": "",
       "Tags": [],
       "UploadedBy": 9
@@ -3403,9 +3225,7 @@
       "RelativeDetailsURL": "/real-estate/28947860/135-canterbury-court-sw-calgary-canyon-meadows",
       "StatusId": "1",
       "OpenHouseInsertDateUTC": "2026-02-14 5:04:43 PM",
-      "HasOpenHouseUpdate": true,
       "PhotoChangeDateUTC": "2026-02-14 4:41:22 PM",
-      "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/28947860/135-canterbury-court-sw-calgary-canyon-meadows",
       "RelativeURLFr": "/immobilier/28947860/135-canterbury-court-sw-calgary",
@@ -3640,5 +3460,5 @@
     }
   ],
   "assessments": 5119,
-  "timestamp": "2026-02-16T03-30-27"
+  "timestamp": "2026-02-17T03-30-25"
 }

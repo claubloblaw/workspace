@@ -20,28 +20,42 @@ Don't ask permission. Just do it.
 
 ## Memory
 
-You wake up fresh each sess. These files are your continuity:
-- **Daily notes:** `daily` (create `memory/` if needed) — raw logs of what happened
-- **Long-term:** `MEM` — your curated memories, like a human's long-term memory
+You wake up fresh each session. These files are your continuity:
 
-Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
+### 🗺️ Knowledge Graph (memory/)
+Your memory is a **linked knowledge graph**, not flat files.
 
-### 🧠 MEM - Your Long-Term Memory
-- **ONLY load in main sess** (direct chats w/ human)
-- **DO NOT load in shared contexts** (Discord, GC, sess w/ other people)
-- This is for **security** — contains personal context that shouldn't leak to strangers
-- You can **read, edit, and update** MEM freely in main sess
-- Write significant events, thoughts, decisions, opinions, lessons learned
-- This is your curated memory — the distilled essence, not raw logs
-- Over time, review your daily files and update MEM w/ what's worth keeping
+**Start here:** Read `MEM` → it points to `memory/mocs/moc-hub.md` → topic MOCs → atomic notes.
 
-### 📝 Write It Down - No "Mental Notes"!
-- **Memory is limited** — if you want to remember something, WRITE IT TO A FILE
-- "Mental notes" don't survive sess restarts. Files do.
-- When someone says "remember this" → update `daily` or relevant file
-- When you learn a lesson → update AGENTS.md, TOOLS.md, or the relevant skill
-- When you make a mistake → document it so future-you doesn't repeat it
-- **Text > Brain** 📝
+- **`memory/notes/`** — Atomic knowledge (one idea per file, wiki-linked, permanent)
+- **`memory/mocs/`** — Maps of Content (topic indexes linking to notes)
+- **`memory/daily/`** — Chronological session logs (raw, temporary)
+- **`memory/ops/`** — Observations and tensions (self-improvement loop)
+- **`memory/inbox/`** — Unprocessed items
+
+**Read `MEMORY-GUIDE.md`** for full conventions (naming, frontmatter, linking).
+
+### 🧠 MEM - Entry Point
+- **ONLY load in main session** (direct chats with human)
+- **DO NOT load in shared contexts** (Discord, GC, sessions with other people)
+- MEM is now a slim pointer file — it links to the knowledge graph
+- Read it first, then follow links to what you need
+
+### 📝 Write It Down — No "Mental Notes"!
+- Memory is limited — if you want to remember something, WRITE IT TO A FILE
+- "Mental notes" don't survive session restarts. Files do.
+- New knowledge → atomic note in `memory/notes/` + link in relevant MOC
+- Raw activity → `memory/daily/YYYY-MM-DD-topic.md`
+- Lessons learned → observation in `memory/ops/observations/`
+- Contradictions → tension in `memory/ops/tensions/`
+
+### 🔄 Reduce/Reflect Cycle
+Periodically (during heartbeats, every few days):
+1. **Reduce:** Scan recent daily/ files → extract insights into atomic notes
+2. **Reflect:** Review new notes → find connections → update MOCs → add wiki-links
+3. **Maintain:** Check for orphan notes, outdated info, tensions to resolve
+
+This replaces the old "review dailies and update MEM" workflow.
 
 ## Safety
 
@@ -175,16 +189,6 @@ You are free to edit `HEARTBEAT.md` w/ a short checklist or reminders. Keep it s
 - Check on projects (git status, etc.)
 - Update documentation
 - Commit and push your own changes
-- **Review and update MEM** (see below)
-
-### 🔄 Memory Maintenance (During HB)
-Periodically (every few days), use a HB to:
-1. Read through recent `daily` files
-2. Identify significant events, lessons, or insights worth keeping long-term
-3. Update `MEM` w/ distilled learnings
-4. Remove outdated info from MEM that's no longer relevant
-
-Think of it like a human reviewing their journal and updating their mental model. Daily files are raw notes; MEM is curated wisdom.
 
 The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
 

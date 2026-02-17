@@ -1,14 +1,26 @@
 [
   {
     "profile": "walkout",
-    "score": 50,
-    "flags": "🚪 WALKOUT 🌲 NATURE 🏠 SUITE",
-    "price": "$889,999.99",
-    "address": "539 Waterford Rise|Chestermere, Alberta T1X3B5",
-    "beds": "5",
-    "baths": "3",
-    "sqft": "2567 sqft",
-    "url": "https://www.realtor.ca/real-estate/29363470/539-waterford-rise-chestermere-waterford",
-    "mls": "A2285165"
+    "score": 60,
+    "flags": "🚪 WALKOUT 🌲 NATURE 🏠 SUITE 📐 LOT:6383 sqft|4,051 - 7,250 sqft",
+    "price": "$975,000",
+    "address": "3335 OAKWOOD DRIVE  SW|Calgary, Alberta T2V4V6",
+    "beds": "3 + 2",
+    "baths": "4",
+    "sqft": "2096 sqft",
+    "url": "https://www.realtor.ca/real-estate/29364217/3335-oakwood-drive-sw-calgary-oakridge",
+    "mls": "A2277744"
+  },
+  {
+    "profile": "walkout",
+    "score": 55,
+    "flags": "🚪 WALKOUT 🌲 NATURE 🏠 SUITE 📐 SPECIAL LOT",
+    "price": "$1,099,900",
+    "address": "94 Waterford Crescent|Chestermere, Alberta T1X3A2",
+    "beds": "5 + 2",
+    "baths": "5",
+    "sqft": "2821 sqft",
+    "url": "https://www.realtor.ca/real-estate/29364829/94-waterford-crescent-chestermere-waterford",
+    "mls": "A2286717"
   }
 ]

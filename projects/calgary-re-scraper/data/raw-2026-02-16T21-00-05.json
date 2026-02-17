@@ -1,447 +1,6 @@
 {
   "walkout": [
     {
-      "Id": "29365376",
-      "MlsNumber": "A2286651",
-      "PublicRemarks": "Former show home, meticulously maintained and ideally positioned on a quiet, low-traffic street in one of Garrison Green’s most desirable pockets. Just minutes to the Glenmore Reservoir, Sandy Beach pathways, Peacekeeper Park, excellent schools and only 7 km to downtown, this location offers an exceptional blend of nature and inner-city convenience.Designed for light and connection, the main level showcases floor-to-ceiling windows, elegant French doors and an open-concept layout that seamlessly unites indoor and outdoor living. The kitchen is both functional and refined with artistic backsplash detail, abundant storage and insulated luxury vinyl plank flooring, while the updated powder room and welcoming front entry elevate everyday living. Built-in Bluetooth Bose speakers enhance the ambiance on both the main and upper levels.Upstairs features three bedrooms including a spacious primary retreat with a private ensuite, dual walk-in closets (his & hers), and a full bathroom for family or guests.The permitted fully developed basement adds significant additional living space with a Illegal 4th bedroom, 3-piece bath, soundproofed ceiling, recessed dimmable lighting, Wi-Fi thermostatically controlled heating, functional laundry room, rough-ins for a future kitchen and fireplace, gas water heater, updated 100A panel, and insulated luxury vinyl plank flooring for enhanced comfort.Thoughtfully upgraded with a new roof (2023), front and backyard sprinkler system, hot tub spa pack, and an oversized single garage with extensive shelving. Surrounded by mature trees, the private deck creates a peaceful and private outdoor retreat.An exceptional opportunity to own a move-in ready home in one of Calgary’s most sought-after inner-city communities. (31652027)",
-      "Building": {
-        "BathroomTotal": "4",
-        "Bedrooms": "3 + 1",
-        "SizeInterior": "1804.7 sqft",
-        "StoriesTotal": "2",
-        "Type": "House",
-        "FloorAreaMeasurements": [
-          {
-            "Area": "1805 sqft",
-            "AreaUnformatted": "1805 sqft",
-            "Type": "Square Footage",
-            "Source": "",
-            "MeasureUnitId": "1",
-            "TypeId": "1",
-            "SourceId": "0",
-            "SortBy": "1"
-          }
-        ],
-        "HalfBathTotal": "1"
-      },
-      "Individual": [
-        {
-          "IndividualID": 2234877,
-          "Name": "Helena Berman",
-          "Organization": {
-            "OrganizationID": 54716,
-            "Name": "First Place Realty",
-            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638418620400000000/lowres/54716.jpg",
-            "Address": {
-              "AddressText": "300-1822 10TH AVENUE SW|CALGARY, Alberta T3C0J8",
-              "PermitShowAddress": true
-            },
-            "Phones": [
-              {
-                "PhoneType": "Telephone",
-                "PhoneNumber": "547-8401",
-                "AreaCode": "403",
-                "PhoneTypeId": "1"
-              },
-              {
-                "PhoneType": "Fax",
-                "PhoneNumber": "374-1710",
-                "AreaCode": "403",
-                "PhoneTypeId": "4"
-              }
-            ],
-            "OrganizationType": "Firm",
-            "PermitFreetextEmail": true,
-            "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/54716/first-place-realty-300-1822-10th-avenue-sw-calgary-alberta-t3c0j8",
-            "PhotoLastupdate": "2024-01-26 10:34:00 AM"
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "399-6240",
-              "AreaCode": "403",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "374-1710",
-              "AreaCode": "403",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "https://www.facebook.com/helena.berman.2025",
-              "WebsiteTypeId": "2"
-            },
-            {
-              "Website": "https://www.linkedin.com/in/helena-berman-15932955/",
-              "WebsiteTypeId": "3"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "577512880"
-            }
-          ],
-          "Photo": "https://cdn.realtor.ca/individual/TS638826724800000000/lowres/1472686.jpg",
-          "Position": "Associate",
-          "PermitFreetextEmail": true,
-          "FirstName": "Helena",
-          "LastName": "Berman",
-          "CorporationDisplayTypeId": "0",
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/2234877/helena-berman-300-1822-10th-avenue-sw-calgary-alberta-t3c0j8",
-          "AgentPhotoLastUpdated": "2025-05-12 18:48:00",
-          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638826724800000000/highres/1472686.jpg",
-          "RankMyAgentKey": "",
-          "RealSatisfiedKey": "",
-          "TestimonialTreeKey": ""
-        }
-      ],
-      "Property": {
-        "Price": "$909,900",
-        "Type": "Single Family",
-        "Address": {
-          "AddressText": "5506 Henwood Street SW|Calgary, Alberta T3E6Z3",
-          "Longitude": "-114.127957479",
-          "Latitude": "51.00449908",
-          "PermitShowAddress": true
-        },
-        "Photo": [
-          {
-            "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068736649870000/reb9/highres/1/A2286651_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068736649870000/reb9/medres/1/A2286651_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068736649870000/reb9/lowres/1/A2286651_1.jpg",
-            "Description": "Front of Home",
-            "LastUpdated": "2026-02-16 9:21:04 PM",
-            "TypeId": "0"
-          }
-        ],
-        "Parking": [
-          {
-            "Name": "Other"
-          },
-          {
-            "Name": "Detached Garage",
-            "Spaces": "1"
-          }
-        ],
-        "ParkingSpaceTotal": "2",
-        "TypeId": "300",
-        "OwnershipType": "Freehold",
-        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping",
-        "OwnershipTypeGroupIds": [
-          1
-        ],
-        "ParkingType": "Other, Detached Garage (1)",
-        "PriceUnformattedValue": "909900",
-        "ShortValue": "910K",
-        "PriceChangeTimeOnRealtor": "",
-        "PriceChangeTagDateUTC": "12:00:00 AM"
-      },
-      "Business": {},
-      "Land": {
-        "SizeTotal": "264 m2|0-4,050 sqft",
-        "SizeFrontage": "7.62 m",
-        "LandscapeFeatures": "Landscaped"
-      },
-      "AlternateURL": {
-        "VideoLink": "https://adobe.ly/4qAjlHd"
-      },
-      "PostalCode": "T3E6Z3",
-      "HistoricalDataIsCleared": false,
-      "ProvinceName": "Alberta",
-      "RelativeDetailsURL": "/real-estate/29365376/5506-henwood-street-sw-calgary-garrison-green",
-      "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-17 2:21:06 AM",
-      "HasNewImageUpdate": true,
-      "Distance": "",
-      "RelativeURLEn": "/real-estate/29365376/5506-henwood-street-sw-calgary-garrison-green",
-      "RelativeURLFr": "/immobilier/29365376/5506-henwood-street-sw-calgary",
-      "Media": [
-        {
-          "MediaCategoryId": "2",
-          "MediaCategoryURL": "https://adobe.ly/4qAjlHd",
-          "Description": "VideoTourWebsite",
-          "Order": 1,
-          "VideoType": "Other"
-        },
-        {
-          "MediaCategoryId": "2",
-          "MediaCategoryURL": "https://youtube.com/shorts/YwLaEgB5Jlg",
-          "Description": "VideoTourWebsite",
-          "Order": 2,
-          "VideoType": "Youtube"
-        }
-      ],
-      "InsertedDateUTC": "639068885878800000",
-      "TimeOnRealtor": "1 hour ago",
-      "Tags": [
-        {
-          "Label": "1 hour ago",
-          "HTMLColorCode": "#23A1C0",
-          "ListingTagTypeID": "1"
-        }
-      ],
-      "UploadedBy": 9
-    },
-    {
-      "Id": "29364922",
-      "MlsNumber": "A2286731",
-      "PublicRemarks": "Welcome to 143 Masters Link SE – where style, light, and thoughtful design converge in the award-winning lake community of Mahogany. From the moment you step inside, the Renew floor plan makes a striking first impression. A dramatic open-to-below feature, framed by elegant iron railing, connects the main and lower levels in a way that’s as rare as it is beautiful—allowing sunlight to cascade through every corner of the home. The main level showcases new luxury vinyl plank flooring and a bright, spacious living room that easily accommodates a large sectional and invites family and friends to gather. Transition effortlessly into the chef-inspired kitchen, where an oversized central island with dual waterfall granite edges becomes the showpiece. Complete with stainless steel appliances, pendant lighting, full tile backsplash, and a convenient pantry, this kitchen blends sophistication and practicality. The expanded dining area, highlighted by yet another soaring ceiling, creates the perfect atmosphere for dinners bathed in natural light; while a discreet half bath completes this level. Upstairs, discover three generous bedrooms and two full bathrooms, including a tranquil primary retreat featuring a four-piece ensuite and a large walk-in closet. Downstairs, the almost fully finished lower level continues to impress. With its open recreation room, a convenient office nook for remote work or study, and expansive storage and laundry areas, the design ensures comfort and functionality. Thanks to the open-to-below layout, even this level feels bright and connected. Outside, the stucco exterior adds refined curb appeal, while the large rear deck is perfect for BBQs, entertaining, or simply relaxing under the evening sky. The oversized double detached garage offers ample space and convenient lane access. Situated in the vibrant community of Mahogany, residents enjoy exclusive access to the lake, year-round recreation, scenic trails and ponds, and a lively mix of shops, cafés,  and amenities—all within walking distance. With quick connections to Stoney Trail and Deerfoot, this is the perfect blend of tranquility and convenience. 143 Masters Link SE—a home that feels both expansive and inviting, designed for those who appreciate light, connection, and the art of modern living. (31651653)",
-      "Building": {
-        "BathroomTotal": "3",
-        "Bedrooms": "2 + 1",
-        "SizeInterior": "1428.15 sqft",
-        "StoriesTotal": "2",
-        "Type": "House",
-        "Ammenities": "Clubhouse",
-        "FloorAreaMeasurements": [
-          {
-            "Area": "1428 sqft",
-            "AreaUnformatted": "1428 sqft",
-            "Type": "Square Footage",
-            "Source": "",
-            "MeasureUnitId": "1",
-            "TypeId": "1",
-            "SourceId": "0",
-            "SortBy": "1"
-          }
-        ],
-        "HalfBathTotal": "1"
-      },
-      "Individual": [
-        {
-          "IndividualID": 1950243,
-          "Name": "Alexandria Stewart",
-          "Organization": {
-            "OrganizationID": 54492,
-            "Name": "Jayman Realty Inc.",
-            "Address": {
-              "AddressText": "#200, 3132 118TH AVENUE S.E.|CALGARY, Alberta T2Z3X1",
-              "PermitShowAddress": true
-            },
-            "Phones": [
-              {
-                "PhoneType": "Telephone",
-                "PhoneNumber": "258-3772",
-                "AreaCode": "403",
-                "PhoneTypeId": "1"
-              },
-              {
-                "PhoneType": "Fax",
-                "PhoneNumber": "723-7769",
-                "AreaCode": "403",
-                "PhoneTypeId": "4"
-              }
-            ],
-            "OrganizationType": "Firm",
-            "PermitFreetextEmail": true,
-            "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/54492/jayman-realty-inc-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
-            "PhotoLastupdate": "2024-01-08 6:34:00 PM"
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "224-3343",
-              "AreaCode": "587",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "723-7769",
-              "AreaCode": "403",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "https://www.jayman.com/resources/jayman-realty/",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "576500926"
-            }
-          ],
-          "Photo": "https://cdn.realtor.ca/individual/TS638820418200000000/lowres/1244469.jpg",
-          "Position": "Associate Broker",
-          "PermitFreetextEmail": true,
-          "FirstName": "Alexandria",
-          "LastName": "Stewart",
-          "CorporationDisplayTypeId": "0",
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/1950243/alexandria-stewart-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
-          "AgentPhotoLastUpdated": "2025-05-05 11:37:00",
-          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638820418200000000/highres/1244469.jpg",
-          "RankMyAgentKey": "",
-          "RealSatisfiedKey": "",
-          "TestimonialTreeKey": ""
-        },
-        {
-          "IndividualID": 1446910,
-          "Name": "Michael R. Laprairie",
-          "Organization": {
-            "OrganizationID": 54492,
-            "Name": "Jayman Realty Inc.",
-            "Address": {
-              "AddressText": "#200, 3132 118TH AVENUE S.E.|CALGARY, Alberta T2Z3X1",
-              "PermitShowAddress": true
-            },
-            "Phones": [
-              {
-                "PhoneType": "Telephone",
-                "PhoneNumber": "258-3772",
-                "AreaCode": "403",
-                "PhoneTypeId": "1"
-              },
-              {
-                "PhoneType": "Fax",
-                "PhoneNumber": "723-7769",
-                "AreaCode": "403",
-                "PhoneTypeId": "4"
-              }
-            ],
-            "OrganizationType": "Firm",
-            "PermitFreetextEmail": true,
-            "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/54492/jayman-realty-inc-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
-            "PhotoLastupdate": "2024-01-08 6:34:00 PM"
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "852-9626",
-              "AreaCode": "403",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "592-7595",
-              "AreaCode": "403",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.jayman.com/why-buy-a-jayman/realty",
-              "WebsiteTypeId": "1"
-            },
-            {
-              "Website": "https://www.facebook.com/JaymanRealtyInc",
-              "WebsiteTypeId": "2"
-            },
-            {
-              "Website": "https://linkedin.com/in/michael-laprairie-a8964590",
-              "WebsiteTypeId": "3"
-            },
-            {
-              "Website": "https://www.instagram.com/mike_jayman_realty/",
-              "WebsiteTypeId": "5"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "576517214"
-            }
-          ],
-          "Photo": "https://cdn.realtor.ca/individual/TS638578554600000000/lowres/1013119.jpg",
-          "Position": "Broker of Record",
-          "PermitFreetextEmail": true,
-          "FirstName": "Michael",
-          "LastName": "Laprairie",
-          "CorporationDisplayTypeId": "0",
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/1446910/michael-laprairie-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
-          "AgentPhotoLastUpdated": "2024-07-29 13:11:00",
-          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638578554600000000/highres/1013119.jpg",
-          "RankMyAgentKey": "",
-          "RealSatisfiedKey": "",
-          "TestimonialTreeKey": ""
-        }
-      ],
-      "Property": {
-        "Price": "$575,000",
-        "Type": "Single Family",
-        "Address": {
-          "AddressText": "143 Masters Link SE|Calgary, Alberta T3M2N1",
-          "Longitude": "-113.907655315",
-          "Latitude": "50.897300291",
-          "PermitShowAddress": true
-        },
-        "Photo": [
-          {
-            "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068571957530000/reb9/highres/1/A2286731_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068571957530000/reb9/medres/1/A2286731_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068571957530000/reb9/lowres/1/A2286731_1.jpg",
-            "LastUpdated": "2026-02-16 4:46:35 PM",
-            "TypeId": "0"
-          }
-        ],
-        "Parking": [
-          {
-            "Name": "Detached Garage",
-            "Spaces": "2"
-          }
-        ],
-        "ParkingSpaceTotal": "2",
-        "TypeId": "300",
-        "OwnershipType": "Freehold",
-        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping, Water Nearby",
-        "OwnershipTypeGroupIds": [
-          1
-        ],
-        "ParkingType": "Detached Garage (2)",
-        "PriceUnformattedValue": "575000",
-        "ShortValue": "575K",
-        "PriceChangeTimeOnRealtor": "",
-        "PriceChangeTagDateUTC": "12:00:00 AM"
-      },
-      "Business": {},
-      "Land": {
-        "SizeTotal": "256 m2|0-4,050 sqft",
-        "SizeFrontage": "7.74 m"
-      },
-      "AlternateURL": {
-        "VideoLink": "https://view.ricoh360.com/ccb0fa85-ac7d-4425-9c8b-ca106cf9451f"
-      },
-      "PostalCode": "T3M2N1",
-      "HistoricalDataIsCleared": false,
-      "ProvinceName": "Alberta",
-      "RelativeDetailsURL": "/real-estate/29364922/143-masters-link-se-calgary-mahogany",
-      "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-16 9:46:35 PM",
-      "HasNewImageUpdate": true,
-      "Distance": "",
-      "RelativeURLEn": "/real-estate/29364922/143-masters-link-se-calgary-mahogany",
-      "RelativeURLFr": "/immobilier/29364922/143-masters-link-se-calgary",
-      "Media": [
-        {
-          "MediaCategoryId": "2",
-          "MediaCategoryURL": "https://view.ricoh360.com/ccb0fa85-ac7d-4425-9c8b-ca106cf9451f",
-          "Description": "VideoTourWebsite",
-          "Order": 1,
-          "VideoType": "Other"
-        }
-      ],
-      "InsertedDateUTC": "639068751957370000",
-      "TimeOnRealtor": "5 hours ago",
-      "Tags": [
-        {
-          "Label": "5 hours ago",
-          "HTMLColorCode": "#23A1C0",
-          "ListingTagTypeID": "1"
-        }
-      ],
-      "UploadedBy": 9
-    },
-    {
       "Id": "29364829",
       "MlsNumber": "A2286717",
       "PublicRemarks": "NEWLY BUILT!! BACKING ONTO GREEN SPACE!! WALKOUT BASEMENT!! TRIPLE ATTACHED GARAGE!! MAIN FLOOR BED & FULL BATH!! OVER 3800+ SQFT OF LIVING SPACE!! 7 BEDROOMS!! 5 BATHS!! Step into this stunning custom build offering luxury, space, and comfort across all levels. The main floor welcomes you with a bright living area featuring a beautiful fireplace, a spacious dining area with access to the BACKYARD DECK, and a chef-inspired kitchen with a HUGE ISLAND, premium built-ins, and a fully equipped spice kitchen. A full MAIN FLOOR BEDROOM & 3PC BATH makes this level perfect. Upstairs, you’ll find FOUR BEDROOMS & THREE FULL BATHS, including a serene PRIMARY BEDROOM with a walk-in closet and an elegant 5pc ensuite bath. Two additional bedrooms share a convenient Jack & Jill 3pc bath, while a fourth bedroom sits beside another 4pc bath. This level is completed with an upper-floor laundry room, a cozy BONUS ROOM, and an impressive open-to-below feature. The WALKOUT BASEMENT extends your living space with TWO MORE BEDROOMS, a 4pc bath, and a spacious family area — all leading directly to the backyard and GREEN SPACE VIEWS. A home crafted for comfort, luxury, and grace where every level brings more to embrace. (31651546)",
@@ -672,10 +231,10 @@
       "RelativeURLFr": "/immobilier/29364829/94-waterford-crescent-chestermere",
       "Media": [],
       "InsertedDateUTC": "639068705213500000",
-      "TimeOnRealtor": "6 hours ago",
+      "TimeOnRealtor": "31 min ago",
       "Tags": [
         {
-          "Label": "6 hours ago",
+          "Label": "31 min ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -913,10 +472,10 @@
       "RelativeURLFr": "/immobilier/29364813/23-south-shore-road-chestermere",
       "Media": [],
       "InsertedDateUTC": "639068697498370000",
-      "TimeOnRealtor": "6 hours ago",
+      "TimeOnRealtor": "44 min ago",
       "Tags": [
         {
-          "Label": "6 hours ago",
+          "Label": "44 min ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -1067,10 +626,10 @@
       "RelativeURLFr": "/immobilier/29364622/100-allandale-close-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639068663493330000",
-      "TimeOnRealtor": "7 hours ago",
+      "TimeOnRealtor": "1 hour ago",
       "Tags": [
         {
-          "Label": "7 hours ago",
+          "Label": "1 hour ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -1221,10 +780,10 @@
       "RelativeURLFr": "/immobilier/29364575/15-masters-place-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639068650110430000",
-      "TimeOnRealtor": "8 hours ago",
+      "TimeOnRealtor": "2 hours ago",
       "Tags": [
         {
-          "Label": "8 hours ago",
+          "Label": "2 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -1402,10 +961,10 @@
         }
       ],
       "InsertedDateUTC": "639068609137830000",
-      "TimeOnRealtor": "9 hours ago",
+      "TimeOnRealtor": "3 hours ago",
       "Tags": [
         {
-          "Label": "9 hours ago",
+          "Label": "3 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -1598,10 +1157,10 @@
         }
       ],
       "InsertedDateUTC": "639068580431730000",
-      "TimeOnRealtor": "9 hours ago",
+      "TimeOnRealtor": "3 hours ago",
       "Tags": [
         {
-          "Label": "9 hours ago",
+          "Label": "3 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -1811,10 +1370,10 @@
         }
       ],
       "InsertedDateUTC": "639068554738370000",
-      "TimeOnRealtor": "10 hours ago",
+      "TimeOnRealtor": "4 hours ago",
       "Tags": [
         {
-          "Label": "10 hours ago",
+          "Label": "4 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -2052,10 +1611,10 @@
       "RelativeURLFr": "/immobilier/29364216/323-parkridge-way-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639068554677630000",
-      "TimeOnRealtor": "10 hours ago",
+      "TimeOnRealtor": "4 hours ago",
       "Tags": [
         {
-          "Label": "10 hours ago",
+          "Label": "4 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -2216,10 +1775,10 @@
       "RelativeURLFr": "/immobilier/29364215/189-south-shore-view-chestermere",
       "Media": [],
       "InsertedDateUTC": "639068554070200000",
-      "TimeOnRealtor": "10 hours ago",
+      "TimeOnRealtor": "4 hours ago",
       "Tags": [
         {
-          "Label": "10 hours ago",
+          "Label": "4 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -2229,7 +1788,7 @@
     {
       "Id": "29363655",
       "MlsNumber": "A2286552",
-      "PublicRemarks": "| 3 BEDS | 2 BATHS | ILLEGAL SUITE | Convenient Location! | Welcome home to this bright and inviting bungalow located in the community of Ogden. The main floor living area features large windows that flood the space with natural light, creating a warm and welcoming atmosphere, and seamlessly flows into the kitchen. The kitchen is complete with a centre island and raised eating bar, pendant lighting, pantry, and stainless steel appliances, making it both functional and perfect for everyday living or entertaining. This level offers two bedrooms, including a spacious primary bedroom featuring a generously sized walk-in closet with plenty of room for storage and organization. A full 4-piece bathroom completes the main floor. Downstairs, the basement features a separate entrance and includes a comfortable living area, kitchen, additional bedroom, and a 3-piece bathroom, offering great flexibility for extended family or additional living space. The home is also equipped with a CitySoft Water Conditioning System, a valuable upgrade that enhances water quality and helps reduce scale buildup for added comfort and long-term home care. Step outside to enjoy the large backyard, offering plenty of space to relax, garden, or entertain. The patio area and hot tub create the perfect setting for summer gatherings or unwinding after a long day. The extended front driveway provides ample parking for multiple vehicles. Conveniently located close to shopping, parks, schools, transit, and more, this home combines space, functionality, and accessibility. Do not miss this opportunity. Call your favourite agent to book a showing today. (31650207)",
+      "PublicRemarks": "| 3 BEDS | 2 BATHS | ILLEGAL SUITE | Convenient Location! | Welcome home to this bright and inviting bungalow located in the community of Ogden. The main floor living area features large windows that flood the space with natural light, creating a warm and welcoming atmosphere, and seamlessly flows into the kitchen. The kitchen is complete with a centre island and raised eating bar, pendant lighting, pantry, and stainless steel appliances, making it both functional and perfect for everyday living or entertaining. This level offers two bedrooms, including a spacious primary bedroom featuring a generously sized walk-in closet with plenty of room for storage and organization. A full 4-piece bathroom completes the main floor. Downstairs, the basement features a separate entrance and includes a comfortable living area, kitchen, additional bedroom, and a 3-piece bathroom, offering great flexibility for extended family or additional living space. The home is also equipped with a water softener system, adding extra convenience and comfort to your daily routine. Step outside to enjoy the large backyard, offering plenty of space to relax, garden, or entertain. The patio area and jacuzzi create the perfect setting for summer gatherings or unwinding after a long day. The extended front driveway provides ample parking for multiple vehicles. Conveniently located close to shopping, parks, schools, transit, and more, this home combines space, functionality, and accessibility. Do not miss this opportunity. Call your favourite agent to book a showing today. (31650207)",
       "Building": {
         "BathroomTotal": "2",
         "Bedrooms": "2 + 1",
@@ -2331,10 +1890,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068628702270000/reb9/highres/2/A2286552_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068628702270000/reb9/medres/2/A2286552_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068628702270000/reb9/lowres/2/A2286552_1.jpg",
-            "LastUpdated": "2026-02-16 6:21:10 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639068419281370000/reb9/highres/2/A2286552_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639068419281370000/reb9/medres/2/A2286552_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639068419281370000/reb9/lowres/2/A2286552_1.jpg",
+            "LastUpdated": "2026-02-16 12:32:08 PM",
             "TypeId": "0"
           }
         ],
@@ -2366,17 +1925,17 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29363655/7139-18-street-se-calgary-ogden",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-16 11:21:11 PM",
+      "PhotoChangeDateUTC": "2026-02-16 5:32:09 PM",
       "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29363655/7139-18-street-se-calgary-ogden",
       "RelativeURLFr": "/immobilier/29363655/7139-18-street-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639067984652830000",
-      "TimeOnRealtor": "1 day ago",
+      "TimeOnRealtor": "20 hours ago",
       "Tags": [
         {
-          "Label": "1 day ago",
+          "Label": "20 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -2614,10 +2173,10 @@
       "RelativeURLFr": "/immobilier/29363470/539-waterford-rise-chestermere",
       "Media": [],
       "InsertedDateUTC": "639067870152100000",
-      "TimeOnRealtor": "1 day ago",
+      "TimeOnRealtor": "23 hours ago",
       "Tags": [
         {
-          "Label": "1 day ago",
+          "Label": "23 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -2995,10 +2554,10 @@
       "RelativeURLFr": "/immobilier/29362712/9632-alcott-road-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639067059996000000",
-      "TimeOnRealtor": "2 days ago",
+      "TimeOnRealtor": "1 day ago",
       "Tags": [
         {
-          "Label": "2 days ago",
+          "Label": "1 day ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -3665,10 +3224,10 @@
       "RelativeURLFr": "/immobilier/29361386/10712-mapleshire-crescent-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639066292189930000",
-      "TimeOnRealtor": "3 days ago",
+      "TimeOnRealtor": "2 days ago",
       "Tags": [
         {
-          "Label": "3 days ago",
+          "Label": "2 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -3878,10 +3437,10 @@
         }
       ],
       "InsertedDateUTC": "639066221782130000",
-      "TimeOnRealtor": "3 days ago",
+      "TimeOnRealtor": "2 days ago",
       "Tags": [
         {
-          "Label": "3 days ago",
+          "Label": "2 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -4083,10 +3642,10 @@
         }
       ],
       "InsertedDateUTC": "639066214471100000",
-      "TimeOnRealtor": "3 days ago",
+      "TimeOnRealtor": "2 days ago",
       "Tags": [
         {
-          "Label": "3 days ago",
+          "Label": "2 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -4271,10 +3830,10 @@
         }
       ],
       "InsertedDateUTC": "639066197318570000",
-      "TimeOnRealtor": "3 days ago",
+      "TimeOnRealtor": "2 days ago",
       "Tags": [
         {
-          "Label": "3 days ago",
+          "Label": "2 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -4520,10 +4079,10 @@
       "ListingGMT": "-07:00:00",
       "Media": [],
       "InsertedDateUTC": "639066196600270000",
-      "TimeOnRealtor": "3 days ago",
+      "TimeOnRealtor": "2 days ago",
       "Tags": [
         {
-          "Label": "3 days ago",
+          "Label": "2 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -4782,10 +4341,10 @@
         }
       ],
       "InsertedDateUTC": "639066143153330000",
-      "TimeOnRealtor": "3 days ago",
+      "TimeOnRealtor": "2 days ago",
       "Tags": [
         {
-          "Label": "3 days ago",
+          "Label": "2 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -5518,7 +5077,15 @@
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
-      "OpenHouse": [],
+      "OpenHouse": [
+        {
+          "StartTime": "Feb 16/26 - 1:00 PM To 3:00 PM",
+          "StartDateTime": "16/02/2026 1:00:00 PM",
+          "EndDateTime": "16/02/2026 3:00:00 PM",
+          "FormattedDateTime": "Feb 16/26 - 1:00 PM To 3:00 PM",
+          "EventTypeID": "1"
+        }
+      ],
       "Business": {},
       "Land": {
         "SizeTotal": "368 m2|0-4,050 sqft",
@@ -6520,10 +6087,10 @@
         }
       ],
       "InsertedDateUTC": "639065428403970000",
-      "TimeOnRealtor": "4 days ago",
+      "TimeOnRealtor": "3 days ago",
       "Tags": [
         {
-          "Label": "4 days ago",
+          "Label": "3 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -6533,7 +6100,7 @@
     {
       "Id": "29357145",
       "MlsNumber": "A2285575",
-      "PublicRemarks": "This stunning recently renovated home offers modern luxury and incredible versatility in a move-in-ready package.  Step inside to discover a fresh, contemporary interior featuring vaulted ceilings and a main floor laundry, and brand new flooring throughout that flows seamlessly from room to room. The heart of the home is the beautifully renovated kitchen, complete with sleek  granite countertops and brand new stainless steel appliances.  Upstairs you'll find 3 well appointed bedrooms with a loft off the primary overlooking the living room.  All of this sits within a bright, open layout designed for today's lifestyle with a legal basement suite, with new windows and 2 spacious bedrooms, modern kitchen, and laundry for that mortgage helper.  Additional highlights include a double detached HEATED garage, perfect for year-round comfort, vehicle protection, workshop space, or extra storage.  Pride of ownership shows in every detail of this turn-key gem. Whether you're looking for a stylish primary residence or a smart investment opportunity, this home delivers modern upgrades, functionality, and future flexibility. 2 Decks, 2 new hot water tanks, 2 laundry facilities, 2 new exterior glass doors, new stucco, new fence, new concrete drive-way, new sod, and even the attic insulation is new!  Don't miss your chance to own this beautifully refreshed property that's tucked in a quiet area of Deer Run yet close to all amenities.  Schedule a showing today! (31642720)",
+      "PublicRemarks": "This stunning recently renovated home offers modern luxury and incredible versatility in a move-in-ready package.  Step inside to discover a fresh, contemporary interior featuring vaulted ceilings and a main floor laundry, and brand new flooring throughout that flows seamlessly from room to room. The heart of the home is the beautifully renovated kitchen, complete with sleek quartz countertops and brand new stainless steel appliances.  Upstairs you'll find 3 well appointed bedrooms with a loft off the primary overlooking the living room.  All of this sits within a bright, open layout designed for today's lifestyle with a legal basement suite, with new windows and 2 spacious bedrooms, modern kitchen, and laundry as a mortgage helper.  Additional highlights include a double detached HEATED garage, perfect for year-round comfort, vehicle protection, workshop space, or extra storage.  Pride of ownership shows in every detail of this turn-key gem. Whether you're looking for a stylish primary residence or a smart investment opportunity, this home delivers modern upgrades, functionality, and future flexibility. 2 Decks, 2 new hot water tanks, 2 laundry facilities, 2 new exterior glass doors, new stucco, new fence, new concrete drive-way, new sod, and even the attic insulation is new!  Don't miss your chance to own this beautifully refreshed property.  Schedule a showing today! (31642720)",
       "Building": {
         "BathroomTotal": "4",
         "Bedrooms": "3 + 2",
@@ -6622,10 +6189,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068742528470000/reb9/highres/5/A2285575_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068742528470000/reb9/medres/5/A2285575_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068742528470000/reb9/lowres/5/A2285575_1.jpg",
-            "LastUpdated": "2026-02-16 9:30:52 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639066199193600000/reb9/highres/5/A2285575_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639066199193600000/reb9/medres/5/A2285575_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639066199193600000/reb9/lowres/5/A2285575_1.jpg",
+            "LastUpdated": "2026-02-13 10:51:59 PM",
             "TypeId": "0"
           }
         ],
@@ -6668,17 +6235,16 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29357145/116-deer-run-close-se-calgary-deer-run",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-17 2:30:54 AM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-14 3:52:02 AM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29357145/116-deer-run-close-se-calgary-deer-run",
       "RelativeURLFr": "/immobilier/29357145/116-deer-run-close-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639065423582670000",
-      "TimeOnRealtor": "4 days ago",
+      "TimeOnRealtor": "3 days ago",
       "Tags": [
         {
-          "Label": "4 days ago",
+          "Label": "3 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -6868,10 +6434,10 @@
         }
       ],
       "InsertedDateUTC": "639065385747000000",
-      "TimeOnRealtor": "4 days ago",
+      "TimeOnRealtor": "3 days ago",
       "Tags": [
         {
-          "Label": "4 days ago",
+          "Label": "3 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -7076,10 +6642,10 @@
       "RelativeURLFr": "/immobilier/29355973/15-oakmount-place-sw-calgary",
       "Media": [],
       "InsertedDateUTC": "639065278070100000",
-      "TimeOnRealtor": "4 days ago",
+      "TimeOnRealtor": "3 days ago",
       "Tags": [
         {
-          "Label": "4 days ago",
+          "Label": "3 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -10012,11 +9578,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068640645830000/reb9/highres/5/A2285085_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068640645830000/reb9/medres/5/A2285085_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068640645830000/reb9/lowres/5/A2285085_1.jpg",
-            "Description": "Upper Mount Royal Updated Character Home!",
-            "LastUpdated": "2026-02-16 6:41:04 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639066762850900000/reb9/highres/5/A2285085_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639066762850900000/reb9/medres/5/A2285085_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639066762850900000/reb9/lowres/5/A2285085_1.jpg",
+            "LastUpdated": "2026-02-14 2:31:25 PM",
             "TypeId": "0"
           }
         ],
@@ -10057,8 +9622,7 @@
       "RelativeDetailsURL": "/real-estate/29353104/3020-14-street-sw-calgary-upper-mount-royal",
       "StatusId": "1",
       "OpenHouseInsertDateUTC": "2026-02-12 2:30:34 PM",
-      "PhotoChangeDateUTC": "2026-02-16 11:41:04 PM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-14 7:31:32 PM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29353104/3020-14-street-sw-calgary-upper-mount-royal",
       "RelativeURLFr": "/immobilier/29353104/3020-14-street-sw-calgary",
@@ -10847,10 +10411,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068748582970000/reb9/highres/8/A2285858_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068748582970000/reb9/medres/8/A2285858_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068748582970000/reb9/lowres/8/A2285858_1.jpg",
-            "LastUpdated": "2026-02-16 9:40:58 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639064439979430000/reb9/highres/8/A2285858_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639064439979430000/reb9/medres/8/A2285858_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639064439979430000/reb9/lowres/8/A2285858_1.jpg",
+            "LastUpdated": "2026-02-11 9:59:57 PM",
             "TypeId": "0"
           }
         ],
@@ -10872,16 +10436,6 @@
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
-      "OpenHouse": [
-        {
-          "StartTime": "Feb 22/26 - 1:00 PM To 4:00 PM",
-          "StartDateTime": "22/02/2026 1:00:00 PM",
-          "EndDateTime": "22/02/2026 4:00:00 PM",
-          "FormattedDateTime": "Feb 22/26 - 1:00 PM To 4:00 PM",
-          "Comments": "Open House access via the Showhome located at 39 Hotchkiss Way SE",
-          "EventTypeID": "1"
-        }
-      ],
       "Business": {},
       "Land": {
         "SizeTotal": "259.36 m2|0-4,050 sqft",
@@ -10895,16 +10449,10 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29352552/479-hotchkiss-manor-se-calgary-hotchkiss",
       "StatusId": "1",
-      "OpenHouseInsertDateUTC": "2026-02-17 2:49:26 AM",
-      "HasOpenHouseUpdate": true,
-      "PhotoChangeDateUTC": "2026-02-17 2:40:58 AM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-12 2:59:57 AM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29352552/479-hotchkiss-manor-se-calgary-hotchkiss",
       "RelativeURLFr": "/immobilier/29352552/479-hotchkiss-manor-se-calgary",
-      "ListingTimeZone": "Mountain Standard Time",
-      "ListingBoundary": "America/Edmonton",
-      "ListingGMT": "-07:00:00",
       "Media": [
         {
           "MediaCategoryId": "2",
@@ -10925,10 +10473,10 @@
         }
       ],
       "InsertedDateUTC": "639064619979370000",
-      "TimeOnRealtor": "5 days ago",
+      "TimeOnRealtor": "4 days ago",
       "Tags": [
         {
-          "Label": "5 days ago",
+          "Label": "4 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -11091,10 +10639,10 @@
         }
       ],
       "InsertedDateUTC": "639064408867800000",
-      "TimeOnRealtor": "5 days ago",
+      "TimeOnRealtor": "4 days ago",
       "Tags": [
         {
-          "Label": "5 days ago",
+          "Label": "4 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -12944,10 +12492,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068670546930000/reb9/highres/4/A2285594_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068670546930000/reb9/medres/4/A2285594_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068670546930000/reb9/lowres/4/A2285594_1.jpg",
-            "LastUpdated": "2026-02-16 7:30:54 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639065767087300000/reb9/highres/4/A2285594_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639065767087300000/reb9/medres/4/A2285594_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639065767087300000/reb9/lowres/4/A2285594_1.jpg",
+            "LastUpdated": "2026-02-13 10:51:48 AM",
             "TypeId": "0"
           }
         ],
@@ -12990,8 +12538,7 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29349243/412-athlone-road-se-calgary-acadia",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-17 12:30:56 AM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-13 3:51:49 PM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29349243/412-athlone-road-se-calgary-acadia",
       "RelativeURLFr": "/immobilier/29349243/412-athlone-road-se-calgary",
@@ -13827,10 +13374,10 @@
         }
       ],
       "InsertedDateUTC": "639063585439670000",
-      "TimeOnRealtor": "6 days ago",
+      "TimeOnRealtor": "5 days ago",
       "Tags": [
         {
-          "Label": "6 days ago",
+          "Label": "5 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -15278,10 +14825,10 @@
         }
       ],
       "InsertedDateUTC": "639062890763430000",
-      "TimeOnRealtor": "7 days ago",
+      "TimeOnRealtor": "6 days ago",
       "Tags": [
         {
-          "Label": "7 days ago",
+          "Label": "6 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -15444,10 +14991,10 @@
         }
       ],
       "InsertedDateUTC": "639062709936470000",
-      "TimeOnRealtor": "7 days ago",
+      "TimeOnRealtor": "6 days ago",
       "Tags": [
         {
-          "Label": "7 days ago",
+          "Label": "6 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -15610,10 +15157,10 @@
         }
       ],
       "InsertedDateUTC": "639062697932070000",
-      "TimeOnRealtor": "7 days ago",
+      "TimeOnRealtor": "6 days ago",
       "Tags": [
         {
-          "Label": "7 days ago",
+          "Label": "6 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -18131,11 +17678,11 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068694757170000/reb9/highres/7/A2283217_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068694757170000/reb9/medres/7/A2283217_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068694757170000/reb9/lowres/7/A2283217_1.jpg",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639059992601770000/reb9/highres/7/A2283217_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639059992601770000/reb9/medres/7/A2283217_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639059992601770000/reb9/lowres/7/A2283217_1.jpg",
             "Description": "front- 60'x125' lot",
-            "LastUpdated": "2026-02-16 8:11:15 PM",
+            "LastUpdated": "2026-02-06 6:27:40 PM",
             "TypeId": "0"
           }
         ],
@@ -18173,8 +17720,7 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29335769/3231-25-street-sw-calgary-richmond",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-17 1:11:24 AM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-06 11:27:40 PM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29335769/3231-25-street-sw-calgary-richmond",
       "RelativeURLFr": "/immobilier/29335769/3231-25-street-sw-calgary",
@@ -19562,7 +19108,7 @@
     {
       "Id": "29332634",
       "MlsNumber": "A2284108",
-      "PublicRemarks": "OPEN HOUSE Feb 14, 15, 16 th @ 1 pm -3 pm . Luxury, modern, and timeless fully renovated bungalow on a beautifully landscaped corner lot just one minute from Fish Creek Park!This serene and stylish 4-bedroom, 3-bathroom home offers 3,170 sq. ft. of developed living space and has been completely remodeled and fully finished with trendy finishes and thoughtful upgrades throughout. Poly-B plumbing removed, popcorn ceilings eliminated, vaulted ceilings, and all-new windows provide peace of mind and contemporary comfort.You’re welcomed by mature trees, lush gardens, and a paved walkway beside a brand-new fence leading to the covered front porch. Inside, durable tile flooring, fresh paint, updated floors, and an open, bright layout create an inviting first impression. The foyer flows into a cozy front den or formal living room with rich hardwood flooring, while soaring ceilings elevate the spacious formal dining area—perfect for large gatherings.The show-stopping kitchen features abundant modern cabinetry, quartz countertops and backsplash, stainless steel appliances, water filtration and softener, and a large eat-up island overlooking the family room. Relax by the gas fireplace framed by a contemporary feature wall and custom built-ins.The primary retreat offers direct access to the deck and backyard, along with a spa-inspired 5-piece ensuite showcasing a deep soaker tub, oversized walk-in shower, expansive vanity, private water closet, and generous walk-in closet. A bright second bedroom, modern 4-piece bathroom, and functional laundry/mud room with cabinetry and counter space complete the main level.Downstairs, enjoy a massive recreation room, two additional large bedrooms, a 3-piece bathroom, and a versatile office with sink and built-in cabinetry—ideal for working from home or creative space.Step outside to a stunning two-tier rebuilt deck, fully fenced and landscaped yard, relaxing gazebo, and hot tub—perfect for entertaining or unwinding. The front of t he home features an extra-large driveway, RV parking potential, and an insulated double attached garage.Additional highlights include central air conditioning, high-efficiency furnace, new lighting, and upgraded flooring throughout.An exceptional home in an unbeatable location—this is a must-see. Book your private showing today! (31616742)",
+      "PublicRemarks": "OPEN HOUSE Feb 14, 15, 16 th @ 1 pm -4 pm . Luxury, modern, and timeless fully renovated bungalow on a beautifully landscaped corner lot just one minute from Fish Creek Park!This serene and stylish 4-bedroom, 3-bathroom home offers 3,170 sq. ft. of developed living space and has been completely remodeled and fully finished with trendy finishes and thoughtful upgrades throughout. Poly-B plumbing removed, popcorn ceilings eliminated, vaulted ceilings, and all-new windows provide peace of mind and contemporary comfort.You’re welcomed by mature trees, lush gardens, and a paved walkway beside a brand-new fence leading to the covered front porch. Inside, durable tile flooring, fresh paint, updated floors, and an open, bright layout create an inviting first impression. The foyer flows into a cozy front den or formal living room with rich hardwood flooring, while soaring ceilings elevate the spacious formal dining area—perfect for large gatherings.The show-stopping kitchen features abundant modern cabinetry, quartz countertops and backsplash, stainless steel appliances, water filtration and softener, and a large eat-up island overlooking the family room. Relax by the gas fireplace framed by a contemporary feature wall and custom built-ins.The primary retreat offers direct access to the deck and backyard, along with a spa-inspired 5-piece ensuite showcasing a deep soaker tub, oversized walk-in shower, expansive vanity, private water closet, and generous walk-in closet. A bright second bedroom, modern 4-piece bathroom, and functional laundry/mud room with cabinetry and counter space complete the main level.Downstairs, enjoy a massive recreation room, two additional large bedrooms, a 3-piece bathroom, and a versatile office with sink and built-in cabinetry—ideal for working from home or creative space.Step outside to a stunning two-tier rebuilt deck, fully fenced and landscaped yard, relaxing gazebo, and hot tub—perfect for entertaining or unwinding. The front of t he home features an extra-large driveway, RV parking potential, and an insulated double attached garage.Additional highlights include central air conditioning, high-efficiency furnace, new lighting, and upgraded flooring throughout.An exceptional home in an unbeatable location—this is a must-see. Book your private showing today! (31616742)",
       "Building": {
         "BathroomTotal": "3",
         "Bedrooms": "2 + 2",
@@ -19666,10 +19212,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068581215770000/reb9/highres/8/A2284108_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068581215770000/reb9/medres/8/A2284108_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068581215770000/reb9/lowres/8/A2284108_1.jpg",
-            "LastUpdated": "2026-02-16 5:02:01 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639064279590230000/reb9/highres/8/A2284108_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639064279590230000/reb9/medres/8/A2284108_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639064279590230000/reb9/lowres/8/A2284108_1.jpg",
+            "LastUpdated": "2026-02-11 5:32:39 PM",
             "TypeId": "0"
           }
         ],
@@ -19695,6 +19241,15 @@
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
+      "OpenHouse": [
+        {
+          "StartTime": "Feb 16/26 - 1:00 PM To 4:00 PM",
+          "StartDateTime": "16/02/2026 1:00:00 PM",
+          "EndDateTime": "16/02/2026 4:00:00 PM",
+          "FormattedDateTime": "Feb 16/26 - 1:00 PM To 4:00 PM",
+          "EventTypeID": "1"
+        }
+      ],
       "Business": {},
       "Land": {
         "SizeTotal": "526.85 m2|4,051 - 7,250 sqft",
@@ -19710,8 +19265,7 @@
       "RelativeDetailsURL": "/real-estate/29332634/1414-shawnee-drive-calgary-shawnee-slopes",
       "StatusId": "1",
       "OpenHouseInsertDateUTC": "2026-02-10 9:05:06 PM",
-      "PhotoChangeDateUTC": "2026-02-16 10:02:01 PM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-11 10:32:46 PM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29332634/1414-shawnee-drive-calgary-shawnee-slopes",
       "RelativeURLFr": "/immobilier/29332634/1414-shawnee-drive-calgary",
@@ -23854,7 +23408,15 @@
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
-      "OpenHouse": [],
+      "OpenHouse": [
+        {
+          "StartTime": "Feb 16/26 - 1:00 PM To 3:00 PM",
+          "StartDateTime": "16/02/2026 1:00:00 PM",
+          "EndDateTime": "16/02/2026 3:00:00 PM",
+          "FormattedDateTime": "Feb 16/26 - 1:00 PM To 3:00 PM",
+          "EventTypeID": "1"
+        }
+      ],
       "Business": {},
       "Land": {
         "SizeTotal": "504 m2|4,051 - 7,250 sqft",
@@ -28311,6 +27873,194 @@
         }
       ],
       "InsertedDateUTC": "639054622218600000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29308886",
+      "MlsNumber": "A2282926",
+      "PublicRemarks": "Extensively updated and shows like a practically brand-new home in one of the community’s most desirable locations. Offering 1,985 sq. ft. of developed living space, this property is ideal for larger families, multi-generational living, or investors.The main floor features an updated kitchen with gas stove, upgraded appliance package, cozy fireplace, three bedrooms, a full bath, and a 3-piece ensuite. A rear entrance adds flexibility.The fully developed basement (illegal suite) includes a kitchen, two spacious bedrooms, a full bathroom, and separate laundry on both levels. A must-see oversized garage makes this home perfect for car enthusiasts or additional storage.Close to parks, shopping, amenities, and major routes—this is a turnkey property with flexibility, income potential, and long-term value. (31591812)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "3 + 2",
+        "SizeInterior": "1135 sqft",
+        "StoriesTotal": "1",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1135 sqft",
+            "AreaUnformatted": "1135 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2197256,
+          "Name": "Rana Matturi",
+          "Organization": {
+            "OrganizationID": 275497,
+            "Name": "eXp Realty",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638599226400000000/lowres/1265827.jpg",
+            "Address": {
+              "AddressText": "700 - 1816 Crowchild Trail NW|CALGARY, Alberta T2M3Y7",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "262-7653",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "648-2765",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "563452819"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/275497/exp-realty-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+            "PhotoLastupdate": "2024-08-22 11:24:00 AM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "710-1399",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://investingincalgary.ca/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/ranamatturi",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://www.instagram.com/calgary_realtor_rana/",
+              "WebsiteTypeId": "5"
+            },
+            {
+              "Website": "https://www.youtube.com/@Realtor_Rana",
+              "WebsiteTypeId": "7"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576534478"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638520666600000000/lowres/1445685.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Rana",
+          "LastName": "Matturi",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2197256/rana-matturi-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+          "AgentPhotoLastUpdated": "2024-05-23 13:11:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638520666600000000/highres/1445685.jpg",
+          "RankMyAgentKey": "97102",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$614,999",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "432 Ogden Drive SE|Calgary, Alberta T2C1W6",
+          "Longitude": "-114.018949218",
+          "Latitude": "50.983204454",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639057229526630000/reb9/highres/6/A2282926_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639057229526630000/reb9/medres/6/A2282926_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639057229526630000/reb9/lowres/6/A2282926_1.jpg",
+            "LastUpdated": "2026-02-03 1:42:32 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Detached Garage",
+            "Spaces": "2"
+          }
+        ],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Schools",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Detached Garage (2)",
+        "PriceUnformattedValue": "614999",
+        "ShortValue": "615K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "436 m2|4,051 - 7,250 sqft",
+        "SizeFrontage": "16.82 m",
+        "LandscapeFeatures": "Landscaped"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://youriguide.com/o2m4f_432_ogden_dr_se_calgary_ab/"
+      },
+      "PostalCode": "T2C1W6",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29308886/432-ogden-drive-se-calgary-ogden",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2026-02-03 6:42:32 PM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29308886/432-ogden-drive-se-calgary-ogden",
+      "RelativeURLFr": "/immobilier/29308886/432-ogden-drive-se-calgary",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/o2m4f_432_ogden_dr_se_calgary_ab/",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/o2m4f_432_ogden_dr_se_calgary_ab//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/o2m4f_432_ogden_dr_se_calgary_ab//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "639054621994300000",
       "TimeOnRealtor": "",
       "Tags": [],
       "UploadedBy": 9
@@ -50417,10 +50167,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068568736770000/reb9/highres/5/A2277225_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068568736770000/reb9/medres/5/A2277225_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068568736770000/reb9/lowres/5/A2277225_1.jpg",
-            "LastUpdated": "2026-02-16 4:41:13 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639067812756900000/reb9/highres/5/A2277225_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639067812756900000/reb9/medres/5/A2277225_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639067812756900000/reb9/lowres/5/A2277225_1.jpg",
+            "LastUpdated": "2026-02-15 7:41:15 PM",
             "TypeId": "0"
           }
         ],
@@ -50459,7 +50209,7 @@
       "StatusId": "1",
       "OpenHouseInsertDateUTC": "2026-01-06 9:34:20 PM",
       "PriceChangeDateUTC": "2026-02-07 10:34:46 PM",
-      "PhotoChangeDateUTC": "2026-02-16 9:41:16 PM",
+      "PhotoChangeDateUTC": "2026-02-16 12:41:18 AM",
       "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29217903/25-mckinley-bay-se-calgary-mckenzie-lake",
@@ -56449,6 +56199,257 @@
       "UploadedBy": 9
     },
     {
+      "Id": "29158575",
+      "MlsNumber": "A2273706",
+      "PublicRemarks": "Welcome to 143 Masters Link SE – where style, light, and thoughtful design converge in the award-winning lake community of Mahogany. From the moment you step inside, the Renew floor plan makes a striking first impression. A dramatic open-to-below feature, framed by elegant iron railing, connects the main and lower levels in a way that’s as rare as it is beautiful—allowing sunlight to cascade through every corner of the home. The main level showcases new luxury vinyl plank flooring and a bright, spacious living room that easily accommodates a large sectional and invites family and friends to gather. Transition effortlessly into the chef-inspired kitchen, where an oversized central island with dual waterfall granite edges becomes the showpiece. Complete with stainless steel appliances, pendant lighting, full tile backsplash, and a convenient pantry, this kitchen blends sophistication and practicality. The expanded dining area, highlighted by yet another soaring ceiling, creates the perfect atmosphere for dinners bathed in natural light; while a discreet half bath completes this level. Upstairs, discover three generous bedrooms and two full bathrooms, including a tranquil primary retreat featuring a four-piece ensuite and a large walk-in closet. Downstairs, the almost fully finished lower level continues to impress. With its open recreation room, a convenient office nook for remote work or study, and expansive storage and laundry areas, the design ensures comfort and functionality. Thanks to the open-to-below layout, even this level feels bright and connected. Outside, the stucco exterior adds refined curb appeal, while the large rear deck is perfect for BBQs, entertaining, or simply relaxing under the evening sky. The oversized double detached garage offers ample space and convenient lane access. Situated in the vibrant community of Mahogany, residents enjoy exclusive access to the lake, year-round recreation, scenic trails and ponds, and a lively mix of shops, cafés,  and amenities—all within walking distance. With quick connections to Stoney Trail and Deerfoot, this is the perfect blend of tranquility and convenience. 143 Masters Link SE—a home that feels both expansive and inviting, designed for those who appreciate light, connection, and the art of modern living. (31432281)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "2 + 1",
+        "SizeInterior": "1428.15 sqft",
+        "StoriesTotal": "2",
+        "Type": "House",
+        "Ammenities": "Clubhouse",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1428 sqft",
+            "AreaUnformatted": "1428 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1950243,
+          "Name": "Alexandria Stewart",
+          "Organization": {
+            "OrganizationID": 54492,
+            "Name": "Jayman Realty Inc.",
+            "Address": {
+              "AddressText": "#200, 3132 118TH AVENUE S.E.|CALGARY, Alberta T2Z3X1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "258-3772",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "723-7769",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54492/jayman-realty-inc-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
+            "PhotoLastupdate": "2024-01-08 6:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "224-3343",
+              "AreaCode": "587",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "723-7769",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://www.jayman.com/resources/jayman-realty/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576500926"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638820418200000000/lowres/1244469.jpg",
+          "Position": "Associate Broker",
+          "PermitFreetextEmail": true,
+          "FirstName": "Alexandria",
+          "LastName": "Stewart",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1950243/alexandria-stewart-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
+          "AgentPhotoLastUpdated": "2025-05-05 11:37:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638820418200000000/highres/1244469.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 1446910,
+          "Name": "Michael R. Laprairie",
+          "Organization": {
+            "OrganizationID": 54492,
+            "Name": "Jayman Realty Inc.",
+            "Address": {
+              "AddressText": "#200, 3132 118TH AVENUE S.E.|CALGARY, Alberta T2Z3X1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "258-3772",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "723-7769",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54492/jayman-realty-inc-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
+            "PhotoLastupdate": "2024-01-08 6:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "852-9626",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "592-7595",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.jayman.com/why-buy-a-jayman/realty",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/JaymanRealtyInc",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://linkedin.com/in/michael-laprairie-a8964590",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "https://www.instagram.com/mike_jayman_realty/",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576517214"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638578554600000000/lowres/1013119.jpg",
+          "Position": "Broker of Record",
+          "PermitFreetextEmail": true,
+          "FirstName": "Michael",
+          "LastName": "Laprairie",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1446910/michael-laprairie-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
+          "AgentPhotoLastUpdated": "2024-07-29 13:11:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638578554600000000/highres/1013119.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$585,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "143 Masters Link SE|Calgary, Alberta T3M2N1",
+          "Longitude": "-113.907655315",
+          "Latitude": "50.897300291",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639062767272530000/reb9/highres/6/A2273706_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639062767272530000/reb9/medres/6/A2273706_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639062767272530000/reb9/lowres/6/A2273706_1.jpg",
+            "LastUpdated": "2026-02-09 11:32:07 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Detached Garage",
+            "Spaces": "2"
+          }
+        ],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping, Water Nearby",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Detached Garage (2)",
+        "PriceUnformattedValue": "585000",
+        "ShortValue": "585K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "256 m2|0-4,050 sqft",
+        "SizeFrontage": "7.74 m"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://view.ricoh360.com/ccb0fa85-ac7d-4425-9c8b-ca106cf9451f"
+      },
+      "PostalCode": "T3M2N1",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29158575/143-masters-link-se-calgary-mahogany",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-02-04 11:04:44 PM",
+      "PriceChangeDateUTC": "2026-02-10 4:54:44 AM",
+      "PhotoChangeDateUTC": "2026-02-10 4:32:10 AM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29158575/143-masters-link-se-calgary-mahogany",
+      "RelativeURLFr": "/immobilier/29158575/143-masters-link-se-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://view.ricoh360.com/ccb0fa85-ac7d-4425-9c8b-ca106cf9451f",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "Other"
+        }
+      ],
+      "InsertedDateUTC": "639003761730530000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
       "Id": "29156030",
       "MlsNumber": "A2273453",
       "PublicRemarks": "Nestled in the heart of Copperfield, this beautifully maintained, air-conditioned single-family home (with a number of furniture additions included in the price) offers nearly 1,600 square feet of developed living space and a maintenance-free backyard with an oversized deck. It provides plenty of room for your growing family. With five spacious bedrooms and four bathrooms, this property ensures that everyone has their own comfortable space to relax and unwind. Situated on a quiet close facing a park and green space, the home enjoys a peaceful setting with convenient access to Copperfield Loop—a nine-kilometre trail near Heritage Pointe—and two regional pathways: a four-kilometre paved multi-use trail connecting Copperfield to 114 Avenue SE and a two-kilometre paved path located in East Copperfield. Upon entering, you are greeted by the warm ambiance of hardwood floors that flow seamlessly throughout the main floor. The kitchen is a true highlight, featuring elegant granite countertops, stainless steel appliances, and abundant cabinetry that will delight any home chef. The open-concept layout allows natural light from the south-facing front window to fill the living spaces, creating a bright and inviting atmosphere. The main floor also includes a spacious living room, a generous dining area, and a versatile flex space that can be used as a home office or tech center.Upstairs, the primary suite offers a generous layout, with a four-piece ensuite including a large soaker tub and separate shower. The second floor also includes two additional well-sized bedrooms, a main bathroom, and a conveniently located upper-level laundry.The fully developed basement, which has the potential to be suited by adding a side door (subject to city approval), includes two more bedrooms and a three-piece bathroom with a walk-in shower. This level is ideal for guests, extended family, or growing teenagers. The recreation room provides a perfect space for entertaining, relaxing, or en joying movie nights together.This home is conveniently located near transit (the Green Line is coming), schools within walking/busing distance (St. Isabella - K to 9, Copperfield School - K to 5 & Dr. Martha Cohen Middle School) and recreational areas (including the world's largest YMCA in Seton), making it an excellent choice for first-time homebuyers or families seeking a spacious and welcoming environment. Schedule a viewing today to experience the comfort, convenience, and charm that this Copperfield home has to offer. (31429483)",
@@ -57474,7 +57475,7 @@
         }
       ],
       "Property": {
-        "Price": "$639,900",
+        "Price": "$675,000",
         "Type": "Single Family",
         "Address": {
           "AddressText": "715 Copperpond Circle SE|Calgary, Alberta T2Z0R5",
@@ -57485,10 +57486,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068568696430000/reb9/highres/7/A2270187_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068568696430000/reb9/medres/7/A2270187_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068568696430000/reb9/lowres/7/A2270187_1.jpg",
-            "LastUpdated": "2026-02-16 4:41:09 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639058938608000000/reb9/highres/7/A2270187_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639058938608000000/reb9/medres/7/A2270187_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639058938608000000/reb9/lowres/7/A2270187_1.jpg",
+            "LastUpdated": "2026-02-05 1:11:00 PM",
             "TypeId": "0"
           }
         ],
@@ -57506,8 +57507,8 @@
           1
         ],
         "ParkingType": "Attached Garage (2)",
-        "PriceUnformattedValue": "639900",
-        "ShortValue": "640K",
+        "PriceUnformattedValue": "675000",
+        "ShortValue": "675K",
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
@@ -57526,10 +57527,7 @@
       "RelativeDetailsURL": "/real-estate/29142192/715-copperpond-circle-se-calgary-copperfield",
       "StatusId": "1",
       "OpenHouseInsertDateUTC": "2026-02-05 6:31:24 PM",
-      "PriceChangeDateUTC": "2026-02-16 9:55:54 PM",
-      "HasPriceUpdate": true,
-      "PhotoChangeDateUTC": "2026-02-16 9:41:12 PM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-05 6:11:14 PM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29142192/715-copperpond-circle-se-calgary-copperfield",
       "RelativeURLFr": "/immobilier/29142192/715-copperpond-circle-se-calgary",
@@ -68138,262 +68136,9 @@
   ],
   "rental": [
     {
-      "Id": "29364922",
-      "MlsNumber": "A2286731",
-      "PublicRemarks": "Welcome to 143 Masters Link SE – where style, light, and thoughtful design converge in the award-winning lake community of Mahogany. From the moment you step inside, the Renew floor plan makes a striking first impression. A dramatic open-to-below feature, framed by elegant iron railing, connects the main and lower levels in a way that’s as rare as it is beautiful—allowing sunlight to cascade through every corner of the home. The main level showcases new luxury vinyl plank flooring and a bright, spacious living room that easily accommodates a large sectional and invites family and friends to gather. Transition effortlessly into the chef-inspired kitchen, where an oversized central island with dual waterfall granite edges becomes the showpiece. Complete with stainless steel appliances, pendant lighting, full tile backsplash, and a convenient pantry, this kitchen blends sophistication and practicality. The expanded dining area, highlighted by yet another soaring ceiling, creates the perfect atmosphere for dinners bathed in natural light; while a discreet half bath completes this level. Upstairs, discover three generous bedrooms and two full bathrooms, including a tranquil primary retreat featuring a four-piece ensuite and a large walk-in closet. Downstairs, the almost fully finished lower level continues to impress. With its open recreation room, a convenient office nook for remote work or study, and expansive storage and laundry areas, the design ensures comfort and functionality. Thanks to the open-to-below layout, even this level feels bright and connected. Outside, the stucco exterior adds refined curb appeal, while the large rear deck is perfect for BBQs, entertaining, or simply relaxing under the evening sky. The oversized double detached garage offers ample space and convenient lane access. Situated in the vibrant community of Mahogany, residents enjoy exclusive access to the lake, year-round recreation, scenic trails and ponds, and a lively mix of shops, cafés,  and amenities—all within walking distance. With quick connections to Stoney Trail and Deerfoot, this is the perfect blend of tranquility and convenience. 143 Masters Link SE—a home that feels both expansive and inviting, designed for those who appreciate light, connection, and the art of modern living. (31651653)",
-      "Building": {
-        "BathroomTotal": "3",
-        "Bedrooms": "2 + 1",
-        "SizeInterior": "1428.15 sqft",
-        "StoriesTotal": "2",
-        "Type": "House",
-        "Ammenities": "Clubhouse",
-        "FloorAreaMeasurements": [
-          {
-            "Area": "1428 sqft",
-            "AreaUnformatted": "1428 sqft",
-            "Type": "Square Footage",
-            "Source": "",
-            "MeasureUnitId": "1",
-            "TypeId": "1",
-            "SourceId": "0",
-            "SortBy": "1"
-          }
-        ],
-        "HalfBathTotal": "1"
-      },
-      "Individual": [
-        {
-          "IndividualID": 1950243,
-          "Name": "Alexandria Stewart",
-          "Organization": {
-            "OrganizationID": 54492,
-            "Name": "Jayman Realty Inc.",
-            "Address": {
-              "AddressText": "#200, 3132 118TH AVENUE S.E.|CALGARY, Alberta T2Z3X1",
-              "PermitShowAddress": true
-            },
-            "Phones": [
-              {
-                "PhoneType": "Telephone",
-                "PhoneNumber": "258-3772",
-                "AreaCode": "403",
-                "PhoneTypeId": "1"
-              },
-              {
-                "PhoneType": "Fax",
-                "PhoneNumber": "723-7769",
-                "AreaCode": "403",
-                "PhoneTypeId": "4"
-              }
-            ],
-            "OrganizationType": "Firm",
-            "PermitFreetextEmail": true,
-            "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/54492/jayman-realty-inc-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
-            "PhotoLastupdate": "2024-01-08 6:34:00 PM"
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "224-3343",
-              "AreaCode": "587",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "723-7769",
-              "AreaCode": "403",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "https://www.jayman.com/resources/jayman-realty/",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "576500926"
-            }
-          ],
-          "Photo": "https://cdn.realtor.ca/individual/TS638820418200000000/lowres/1244469.jpg",
-          "Position": "Associate Broker",
-          "PermitFreetextEmail": true,
-          "FirstName": "Alexandria",
-          "LastName": "Stewart",
-          "CorporationDisplayTypeId": "0",
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/1950243/alexandria-stewart-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
-          "AgentPhotoLastUpdated": "2025-05-05 11:37:00",
-          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638820418200000000/highres/1244469.jpg",
-          "RankMyAgentKey": "",
-          "RealSatisfiedKey": "",
-          "TestimonialTreeKey": ""
-        },
-        {
-          "IndividualID": 1446910,
-          "Name": "Michael R. Laprairie",
-          "Organization": {
-            "OrganizationID": 54492,
-            "Name": "Jayman Realty Inc.",
-            "Address": {
-              "AddressText": "#200, 3132 118TH AVENUE S.E.|CALGARY, Alberta T2Z3X1",
-              "PermitShowAddress": true
-            },
-            "Phones": [
-              {
-                "PhoneType": "Telephone",
-                "PhoneNumber": "258-3772",
-                "AreaCode": "403",
-                "PhoneTypeId": "1"
-              },
-              {
-                "PhoneType": "Fax",
-                "PhoneNumber": "723-7769",
-                "AreaCode": "403",
-                "PhoneTypeId": "4"
-              }
-            ],
-            "OrganizationType": "Firm",
-            "PermitFreetextEmail": true,
-            "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/54492/jayman-realty-inc-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
-            "PhotoLastupdate": "2024-01-08 6:34:00 PM"
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "852-9626",
-              "AreaCode": "403",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "592-7595",
-              "AreaCode": "403",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.jayman.com/why-buy-a-jayman/realty",
-              "WebsiteTypeId": "1"
-            },
-            {
-              "Website": "https://www.facebook.com/JaymanRealtyInc",
-              "WebsiteTypeId": "2"
-            },
-            {
-              "Website": "https://linkedin.com/in/michael-laprairie-a8964590",
-              "WebsiteTypeId": "3"
-            },
-            {
-              "Website": "https://www.instagram.com/mike_jayman_realty/",
-              "WebsiteTypeId": "5"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "576517214"
-            }
-          ],
-          "Photo": "https://cdn.realtor.ca/individual/TS638578554600000000/lowres/1013119.jpg",
-          "Position": "Broker of Record",
-          "PermitFreetextEmail": true,
-          "FirstName": "Michael",
-          "LastName": "Laprairie",
-          "CorporationDisplayTypeId": "0",
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/1446910/michael-laprairie-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
-          "AgentPhotoLastUpdated": "2024-07-29 13:11:00",
-          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638578554600000000/highres/1013119.jpg",
-          "RankMyAgentKey": "",
-          "RealSatisfiedKey": "",
-          "TestimonialTreeKey": ""
-        }
-      ],
-      "Property": {
-        "Price": "$575,000",
-        "Type": "Single Family",
-        "Address": {
-          "AddressText": "143 Masters Link SE|Calgary, Alberta T3M2N1",
-          "Longitude": "-113.907655315",
-          "Latitude": "50.897300291",
-          "PermitShowAddress": true
-        },
-        "Photo": [
-          {
-            "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068571957530000/reb9/highres/1/A2286731_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068571957530000/reb9/medres/1/A2286731_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068571957530000/reb9/lowres/1/A2286731_1.jpg",
-            "LastUpdated": "2026-02-16 4:46:35 PM",
-            "TypeId": "0"
-          }
-        ],
-        "Parking": [
-          {
-            "Name": "Detached Garage",
-            "Spaces": "2"
-          }
-        ],
-        "ParkingSpaceTotal": "2",
-        "TypeId": "300",
-        "OwnershipType": "Freehold",
-        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping, Water Nearby",
-        "OwnershipTypeGroupIds": [
-          1
-        ],
-        "ParkingType": "Detached Garage (2)",
-        "PriceUnformattedValue": "575000",
-        "ShortValue": "575K",
-        "PriceChangeTimeOnRealtor": "",
-        "PriceChangeTagDateUTC": "12:00:00 AM"
-      },
-      "Business": {},
-      "Land": {
-        "SizeTotal": "256 m2|0-4,050 sqft",
-        "SizeFrontage": "7.74 m"
-      },
-      "AlternateURL": {
-        "VideoLink": "https://view.ricoh360.com/ccb0fa85-ac7d-4425-9c8b-ca106cf9451f"
-      },
-      "PostalCode": "T3M2N1",
-      "HistoricalDataIsCleared": false,
-      "ProvinceName": "Alberta",
-      "RelativeDetailsURL": "/real-estate/29364922/143-masters-link-se-calgary-mahogany",
-      "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-16 9:46:35 PM",
-      "HasNewImageUpdate": true,
-      "Distance": "",
-      "RelativeURLEn": "/real-estate/29364922/143-masters-link-se-calgary-mahogany",
-      "RelativeURLFr": "/immobilier/29364922/143-masters-link-se-calgary",
-      "Media": [
-        {
-          "MediaCategoryId": "2",
-          "MediaCategoryURL": "https://view.ricoh360.com/ccb0fa85-ac7d-4425-9c8b-ca106cf9451f",
-          "Description": "VideoTourWebsite",
-          "Order": 1,
-          "VideoType": "Other"
-        }
-      ],
-      "InsertedDateUTC": "639068751957370000",
-      "TimeOnRealtor": "5 hours ago",
-      "Tags": [
-        {
-          "Label": "5 hours ago",
-          "HTMLColorCode": "#23A1C0",
-          "ListingTagTypeID": "1"
-        }
-      ],
-      "UploadedBy": 9
-    },
-    {
       "Id": "29363655",
       "MlsNumber": "A2286552",
-      "PublicRemarks": "| 3 BEDS | 2 BATHS | ILLEGAL SUITE | Convenient Location! | Welcome home to this bright and inviting bungalow located in the community of Ogden. The main floor living area features large windows that flood the space with natural light, creating a warm and welcoming atmosphere, and seamlessly flows into the kitchen. The kitchen is complete with a centre island and raised eating bar, pendant lighting, pantry, and stainless steel appliances, making it both functional and perfect for everyday living or entertaining. This level offers two bedrooms, including a spacious primary bedroom featuring a generously sized walk-in closet with plenty of room for storage and organization. A full 4-piece bathroom completes the main floor. Downstairs, the basement features a separate entrance and includes a comfortable living area, kitchen, additional bedroom, and a 3-piece bathroom, offering great flexibility for extended family or additional living space. The home is also equipped with a CitySoft Water Conditioning System, a valuable upgrade that enhances water quality and helps reduce scale buildup for added comfort and long-term home care. Step outside to enjoy the large backyard, offering plenty of space to relax, garden, or entertain. The patio area and hot tub create the perfect setting for summer gatherings or unwinding after a long day. The extended front driveway provides ample parking for multiple vehicles. Conveniently located close to shopping, parks, schools, transit, and more, this home combines space, functionality, and accessibility. Do not miss this opportunity. Call your favourite agent to book a showing today. (31650207)",
+      "PublicRemarks": "| 3 BEDS | 2 BATHS | ILLEGAL SUITE | Convenient Location! | Welcome home to this bright and inviting bungalow located in the community of Ogden. The main floor living area features large windows that flood the space with natural light, creating a warm and welcoming atmosphere, and seamlessly flows into the kitchen. The kitchen is complete with a centre island and raised eating bar, pendant lighting, pantry, and stainless steel appliances, making it both functional and perfect for everyday living or entertaining. This level offers two bedrooms, including a spacious primary bedroom featuring a generously sized walk-in closet with plenty of room for storage and organization. A full 4-piece bathroom completes the main floor. Downstairs, the basement features a separate entrance and includes a comfortable living area, kitchen, additional bedroom, and a 3-piece bathroom, offering great flexibility for extended family or additional living space. The home is also equipped with a water softener system, adding extra convenience and comfort to your daily routine. Step outside to enjoy the large backyard, offering plenty of space to relax, garden, or entertain. The patio area and jacuzzi create the perfect setting for summer gatherings or unwinding after a long day. The extended front driveway provides ample parking for multiple vehicles. Conveniently located close to shopping, parks, schools, transit, and more, this home combines space, functionality, and accessibility. Do not miss this opportunity. Call your favourite agent to book a showing today. (31650207)",
       "Building": {
         "BathroomTotal": "2",
         "Bedrooms": "2 + 1",
@@ -68495,10 +68240,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068628702270000/reb9/highres/2/A2286552_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068628702270000/reb9/medres/2/A2286552_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068628702270000/reb9/lowres/2/A2286552_1.jpg",
-            "LastUpdated": "2026-02-16 6:21:10 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639068419281370000/reb9/highres/2/A2286552_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639068419281370000/reb9/medres/2/A2286552_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639068419281370000/reb9/lowres/2/A2286552_1.jpg",
+            "LastUpdated": "2026-02-16 12:32:08 PM",
             "TypeId": "0"
           }
         ],
@@ -68530,17 +68275,17 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29363655/7139-18-street-se-calgary-ogden",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-16 11:21:11 PM",
+      "PhotoChangeDateUTC": "2026-02-16 5:32:09 PM",
       "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29363655/7139-18-street-se-calgary-ogden",
       "RelativeURLFr": "/immobilier/29363655/7139-18-street-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639067984652830000",
-      "TimeOnRealtor": "1 day ago",
+      "TimeOnRealtor": "20 hours ago",
       "Tags": [
         {
-          "Label": "1 day ago",
+          "Label": "20 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -68734,10 +68479,10 @@
         }
       ],
       "InsertedDateUTC": "639066186554270000",
-      "TimeOnRealtor": "3 days ago",
+      "TimeOnRealtor": "2 days ago",
       "Tags": [
         {
-          "Label": "3 days ago",
+          "Label": "2 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -68849,10 +68594,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068599127700000/reb9/highres/2/A2284372_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068599127700000/reb9/medres/2/A2284372_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068599127700000/reb9/lowres/2/A2284372_1.jpg",
-            "LastUpdated": "2026-02-16 5:31:52 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639066199010900000/reb9/highres/2/A2284372_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639066199010900000/reb9/medres/2/A2284372_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639066199010900000/reb9/lowres/2/A2284372_1.jpg",
+            "LastUpdated": "2026-02-13 10:51:41 PM",
             "TypeId": "0"
           }
         ],
@@ -68892,8 +68637,7 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29359523/26-somercrest-circle-sw-calgary-somerset",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-16 10:31:55 PM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-14 3:51:48 AM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29359523/26-somercrest-circle-sw-calgary-somerset",
       "RelativeURLFr": "/immobilier/29359523/26-somercrest-circle-sw-calgary",
@@ -70967,10 +70711,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068748582970000/reb9/highres/8/A2285858_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068748582970000/reb9/medres/8/A2285858_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068748582970000/reb9/lowres/8/A2285858_1.jpg",
-            "LastUpdated": "2026-02-16 9:40:58 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639064439979430000/reb9/highres/8/A2285858_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639064439979430000/reb9/medres/8/A2285858_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639064439979430000/reb9/lowres/8/A2285858_1.jpg",
+            "LastUpdated": "2026-02-11 9:59:57 PM",
             "TypeId": "0"
           }
         ],
@@ -70992,16 +70736,6 @@
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
-      "OpenHouse": [
-        {
-          "StartTime": "Feb 22/26 - 1:00 PM To 4:00 PM",
-          "StartDateTime": "22/02/2026 1:00:00 PM",
-          "EndDateTime": "22/02/2026 4:00:00 PM",
-          "FormattedDateTime": "Feb 22/26 - 1:00 PM To 4:00 PM",
-          "Comments": "Open House access via the Showhome located at 39 Hotchkiss Way SE",
-          "EventTypeID": "1"
-        }
-      ],
       "Business": {},
       "Land": {
         "SizeTotal": "259.36 m2|0-4,050 sqft",
@@ -71015,16 +70749,10 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29352552/479-hotchkiss-manor-se-calgary-hotchkiss",
       "StatusId": "1",
-      "OpenHouseInsertDateUTC": "2026-02-17 2:49:26 AM",
-      "HasOpenHouseUpdate": true,
-      "PhotoChangeDateUTC": "2026-02-17 2:40:58 AM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-12 2:59:57 AM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29352552/479-hotchkiss-manor-se-calgary-hotchkiss",
       "RelativeURLFr": "/immobilier/29352552/479-hotchkiss-manor-se-calgary",
-      "ListingTimeZone": "Mountain Standard Time",
-      "ListingBoundary": "America/Edmonton",
-      "ListingGMT": "-07:00:00",
       "Media": [
         {
           "MediaCategoryId": "2",
@@ -71045,10 +70773,10 @@
         }
       ],
       "InsertedDateUTC": "639064619979370000",
-      "TimeOnRealtor": "5 days ago",
+      "TimeOnRealtor": "4 days ago",
       "Tags": [
         {
-          "Label": "5 days ago",
+          "Label": "4 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -78285,11 +78013,11 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068646508200000/reb9/highres/1/A2276351_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068646508200000/reb9/medres/1/A2276351_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068646508200000/reb9/lowres/1/A2276351_1.jpg",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639068460372930000/reb9/highres/1/A2276351_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639068460372930000/reb9/medres/1/A2276351_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639068460372930000/reb9/lowres/1/A2276351_1.jpg",
             "Description": "front",
-            "LastUpdated": "2026-02-16 6:50:50 PM",
+            "LastUpdated": "2026-02-16 1:40:37 PM",
             "TypeId": "0"
           }
         ],
@@ -78323,7 +78051,7 @@
       "RelativeDetailsURL": "/real-estate/29280009/158-somervale-close-sw-calgary-somerset",
       "StatusId": "1",
       "PriceChangeDateUTC": "2026-02-03 5:25:31 PM",
-      "PhotoChangeDateUTC": "2026-02-16 11:50:51 PM",
+      "PhotoChangeDateUTC": "2026-02-16 6:40:39 PM",
       "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29280009/158-somervale-close-sw-calgary-somerset",
@@ -83589,6 +83317,257 @@
         }
       ],
       "InsertedDateUTC": "639005145639570000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29158575",
+      "MlsNumber": "A2273706",
+      "PublicRemarks": "Welcome to 143 Masters Link SE – where style, light, and thoughtful design converge in the award-winning lake community of Mahogany. From the moment you step inside, the Renew floor plan makes a striking first impression. A dramatic open-to-below feature, framed by elegant iron railing, connects the main and lower levels in a way that’s as rare as it is beautiful—allowing sunlight to cascade through every corner of the home. The main level showcases new luxury vinyl plank flooring and a bright, spacious living room that easily accommodates a large sectional and invites family and friends to gather. Transition effortlessly into the chef-inspired kitchen, where an oversized central island with dual waterfall granite edges becomes the showpiece. Complete with stainless steel appliances, pendant lighting, full tile backsplash, and a convenient pantry, this kitchen blends sophistication and practicality. The expanded dining area, highlighted by yet another soaring ceiling, creates the perfect atmosphere for dinners bathed in natural light; while a discreet half bath completes this level. Upstairs, discover three generous bedrooms and two full bathrooms, including a tranquil primary retreat featuring a four-piece ensuite and a large walk-in closet. Downstairs, the almost fully finished lower level continues to impress. With its open recreation room, a convenient office nook for remote work or study, and expansive storage and laundry areas, the design ensures comfort and functionality. Thanks to the open-to-below layout, even this level feels bright and connected. Outside, the stucco exterior adds refined curb appeal, while the large rear deck is perfect for BBQs, entertaining, or simply relaxing under the evening sky. The oversized double detached garage offers ample space and convenient lane access. Situated in the vibrant community of Mahogany, residents enjoy exclusive access to the lake, year-round recreation, scenic trails and ponds, and a lively mix of shops, cafés,  and amenities—all within walking distance. With quick connections to Stoney Trail and Deerfoot, this is the perfect blend of tranquility and convenience. 143 Masters Link SE—a home that feels both expansive and inviting, designed for those who appreciate light, connection, and the art of modern living. (31432281)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "2 + 1",
+        "SizeInterior": "1428.15 sqft",
+        "StoriesTotal": "2",
+        "Type": "House",
+        "Ammenities": "Clubhouse",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1428 sqft",
+            "AreaUnformatted": "1428 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1950243,
+          "Name": "Alexandria Stewart",
+          "Organization": {
+            "OrganizationID": 54492,
+            "Name": "Jayman Realty Inc.",
+            "Address": {
+              "AddressText": "#200, 3132 118TH AVENUE S.E.|CALGARY, Alberta T2Z3X1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "258-3772",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "723-7769",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54492/jayman-realty-inc-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
+            "PhotoLastupdate": "2024-01-08 6:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "224-3343",
+              "AreaCode": "587",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "723-7769",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://www.jayman.com/resources/jayman-realty/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576500926"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638820418200000000/lowres/1244469.jpg",
+          "Position": "Associate Broker",
+          "PermitFreetextEmail": true,
+          "FirstName": "Alexandria",
+          "LastName": "Stewart",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1950243/alexandria-stewart-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
+          "AgentPhotoLastUpdated": "2025-05-05 11:37:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638820418200000000/highres/1244469.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 1446910,
+          "Name": "Michael R. Laprairie",
+          "Organization": {
+            "OrganizationID": 54492,
+            "Name": "Jayman Realty Inc.",
+            "Address": {
+              "AddressText": "#200, 3132 118TH AVENUE S.E.|CALGARY, Alberta T2Z3X1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "258-3772",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "723-7769",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54492/jayman-realty-inc-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
+            "PhotoLastupdate": "2024-01-08 6:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "852-9626",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "592-7595",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.jayman.com/why-buy-a-jayman/realty",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/JaymanRealtyInc",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://linkedin.com/in/michael-laprairie-a8964590",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "https://www.instagram.com/mike_jayman_realty/",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576517214"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638578554600000000/lowres/1013119.jpg",
+          "Position": "Broker of Record",
+          "PermitFreetextEmail": true,
+          "FirstName": "Michael",
+          "LastName": "Laprairie",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1446910/michael-laprairie-200-3132-118th-avenue-se-calgary-alberta-t2z3x1",
+          "AgentPhotoLastUpdated": "2024-07-29 13:11:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638578554600000000/highres/1013119.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$585,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "143 Masters Link SE|Calgary, Alberta T3M2N1",
+          "Longitude": "-113.907655315",
+          "Latitude": "50.897300291",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639062767272530000/reb9/highres/6/A2273706_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639062767272530000/reb9/medres/6/A2273706_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639062767272530000/reb9/lowres/6/A2273706_1.jpg",
+            "LastUpdated": "2026-02-09 11:32:07 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Detached Garage",
+            "Spaces": "2"
+          }
+        ],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping, Water Nearby",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Detached Garage (2)",
+        "PriceUnformattedValue": "585000",
+        "ShortValue": "585K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "256 m2|0-4,050 sqft",
+        "SizeFrontage": "7.74 m"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://view.ricoh360.com/ccb0fa85-ac7d-4425-9c8b-ca106cf9451f"
+      },
+      "PostalCode": "T3M2N1",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29158575/143-masters-link-se-calgary-mahogany",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-02-04 11:04:44 PM",
+      "PriceChangeDateUTC": "2026-02-10 4:54:44 AM",
+      "PhotoChangeDateUTC": "2026-02-10 4:32:10 AM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29158575/143-masters-link-se-calgary-mahogany",
+      "RelativeURLFr": "/immobilier/29158575/143-masters-link-se-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://view.ricoh360.com/ccb0fa85-ac7d-4425-9c8b-ca106cf9451f",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "Other"
+        }
+      ],
+      "InsertedDateUTC": "639003761730530000",
       "TimeOnRealtor": "",
       "Tags": [],
       "UploadedBy": 9

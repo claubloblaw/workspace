@@ -33,6 +33,22 @@ daily
 memory/2026-*.md
 memory/maintenance-log.md
 
+# Memory knowledge graph — personal/financial/client content
+memory/notes/marcel-*.md
+memory/notes/investment-*.md
+memory/notes/luxica-*.md
+memory/notes/meera-*.md
+memory/notes/nova-psychology-*.md
+memory/notes/godaddy-*.md
+memory/mocs/moc-finances.md
+memory/mocs/moc-business.md
+memory/mocs/moc-hub.md
+memory/ops/
+
+# Personal projects/docs
+projects/ceip-*
+projects/car-deals/
+
 # Brain notes with personal content
 brain/notes/Marcel*.md
 brain/notes/investment*.md
@@ -83,3 +99,5 @@ projects/x-digest/
 # Separate git repos (have their own remotes)
 projects/luxc/
 projects/valeriya/
+memory/mocs/moc-projects.md
+memory/mocs/moc-technical.md

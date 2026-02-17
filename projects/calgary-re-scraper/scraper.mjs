@@ -256,6 +256,18 @@ async function runProfile(profileKey) {
     seen.add(l.MlsNumber);
     return true;
   });
+
+  // Exclude Chestermere unless lakefront
+  allListings = allListings.filter(l => {
+    const addr = (l.Property?.Address?.AddressText || '').toLowerCase();
+    if (addr.includes('chestermere')) {
+      const remarks = (l.PublicRemarks || '').toLowerCase();
+      const isLakefront = remarks.includes('lake') || remarks.includes('lakefront') ||
+        remarks.includes('waterfront') || remarks.includes('water access');
+      return isLakefront;
+    }
+    return true;
+  });
   console.log(`  ${allListings.length} unique listings after dedup`);
 
   // Score and format
